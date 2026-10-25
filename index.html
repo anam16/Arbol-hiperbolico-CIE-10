@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>CIE-10-ES · Árbol hiperbólico</title>
+  <link rel="icon" href="data:,">
+  <!-- Librerías: D3 (leer datos) y d3-hypertree (dibujar el árbol) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree-light.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree.js"></script>
+
+  <style>
+   body { margin: 0; padding: 0 24px; font-family: system-ui, sans-serif; background: #fbfaf7; }
+.contenido {
+  display: flex;                 /* árbol y panel uno al lado del otro */
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.subtitulo { margin: -8px 0 16px; color: #5b6672; max-width: 70ch; }
+.leyenda { font-size: 13px; line-height: 1.8; }
+.punto { display: inline-block; width: 10px; height: 10px; border-radius: 50%;
+         margin-right: 6px; vertical-align: middle; }
+#arbol {
+  position: relative;
+  width: min(calc(100vw - 380px), calc(100vh - 190px));   /* deja sitio al panel */
+  aspect-ratio: 1;
+  flex-shrink: 0;
+}
+#panel {
+  width: 300px;
+  background: white;
+  border: 1px solid #e3e0d8;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 14px;
+}
+#panel h2 { font-size: 13px; text-transform: uppercase; color: #5b6672; margin: 0 0 8px; }
+#ruta { font-size: 12px; color: #5b6672; margin: 0; }
+#nombre { font-weight: 600; }
+.nota { font-size: 12px; color: #5b6672; }
+  </style>
+</head>
+<body>
+  <h1>CIE-10-ES Diagnósticos 2026</h1>
+    <p class="subtitulo">El capítulo 19 (lesiones traumáticas) concentra el
+    <b>55 %</b> de los 74.260 códigos de diagnóstico.
+    Pulsa un nodo para centrarlo; arrastra para navegar.</p>
+  <main class="contenido">
+    <div id="arbol"></div>
+
+    <aside id="panel">
+      <h2>Nodo seleccionado</h2>
+      <p id="ruta">—</p>
+      <p id="nombre">Pulsa un nodo del árbol</p>
+      <p>Códigos finales: <b id="n">—</b></p>
+      <p>% del total: <b id="pct">—</b></p>
+        <p class="leyenda">
+        <span style="color:#f2c94c">★</span> Raíz (toda la clasificación)<br>
+        <span class="punto" style="background:#c0392b"></span> Capítulo 19 (lesiones traumáticas)<br>
+        <span class="punto" style="background:#5b6b7a"></span> Resto de capítulos
+      </p>
+      <p class="nota">Área del círculo proporcional al número de códigos finales.
+        Las subcategorías (I21.0, I21.01…) no se dibujan: están contadas en su categoría.</p>
+    </aside>
+  </main>
+
+  <script>
+  // Acorta un texto largo y le pone "…" al final
+const corto = (texto, max = 28) =>
+  texto.length > max ? texto.slice(0, max - 1) + "…" : texto;
+
+// "LESIONES TRAUMÁTICAS (S00-T88)" → "Lesiones traumáticas"
+const tituloCapitulo = texto =>
+  texto.replace(/\s*\(.*\)$/, "")                         // quita el rango del final
+       .toLowerCase()
+       .replace(/^./, letra => letra.toUpperCase());       // primera letra en mayúscula
+  let maxN = 1;    // el capítulo con más códigos; sirve de referencia para los tamaños
+  let total = 1;   // códigos de toda la clasificación (para calcular el %)
+
+  // Muestra en el panel la información del nodo pulsado
+function mostrar(n) {
+  const d = n.data;
+  // ruta: los antepasados del nodo, sin la raíz ni el propio nodo
+  const ruta = n.ancestors().reverse().slice(1, -1).map(a => a.data.codigo).join(" › ");
+  document.getElementById("ruta").textContent = ruta || "Raíz";
+  document.getElementById("nombre").textContent = d.codigo + " · " + d.titulo;
+  document.getElementById("n").textContent = (+d.n_codigos).toLocaleString("es-ES");
+  const pct = 100 * d.n_codigos / total;
+  document.getElementById("pct").textContent =
+    pct.toLocaleString("es-ES", { maximumFractionDigits: pct < 1 ? 2 : 1 }) + " %";
+}
+
+  // 1. Crear el árbol con la librería d3-hypertree
+  const arbol = new hyt.Hypertree(
+    { parent: document.getElementById("arbol") },   // dónde dibujar
+    {
+      // 2. Se cargar los datos transformados previmente 
+      dataloader: listo =>
+        d3.csv("datos_arbol.csv").then(filas => {
+          // tabla padre-hijo en una jerarquía
+          const raiz = d3.stratify()
+            .id(d => d.codigo)
+            .parentId(d => d.padre || null)(filas); // se pone null prque la raiz tiene el padre vacio 
+
+          // reorganiza esa jerarquía en el formato que espera la librería: cada nodo con sus datos y una lista children con sus hijos
+          const anidar = nodo => ({
+            ...nodo.data,
+            children: nodo.children ? nodo.children.map(anidar) : undefined
+          });
+
+          // nº de códigos del capítulo más grande (referencia para los tamaños)
+          maxN = d3.max(filas.filter(f => f.nivel === "capitulo"), f => +f.n_codigos);
+          total = +raiz.data.n_codigos;
+
+          listo(anidar(raiz));
+        }),
+
+      // 3. Hacer que todos los nodos se puedan pulsar
+      dataInitBFS: (ht, n) => {
+        n.precalc.clickable = true;
+        n.precalc.cell = true;
+        // ¿a qué capítulo pertenece este nodo? (subiendo por sus antepasados)
+        const cap = n.ancestors().find(a => a.data.nivel === "capitulo");
+        n.precalc.capitulo = cap ? cap.data.codigo : null;
+      },
+
+      // 4. Texto de cada nodo: código + título corto
+      langInitBFS: (ht, n) => {
+        const d = n.data;
+        if (d.nivel === "raiz") {
+          n.precalc.label = "CIE-10-ES";
+        } else if (d.nivel === "capitulo") {
+          n.precalc.label = d.codigo + " " + corto(tituloCapitulo(d.titulo));
+        } else {
+          n.precalc.label = d.codigo + " " + corto(d.titulo);
+        }
+      },
+
+      // 5. Etiquetas, tamaño y color de los nodos
+      geometry: {
+        // Nuestra regla de etiquetas: las más importantes y sin solaparse
+        cacheUpdate: (ud, cache) => {
+          hyt.cacheUpdate(ud, cache);    // primero, la librería hace su cálculo normal
+
+          const candidatos = cache.unculledNodes
+            .filter(n => n.precalc.label && (!n.parent || !n.isOutλ))   // dentro del foco
+            .sort((a, b) => b.data.n_codigos - a.data.n_codigos);       // más códigos primero
+
+          const elegidas = [];
+          for (const n of candidatos) {
+            // ¿está lejos de todas las etiquetas ya elegidas?
+            const libre = elegidas.every(e =>
+              Math.hypot(e.cache.re - n.cache.re, e.cache.im - n.cache.im) > 0.12);
+            if (libre) elegidas.push(n);
+            if (elegidas.length === 15) break;
+          }
+          cache.labels = elegidas;       // estas son las que se dibujan
+        },
+        // ÁREA proporcional a n_codigos → el radio crece con la raíz cuadrada
+        nodeRadius: (ud, n) => n.data.nivel === "raiz"
+          ? 0.018  //tamaño nodo raiz
+          : 0.004 + 0.05 * Math.sqrt(+n.data.n_codigos / maxN),
+        nodeFilter: () => true,      // dibujar círculo en todos los nodos
+        layerOptions: {
+        
+          nodes: {
+            
+            // raíz: estrella
+            // capítulo 19: rojo (el hallazgo)
+            // resto: gris neutro
+            fill: n => n.data.nivel === "raiz" ? "#17212b"
+                     : n.precalc.capitulo === "Cap.19" ? "#c0392b"
+                     : "#5b6b7a"
+          }
+        }            
+      },             
+
+      // 6. Al pulsar un nodo: mostrar su información y llevarlo al centro
+      interaction: {
+        onNodeClick: (n, m, l) => {
+          mostrar(n);
+          arbol.api.goto({ re: -n.layout.z.re, im: -n.layout.z.im }, null)
+            .then(() => l.view.hypertree.drawDetailFrame());
+        }
+      }
+    }
+  );
+
+  // 7. Animación inicial (sin ella el disco aparece vacío)
+  arbol.initPromise.then(() => new Promise((ok, err) => arbol.animateUp(ok, err)));
+</script>
+</body>
+</html>

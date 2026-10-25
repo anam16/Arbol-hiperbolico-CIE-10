@@ -1,0 +1,2236 @@
+codigo,padre,titulo,nivel,n_codigos
+CIE-10-ES,,CIE-10-ES Diagnósticos 2026,raiz,74260
+Cap.01,CIE-10-ES,CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS (A00-B99),capitulo,1067
+A00-A09,Cap.01,ENFERMEDADES INFECCIOSAS INTESTINALES (A00-A09),bloque,79
+A00,A00-A09,Cólera,categoria,3
+A01,A00-A09,Fiebres tifoidea y paratifoidea,categoria,11
+A02,A00-A09,Otras infecciones debidas a Salmonella,categoria,11
+A03,A00-A09,Shigelosis,categoria,6
+A04,A00-A09,Otras infecciones intestinales bacterianas,categoria,11
+A05,A00-A09,"Otras intoxicaciones alimentarias bacterianas, no clasificadas bajo otro concepto",categoria,8
+A06,A00-A09,Amebiasis,categoria,12
+A07,A00-A09,Otras enfermedades intestinales debidas a protozoos,categoria,7
+A08,A00-A09,Infecciones intestinales debidas a virus y otros organismos especificados,categoria,9
+A09,A00-A09,"Gastroenteritis y colitis infecciosas, no especificadas",categoria,1
+A15-A19,Cap.01,TUBERCULOSIS (A15-A19),bloque,51
+A15,A15-A19,Tuberculosis respiratoria,categoria,7
+A17,A15-A19,Tuberculosis del sistema nervioso,categoria,7
+A18,A15-A19,Tuberculosis de otros órganos,categoria,32
+A19,A15-A19,Tuberculosis miliar,categoria,5
+A20-A28,Cap.01,CIERTAS ZOONOSIS BACTERIANAS (A20-A28),bloque,47
+A20,A20-A28,Peste,categoria,7
+A21,A20-A28,Tularemia,categoria,7
+A22,A20-A28,Carbunco [ántrax],categoria,6
+A23,A20-A28,Brucelosis,categoria,6
+A24,A20-A28,Muermo y melioidosis,categoria,5
+A25,A20-A28,Fiebres por mordedura de rata,categoria,3
+A26,A20-A28,Erisipeloide,categoria,4
+A27,A20-A28,Leptospirosis,categoria,4
+A28,A20-A28,"Otras enfermedades bacterianas zoonóticas, no clasificadas bajo otro concepto",categoria,5
+A30-A49,Cap.01,OTRAS ENFERMEDADES BACTERIANAS (A30-A49),bloque,115
+A30,A30-A49,Lepra [enfermedad de Hansen],categoria,8
+A31,A30-A49,Infecciones debidas a otras micobacterias,categoria,5
+A32,A30-A49,Listeriosis,categoria,8
+A33,A30-A49,Tétanos neonatal,categoria,1
+A34,A30-A49,Tétanos obstétrico,categoria,1
+A35,A30-A49,Otros tétanos,categoria,1
+A36,A30-A49,Difteria,categoria,12
+A37,A30-A49,Tos ferina,categoria,8
+A38,A30-A49,Escarlatina,categoria,4
+A39,A30-A49,Infección meningocócica,categoria,15
+A40,A30-A49,Sepsis estreptocócica,categoria,5
+A41,A30-A49,Otras sepsis,categoria,15
+A42,A30-A49,Actinomicosis,categoria,8
+A43,A30-A49,Nocardiosis,categoria,4
+A44,A30-A49,Bartonelosis,categoria,4
+A46,A30-A49,Erisipela,categoria,1
+A48,A30-A49,"Otras enfermedades bacterianas, no clasificadas bajo otro concepto",categoria,8
+A49,A30-A49,Infección bacteriana de localización no especificada,categoria,7
+A50-A64,Cap.01,INFECCIONES CON MODO DE TRANSMISIÓN PREDOMINANTEMENTE SEXUAL (A50-A64),bloque,142
+A50,A50-A64,Sífilis congénita,categoria,33
+A51,A50-A64,Sífilis precoz,categoria,15
+A52,A50-A64,Sífilis tardía,categoria,30
+A53,A50-A64,Otras sífilis y las no especificadas,categoria,2
+A54,A50-A64,Infección gonocócica,categoria,31
+A55,A50-A64,Linfogranuloma (venéreo) por clamidias,categoria,1
+A56,A50-A64,Otras enfermedades de transmisión sexual debidas a clamidias,categoria,10
+A57,A50-A64,Chancro blando,categoria,1
+A58,A50-A64,Granuloma inguinal,categoria,1
+A59,A50-A64,Tricomoniasis,categoria,7
+A60,A50-A64,Infección anogenital debida a virus del herpes [herpes simple],categoria,8
+A63,A50-A64,"Otras enfermedades de transmisión predominantemente sexual, no clasificadas bajo otro concepto",categoria,2
+A64,A50-A64,Enfermedad de transmisión sexual no especificada,categoria,1
+A65-A69,Cap.01,OTRAS ENFERMEDADES POR ESPIROQUETAS (A65-A69),bloque,28
+A65,A65-A69,Sífilis no venérea,categoria,1
+A66,A65-A69,Pian,categoria,10
+A67,A65-A69,Pinta [carate],categoria,5
+A68,A65-A69,Fiebre recidivante,categoria,3
+A69,A65-A69,Otras infecciones por espiroquetas,categoria,9
+A70-A74,Cap.01,OTRAS ENFERMEDADES CAUSADAS POR CLAMIDIAS (A70-A74),bloque,8
+A70,A70-A74,Clamidia psittaci infecciones,categoria,1
+A71,A70-A74,Tracoma,categoria,3
+A74,A70-A74,Otras enfermedades causadas por clamidias,categoria,4
+A75-A79,Cap.01,RICKETTSIOSIS (A75-A79),bloque,21
+A75,A75-A79,Fiebre tifoidea,categoria,5
+A77,A75-A79,Fiebre maculosa [rickettsiosis transmitida por garrapatas],categoria,9
+A78,A75-A79,Fiebre Q,categoria,1
+A79,A75-A79,Otras rickettsiosis,categoria,6
+A80-A89,Cap.01,INFECCIONES VIRALES Y POR PRIONES DEL SISTEMA NERVIOSO CENTRAL (A80-A89),bloque,48
+A80,A80-A89,Poliomielitis aguda,categoria,7
+A81,A80-A89,Infecciones por virus atípico del sistema nervioso central,categoria,10
+A82,A80-A89,Rabia,categoria,3
+A83,A80-A89,Encefalitis viral transmitida por mosquitos,categoria,9
+A84,A80-A89,Encefalitis viral transmitida por garrapatas,categoria,5
+A85,A80-A89,"Otras encefalitis virales, no clasificadas bajo otro concepto",categoria,4
+A86,A80-A89,"Encefalitis viral, no especificada",categoria,1
+A87,A80-A89,Meningitis viral,categoria,5
+A88,A80-A89,"Otras infecciones virales del sistema nervioso central, no clasificadas bajo otro concepto",categoria,3
+A89,A80-A89,"Infección viral del sistema nervioso central, no especificada",categoria,1
+A90-A99,Cap.01,FIEBRES VIRALES TRANSMITIDAS POR ARTRÓPODOS Y FIEBRES VIRALES HEMORRÁGICAS (A90-A99),bloque,34
+A90,A90-A99,Fiebre del dengue [dengue clásico],categoria,1
+A91,A90-A99,Fiebre del dengue hemorrágico,categoria,1
+A92,A90-A99,Otras fiebres virales transmitidas por mosquitos,categoria,11
+A93,A90-A99,"Otras fiebres virales transmitidas por artrópodos, no clasificadas bajo otro concepto",categoria,4
+A94,A90-A99,"Fiebre viral transmitida por artrópodos, no especificada",categoria,1
+A95,A90-A99,Fiebre amarilla,categoria,3
+A96,A90-A99,Fiebre hemorrágica por arenavirus,categoria,5
+A98,A90-A99,"Otras fiebres virales hemorrágicas, no clasificadas bajo otro concepto",categoria,7
+A99,A90-A99,"Fiebre viral hemorrágica, no especificada",categoria,1
+B00-B09,Cap.01,INFECCIONES VIRALES CARACTERIZADAS POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS (B00-B09),bloque,82
+B00,B00-B09,Infecciones por herpesvirus [herpes simple],categoria,15
+B01,B00-B09,Varicela,categoria,7
+B02,B00-B09,Herpes zóster,categoria,16
+B03,B00-B09,Viruela,categoria,1
+B04,B00-B09,Viruela de los monos,categoria,1
+B05,B00-B09,Sarampión,categoria,8
+B06,B00-B09,Rubeola [sarampión alemán],categoria,8
+B07,B00-B09,Verrugas víricas,categoria,3
+B08,B00-B09,"Otras infecciones víricas caracterizadas por lesiones de la piel y de las mucosas, no clasificadas bajo otro concepto",categoria,22
+B09,B00-B09,"Infección viral no especificada, caracterizada por lesiones de la piel y de las membranas mucosas",categoria,1
+B10-B10,Cap.01,OTROS HERPESVIRUS HUMANOS (B10),bloque,5
+B10,B10-B10,Otros herpesvirus humanos,categoria,5
+B15-B19,Cap.01,HEPATITIS VIRAL (B15-B19),bloque,23
+B15,B15-B19,Hepatitis aguda tipo A,categoria,2
+B16,B15-B19,Hepatitis aguda tipo B,categoria,4
+B17,B15-B19,Otras hepatitis víricas agudas,categoria,6
+B18,B15-B19,Hepatitis vírica crónica,categoria,5
+B19,B15-B19,"Hepatitis vírica, no especificada",categoria,6
+B20-B20,Cap.01,ENFERMEDAD POR VIRUS DE LA INMUNODEFICIENCIA HUMANA [VIH] (B20),bloque,1
+B20,B20-B20,Enfermedad por virus de la inmunodeficiencia humana [VIH],categoria,1
+B25-B34,Cap.01,OTRAS ENFERMEDADES VIRALES (B25-B34),bloque,55
+B25,B25-B34,Enfermedad por citomegalovirus,categoria,5
+B26,B25-B34,Parotiditis infecciosa,categoria,11
+B27,B25-B34,Mononucleosis infecciosa,categoria,16
+B30,B25-B34,Conjuntivitis viral,categoria,6
+B33,B25-B34,"Otras enfermedades virales, no clasificadas bajo otro concepto",categoria,10
+B34,B25-B34,Infección viral de localización no especificada,categoria,7
+B35-B49,Cap.01,MICOSIS (B35-B49),bloque,104
+B35,B35-B49,Dermatofitosis,categoria,9
+B36,B35-B49,Otras micosis superficiales,categoria,6
+B37,B35-B49,Candidiasis,categoria,17
+B38,B35-B49,Coccidioidomicosis,categoria,9
+B39,B35-B49,Histoplasmosis,categoria,7
+B40,B35-B49,Blastomicosis,categoria,8
+B41,B35-B49,Paracoccidioidomicosis,categoria,4
+B42,B35-B49,Esporotricosis,categoria,7
+B43,B35-B49,Cromomicosis y absceso feomicótico,categoria,5
+B44,B35-B49,Aspergilosis,categoria,7
+B45,B35-B49,Criptococosis,categoria,7
+B46,B35-B49,Cigomicosis,categoria,8
+B47,B35-B49,Micetoma,categoria,3
+B48,B35-B49,"Otras micosis, no clasificadas bajo otro concepto",categoria,6
+B49,B35-B49,"Micosis, no especificadas",categoria,1
+B50-B64,Cap.01,ENFERMEDADES CAUSADAS POR PROTOZOOS (B50-B64),bloque,57
+B50,B50-B64,Paludismo [malaria] debido a Plasmodium falciparum,categoria,3
+B51,B50-B64,Paludismo [malaria] debido a Plasmodium vivax,categoria,3
+B52,B50-B64,Paludismo [malaria] debido a Plasmodium malariae,categoria,3
+B53,B50-B64,Otras formas de malaria especificadas,categoria,3
+B54,B50-B64,Paludismo [malaria] no especificado,categoria,1
+B55,B50-B64,Leishmaniasis,categoria,4
+B56,B50-B64,Tripanosomiasis africana,categoria,3
+B57,B50-B64,Enfermedad de Chagas,categoria,12
+B58,B50-B64,Toxoplasmosis,categoria,11
+B59,B50-B64,Neumocistosis,categoria,1
+B60,B50-B64,"Otras enfermedades debidas a protozoos, no clasificadas bajo otro concepto",categoria,12
+B64,B50-B64,"Enfermedad debida a protozoos, no especificada",categoria,1
+B65-B83,Cap.01,HELMINTIASIS (B65-B83),bloque,85
+B65,B65-B83,Esquistosomiasis [bilharziasis],categoria,6
+B66,B65-B83,Otras infecciones debidas a trematodos,categoria,8
+B67,B65-B83,Equinococosis,categoria,14
+B68,B65-B83,Teniasis,categoria,3
+B69,B65-B83,Cisticercosis,categoria,5
+B70,B65-B83,Difilobotriasis y esparganosis,categoria,2
+B71,B65-B83,Otras infecciones debidas a cestodos,categoria,4
+B72,B65-B83,Dracontiasis,categoria,1
+B73,B65-B83,Oncocercosis,categoria,5
+B74,B65-B83,Filariasis,categoria,7
+B75,B65-B83,Triquinosis,categoria,1
+B76,B65-B83,Anquilostomiasis,categoria,4
+B77,B65-B83,Ascariasis,categoria,4
+B78,B65-B83,Estrongiloidiasis,categoria,4
+B79,B65-B83,Tricuriasis,categoria,1
+B80,B65-B83,Enterobiasis,categoria,1
+B81,B65-B83,"Otras helmintiasis intestinales, no clasificadas bajo otro concepto",categoria,6
+B82,B65-B83,"Parasitosis intestinales, no especificadas",categoria,2
+B83,B65-B83,Otras helmintiasis,categoria,7
+B85-B89,Cap.01,"PEDICULOSIS, ACARIASIS Y OTRAS INFESTACIONES (B85-B89)",bloque,22
+B85,B85-B89,Pediculosis e infestación por piojos,categoria,5
+B86,B85-B89,Escabiosis,categoria,1
+B87,B85-B89,Miasis,categoria,9
+B88,B85-B89,Otras infestaciones,categoria,6
+B89,B85-B89,"Enfermedad parasitaria, no especificada",categoria,1
+B90-B94,Cap.01,SECUELAS DE ENFERMEDADES INFECCIOSAS Y PARASITARIAS (B90-B94),bloque,12
+B90,B90-B94,Secuelas de tuberculosis,categoria,5
+B91,B90-B94,Secuelas de poliomielitis,categoria,1
+B92,B90-B94,Secuelas de lepra,categoria,1
+B94,B90-B94,Secuelas de otras enfermedades infecciosas y parasitarias y de las no especificadas,categoria,5
+B95-B97,Cap.01,AGENTES INFECCIOSOS BACTERIANOS Y VIRALES (B95-B97),bloque,46
+B95,B95-B97,"Streptococcus, Staphylococcus y Enterococos como causa de enfermedades clasificadas bajo otro concepto",categoria,10
+B96,B95-B97,Otros agentes bacterianos como causa de enfermedades clasificadas bajo otro concepto,categoria,16
+B97,B95-B97,Agentes virales como causa de enfermedades clasificadas bajo otro concepto,categoria,20
+B99-B99,Cap.01,OTRAS ENFERMEDADES INFECCIOSAS (B99),bloque,2
+B99,B99-B99,Otras enfermedades infecciosas y las no especificadas,categoria,2
+Cap.02,CIE-10-ES,NEOPLASIAS (C00-D49),capitulo,1724
+C00-C96,Cap.02,NEOPLASIAS MALIGNAS (C00-C96),bloque,1223
+C00-C14,C00-C96,"NEOPLASIAS MALIGNAS DE LABIO, CAVIDAD ORAL Y FARINGE (C00-C14)",bloque,65
+C00,C00-C14,Neoplasia maligna de labio,categoria,9
+C01,C00-C14,Neoplasia maligna de base de la lengua,categoria,1
+C02,C00-C14,Neoplasia maligna de otras partes de la lengua y de las no especificadas,categoria,7
+C03,C00-C14,Neoplasia maligna de encía,categoria,3
+C04,C00-C14,Neoplasia maligna de suelo de la boca,categoria,4
+C05,C00-C14,Neoplasia maligna del paladar,categoria,5
+C06,C00-C14,Neoplasia maligna de otras partes de la boca y las no especificadas,categoria,6
+C07,C00-C14,Neoplasia maligna de glándula parótida,categoria,1
+C08,C00-C14,Neoplasia maligna de otras glándulas salivales mayores y las no especificadas,categoria,3
+C09,C00-C14,Neoplasia maligna de amígdala,categoria,4
+C10,C00-C14,Neoplasia maligna de orofaringe,categoria,7
+C11,C00-C14,Neoplasia maligna de nasofaringe,categoria,6
+C12,C00-C14,Neoplasia maligna de seno piriforme,categoria,1
+C13,C00-C14,Neoplasia maligna de hipofaringe,categoria,5
+C14,C00-C14,"Neoplasia maligna de otras localizaciones y las mal definidas en labio, cavidad oral y faringe",categoria,3
+C15-C26,C00-C96,NEOPLASIAS MALIGNAS DE ÓRGANOS DIGESTIVOS (C15-C26),bloque,60
+C15,C15-C26,Neoplasia maligna de esófago,categoria,5
+C16,C15-C26,Neoplasia maligna de estómago,categoria,9
+C17,C15-C26,Neoplasia maligna de intestino delgado,categoria,6
+C18,C15-C26,Neoplasia maligna de colon,categoria,10
+C19,C15-C26,Neoplasia maligna de unión rectosigmoidea,categoria,1
+C20,C15-C26,Neoplasia maligna de recto,categoria,1
+C21,C15-C26,Neoplasia maligna de ano y canal anal,categoria,4
+C22,C15-C26,Neoplasia maligna de hígado y vías biliares intrahepáticas,categoria,8
+C23,C15-C26,Neoplasia maligna de vesícula biliar,categoria,1
+C24,C15-C26,Neoplasia maligna de otras partes de tracto biliar y las no especificadas,categoria,4
+C25,C15-C26,Neoplasia maligna de páncreas,categoria,8
+C26,C15-C26,Neoplasia maligna de otros órganos digestivos y de los mal definidos,categoria,3
+C30-C39,C00-C96,NEOPLASIAS MALIGNAS DE ÓRGANOS RESPIRATORIOS E INTRATORÁCICOS (C30-C39),bloque,40
+C30,C30-C39,Neoplasia maligna de cavidad nasal y de oído medio,categoria,2
+C31,C30-C39,Neoplasia maligna de senos accesorios,categoria,6
+C32,C30-C39,Neoplasia maligna de laringe,categoria,6
+C33,C30-C39,Neoplasia maligna de tráquea,categoria,1
+C34,C30-C39,Neoplasia maligna de bronquio y pulmón,categoria,16
+C37,C30-C39,Neoplasia maligna de timo,categoria,1
+C38,C30-C39,"Neoplasia maligna de corazón, mediastino y pleura",categoria,6
+C39,C30-C39,Neoplasia maligna de otras localizaciones y las mal definidas en aparato respiratorio y órganos intratorácicos,categoria,2
+C40-C41,C00-C96,NEOPLASIAS MALIGNAS DE HUESO Y DE CARTÍLAGO ARTICULAR (C40-C41),bloque,24
+C40,C40-C41,Neoplasia maligna de hueso y de cartílago articular de extremidades,categoria,18
+C41,C40-C41,Neoplasia maligna de hueso y de cartílago articular de otras localizaciones y las no especificadas,categoria,6
+C43-C44,C00-C96,MELANOMA Y OTRAS NEOPLASIAS MALIGNAS DE PIEL (C43-C44),bloque,24
+C43,C43-C44,Melanoma maligno de piel,categoria,24
+C4A,C00-C96,Carcinoma de células de Merkel,categoria,24
+C44,C00-C96,Otras neoplasias malignas y las no especificadas de piel,categoria,101
+C45-C49,C00-C96,NEOPLASIAS MALIGNAS DE TEJIDOS MESOTELIALES Y TEJIDOS BLANDOS (C45-C49),bloque,52
+C45,C45-C49,Mesotelioma,categoria,5
+C46,C45-C49,Sarcoma de Kaposi,categoria,10
+C47,C45-C49,Neoplasia maligna de nervios periféricos y sistema nervioso autónomo,categoria,13
+C48,C45-C49,Neoplasia maligna de retroperitoneo y peritoneo,categoria,4
+C49,C45-C49,Neoplasia maligna de tejido conjuntivo y otros tejidos blandos,categoria,20
+C50-C50,C00-C96,NEOPLASIAS MALIGNAS DE MAMA (C50),bloque,54
+C50,C50-C50,Neoplasia maligna de mama,categoria,54
+C51-C58,C00-C96,NEOPLASIAS MALIGNAS DE ÓRGANOS GENITALES FEMENINOS (C51-C58),bloque,36
+C51,C51-C58,Neoplasia maligna de vulva,categoria,5
+C52,C51-C58,Neoplasia maligna de vagina,categoria,1
+C53,C51-C58,Neoplasia maligna de cuello de útero,categoria,4
+C54,C51-C58,Neoplasia maligna de cuerpo de útero,categoria,6
+C55,C51-C58,"Neoplasia maligna de útero, parte no especificada",categoria,1
+C56,C51-C58,Neoplasia maligna de ovario,categoria,4
+C57,C51-C58,Neoplasia maligna de otros órganos genitales femeninos y los no especificados,categoria,14
+C58,C51-C58,Neoplasia maligna de placenta,categoria,1
+C60-C63,C00-C96,NEOPLASIAS MALIGNAS DE ÓRGANOS GENITALES MASCULINOS (C60-C63),bloque,25
+C60,C60-C63,Neoplasia maligna de pene,categoria,5
+C61,C60-C63,Neoplasia maligna de próstata,categoria,1
+C62,C60-C63,Neoplasia maligna de testículo,categoria,9
+C63,C60-C63,Neoplasia maligna de otros órganos genitales masculinos y los no especificados,categoria,10
+C64-C68,C00-C96,NEOPLASIAS MALIGNAS DE TRACTO URINARIO (C64-C68),bloque,23
+C64,C64-C68,"Neoplasia maligna de riñón, excepto pelvis renal",categoria,3
+C65,C64-C68,Neoplasia maligna de pelvis renal,categoria,3
+C66,C64-C68,Neoplasia maligna de uréter,categoria,3
+C67,C64-C68,Neoplasia maligna de vejiga,categoria,10
+C68,C64-C68,Neoplasia maligna de otros órganos urinarios y los no especificados,categoria,4
+C69-C72,C00-C96,"NEOPLASIAS MALIGNAS DE OJO, CEREBRO Y OTRAS PARTES DEL SISTEMA NERVIOSO CENTRAL (C69-C72)",bloque,54
+C69,C69-C72,Neoplasia maligna de ojo y sus anexos,categoria,27
+C70,C69-C72,Neoplasia maligna de meninges,categoria,3
+C71,C69-C72,Neoplasia maligna de cerebro,categoria,10
+C72,C69-C72,"Neoplasia maligna de médula espinal, nervios craneales y otras partes de sistema nervioso central",categoria,14
+C73-C75,C00-C96,NEOPLASIAS MALIGNAS DE TIROIDES Y OTRAS GLÁNDULAS ENDOCRINAS (C73-C75),bloque,18
+C73,C73-C75,Neoplasia maligna de glándula tiroides,categoria,1
+C74,C73-C75,Neoplasia maligna de glándula suprarrenal,categoria,9
+C75,C73-C75,Neoplasia maligna de otras glándulas endocrinas y estructuras relacionadas,categoria,8
+C7A-C7A,C00-C96,TUMORES MALIGNOS NEUROENDOCRINOS (C7A),bloque,23
+C7A,C7A-C7A,Tumores malignos neuroendocrinos,categoria,23
+C7B-C7B,C00-C96,TUMORES NEUROENDOCRINOS SECUNDARIOS (C7B),bloque,8
+C7B,C7B-C7B,Tumores neuroendocrinos secundarios,categoria,8
+C76-C80,C00-C96,"NEOPLASIAS MALIGNAS DE LOCALIZACIONES MAL DEFINIDAS, OTRAS LOCALIZACIONES SECUNDARIAS Y LOCALIZACIONES NO ESPECIFICADAS (C76-C80)",bloque,59
+C76,C76-C80,Neoplasia maligna de otras localizaciones y las mal definidas,categoria,11
+C77,C76-C80,Neoplasia maligna secundaria y no especificada de ganglios linfáticos,categoria,8
+C78,C76-C80,Neoplasia maligna secundaria de órganos respiratorios y digestivos,categoria,13
+C79,C76-C80,Neoplasia maligna secundaria de otras localizaciones y las no especificadas,categoria,24
+C80,C76-C80,Neoplasia maligna de localización no especificada,categoria,3
+C81-C96,C00-C96,"NEOPLASIAS MALIGNAS DE TEJIDOS LINFOIDE, HEMOPOYÉTICO Y RELACIONADOS (C81-C96)",bloque,533
+C81,C81-C96,Linfoma de Hodgkin,categoria,77
+C82,C81-C96,Linfoma folicular,categoria,99
+C83,C81-C96,Linfoma no folicular,categoria,78
+C84,C81-C96,Linfomas de células T/NK maduras,categoria,89
+C85,C81-C96,Otros tipos de linfoma no Hodgkin y los no especificados,categoria,44
+C86,C81-C96,Otros tipos especificados de linfoma de células T/NK,categoria,14
+C88,C81-C96,Enfermedades inmunoproliferativas malignas y ciertos linfomas de células B de otros tipos,categoria,12
+C90,C81-C96,Mieloma múltiple y tumores malignos de células plasmáticas,categoria,12
+C91,C81-C96,Leucemia linfoide,categoria,27
+C92,C81-C96,Leucemia mieloide,categoria,30
+C93,C81-C96,Leucemia monocítica,categoria,15
+C94,C81-C96,Otras leucemias de tipo celular especificado,categoria,16
+C95,C81-C96,Leucemia de células de tipo no especificado,categoria,9
+C96,C81-C96,"Otros tipos de neoplasias malignas de tejido linfático, hemopoyético y relacionados y los no especificados",categoria,11
+D00-D09,Cap.02,NEOPLASIAS IN SITU (D00-D09),bloque,106
+D00,D00-D09,"Carcinoma in situ de cavidad oral, esófago y estómago",categoria,11
+D01,D00-D09,Carcinoma in situ de otros órganos digestivos y de los no especificados,categoria,9
+D02,D00-D09,Carcinoma in situ de oído medio y aparato respiratorio,categoria,7
+D03,D00-D09,Melanoma in situ,categoria,23
+D04,D00-D09,Carcinoma in situ de piel,categoria,21
+D05,D00-D09,Carcinoma in situ de mama,categoria,12
+D06,D00-D09,Carcinoma in situ de cuello de útero,categoria,4
+D07,D00-D09,Carcinoma in situ de otros órganos genitales y los no especificados,categoria,10
+D09,D00-D09,Carcinoma in situ de otras localizaciones y las no especificadas,categoria,9
+D10-D36,Cap.02,"TUMORES BENIGNOS, EXCEPTO TUMORES NEUROENDOCRINOS BENIGNOS (D10-D36)",bloque,244
+D10,D10-D36,Neoplasia benigna de boca y faringe,categoria,10
+D11,D10-D36,Neoplasia benigna de glándulas salivales mayores,categoria,3
+D12,D10-D36,"Neoplasia benigna de colon, recto, ano y canal anal",categoria,10
+D13,D10-D36,Neoplasia benigna de otras partes de aparato digestivo y las mal definidas,categoria,11
+D14,D10-D36,Neoplasia benigna de oído medio y de aparato respiratorio,categoria,7
+D15,D10-D36,Neoplasia benigna de otros órganos intratorácicos y los no especificados,categoria,5
+D16,D10-D36,Neoplasia benigna de hueso y cartílago articular,categoria,18
+D17,D10-D36,Neoplasia lipomatosa benigna,categoria,16
+D18,D10-D36,"Hemangioma y linfangioma, cualquier localización",categoria,6
+D19,D10-D36,Neoplasia benigna de tejido mesotelial,categoria,4
+D20,D10-D36,Neoplasia benigna de tejidos blandos de retroperitoneo y peritoneo,categoria,2
+D21,D10-D36,Otras neoplasias benignas de tejido conectivo y de otros tejidos blandos,categoria,12
+D22,D10-D36,Nevus melanocítico,categoria,20
+D23,D10-D36,Otras neoplasias benignas de piel,categoria,20
+D24,D10-D36,Neoplasia benigna de mama,categoria,3
+D25,D10-D36,Leiomioma de útero,categoria,4
+D26,D10-D36,Otros tumores benignos de útero,categoria,4
+D27,D10-D36,Neoplasia benigna de ovario,categoria,3
+D28,D10-D36,Neoplasia benigna de otros órganos genitales femeninos y los no especificados,categoria,5
+D29,D10-D36,Neoplasia benigna de órganos genitales masculinos,categoria,11
+D30,D10-D36,Neoplasia benigna de órganos urinarios,categoria,13
+D31,D10-D36,Neoplasia benigna de ojo y sus anexos,categoria,24
+D32,D10-D36,Neoplasia benigna de meninges,categoria,3
+D33,D10-D36,Neoplasia benigna de cerebro y otras partes de sistema nervioso central,categoria,7
+D34,D10-D36,Neoplasia benigna de glándula tiroides,categoria,1
+D35,D10-D36,Neoplasia benigna de otras glándulas endocrinas y las no especificadas,categoria,11
+D36,D10-D36,Neoplasia benigna de otras localizaciones y las no especificadas,categoria,11
+D3A-D3A,Cap.02,TUMORES NEUROENDOCRINOS BENIGNOS (D3A),bloque,22
+D3A,D3A-D3A,Tumores neuroendocrinos benignos,categoria,22
+D37-D48,Cap.02,"NEOPLASIAS DE COMPORTAMIENTO INCIERTO, POLICITEMIA VERA Y SÍNDROMES MIELODISPLÁSICOS (D37-D48)",bloque,115
+D37,D37-D48,Neoplasia de comportamiento incierto de cavidad oral y órganos digestivos,categoria,17
+D38,D37-D48,Neoplasia de comportamiento incierto de oído medio y órganos respiratorios e intratorácicos,categoria,7
+D39,D37-D48,Neoplasia de comportamiento incierto de órganos genitales femeninos,categoria,7
+D40,D37-D48,Neoplasia de comportamiento incierto de órganos genitales masculinos,categoria,6
+D41,D37-D48,Neoplasia de comportamiento incierto de órganos urinarios,categoria,13
+D42,D37-D48,Neoplasia de comportamiento incierto de meninges,categoria,3
+D43,D37-D48,Neoplasia de comportamiento incierto de cerebro y sistema nervioso central,categoria,7
+D44,D37-D48,Neoplasia de comportamiento incierto de glándulas endocrinas,categoria,11
+D45,D37-D48,Policitemia vera,categoria,1
+D46,D37-D48,Síndromes mielodisplásicos,categoria,11
+D47,D37-D48,"Otras neoplasias de comportamiento incierto de tejido linfático, hemopoyético y relacionados",categoria,11
+D48,D37-D48,Neoplasia de comportamiento incierto de otras localizaciones y las no especificadas,categoria,21
+D49-D49,Cap.02,NEOPLASIAS DE COMPORTAMIENTO NO ESPECIFICADO (D49),bloque,14
+D49,D49-D49,Neoplasias de comportamiento no especificado,categoria,14
+Cap.03,CIE-10-ES,ENFERMEDADES DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS Y CIERTOS TRASTORNOS QUE AFECTAN AL MECANISMO INMUNOLÓGICO (D50-D89),capitulo,321
+D50-D53,Cap.03,ANEMIAS CARENCIALES (D50-D53),bloque,19
+D50,D50-D53,Anemia por carencia de hierro,categoria,4
+D51,D50-D53,Anemia por carencia de vitamina B12,categoria,6
+D52,D50-D53,Anemia por carencia de ácido fólico,categoria,4
+D53,D50-D53,Otras anemias carenciales,categoria,5
+D55-D59,Cap.03,ANEMIAS HEMOLÍTICAS (D55-D59),bloque,79
+D55,D55-D59,Anemia debida a trastornos enzimáticos,categoria,7
+D56,D55-D59,Talasemia,categoria,8
+D57,D55-D59,Trastornos drepanocíticos,categoria,43
+D58,D55-D59,Otras anemias hemolíticas hereditarias,categoria,5
+D59,D55-D59,Anemia hemolítica adquirida,categoria,16
+D60-D64,Cap.03,ANEMIA APLÁSICA Y OTRAS ANEMIAS Y SÍNDROMES DE INSUFICIENCIA MEDULAR (D60-D64),bloque,29
+D60,D60-D64,Aplasia pura adquirida de glóbulos rojos [eritroblastopenia],categoria,4
+D61,D60-D64,Otras anemias aplásicas y síndromes de insuficiencia medular,categoria,13
+D62,D60-D64,Anemia poshemorrágica aguda,categoria,1
+D63,D60-D64,Anemia en enfermedades crónicas clasificadas bajo otro concepto,categoria,3
+D64,D60-D64,Otras anemias,categoria,8
+D65-D69,Cap.03,"ALTERACIONES DE LA COAGULACIÓN, PÚRPURA Y OTRAS AFECCIONES HEMORRÁGICAS (D65-D69)",bloque,40
+D65,D65-D69,Coagulación intravascular diseminada [síndrome de desfibrinación],categoria,1
+D66,D65-D69,Déficit hereditario del factor VIII,categoria,1
+D67,D65-D69,Déficit hereditario del factor IX,categoria,1
+D68,D65-D69,Otros defectos de la coagulación,categoria,25
+D69,D65-D69,Púrpura y otras afecciones hemorrágicas,categoria,12
+D70-D77,Cap.03,OTROS TRASTORNOS DE LA SANGRE Y DE LOS ÓRGANOS HEMATOPOYÉTICOS (D70-D77),bloque,59
+D70,D70-D77,Neutropenia,categoria,7
+D71,D70-D77,Trastornos funcionales de neutrófilos polimorfonucleares,categoria,1
+D72,D70-D77,Otros trastornos de los leucocitos,categoria,22
+D73,D70-D77,Enfermedades del bazo,categoria,9
+D74,D70-D77,Metahemoglobinemia,categoria,3
+D75,D70-D77,Otras enfermedades de la sangre y órganos hemopoyéticos y las no especificadas,categoria,13
+D76,D70-D77,Otras enfermedades especificadas con participación del tejido linforreticular y reticulohistiocitario,categoria,3
+D77,D70-D77,Otros trastornos de la sangre y órganos hematopoyéticos en enfermedades clasificadas bajo otro concepto,categoria,1
+D78-D78,Cap.03,COMPLICACIONES INTRAOPERATORIAS Y POSPROCEDIMIENTO DEL BAZO (D78),bloque,12
+D78,D78-D78,Complicaciones intraoperatorias y posprocedimiento del bazo,categoria,12
+D80-D89,Cap.03,CIERTOS TRASTORNOS QUE AFECTAN AL MECANISMO INMUNITARIO (D80-D89),bloque,83
+D80,D80-D89,Inmunodeficiencia con predominio de defectos de anticuerpos,categoria,10
+D81,D80-D89,Inmunodeficiencias combinadas,categoria,17
+D82,D80-D89,Inmunodeficiencia asociada con otros defectos importantes,categoria,7
+D83,D80-D89,Inmunodeficiencia variable común,categoria,5
+D84,D80-D89,Otras inmunodeficiencias,categoria,7
+D86,D80-D89,Sarcoidosis,categoria,13
+D89,D80-D89,"Otros trastornos que afectan al mecanismo inmunológico, no clasificados bajo otro concepto",categoria,24
+Cap.04,CIE-10-ES,"ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS (E00-E89)",capitulo,951
+E00-E07,Cap.04,TRASTORNOS DE GLÁNDULA TIROIDES (E00-E07),bloque,48
+E00,E00-E07,Síndrome congénito por carencia de yodo,categoria,4
+E01,E00-E07,Trastornos tiroideos relacionados con carencia de yodo y afecciones afines,categoria,4
+E02,E00-E07,Hipotiroidismo subclínico por carencia de yodo,categoria,1
+E03,E00-E07,Otros tipos de hipotiroidismo,categoria,8
+E04,E00-E07,Otros tipos de bocio no tóxico,categoria,5
+E05,E00-E07,Tirotoxicosis [hipertiroidismo],categoria,14
+E06,E00-E07,Tiroiditis,categoria,7
+E07,E00-E07,Otros trastornos tiroideos,categoria,5
+E08-E13,Cap.04,DIABETES MELLITUS (E08-E13),bloque,431
+E08,E08-E13,Diabetes mellitus debida a afección subyacente,categoria,86
+E09,E08-E13,Diabetes mellitus inducida por fármaco o sustancia química,categoria,86
+E10,E08-E13,Diabetes mellitus tipo 1,categoria,87
+E11,E08-E13,Diabetes mellitus tipo 2,categoria,86
+E13,E08-E13,Otro tipo de diabetes mellitus especificada,categoria,86
+E15-E16,Cap.04,OTROS TRASTORNOS DE LA REGULACIÓN DE LA GLUCOSA Y DE LA SECRECIÓN INTERNA DEL PÁNCREAS (E15-E16),bloque,11
+E15,E15-E16,Coma hipoglucémico no diabético,categoria,1
+E16,E15-E16,Otros trastornos de la secreción interna del páncreas,categoria,10
+E20-E35,Cap.04,TRASTORNOS DE OTRAS GLÁNDULAS ENDOCRINAS (E20-E35),bloque,99
+E20,E20-E35,Hipoparatiroidismo,categoria,9
+E21,E20-E35,Hiperparatiroidismo y otros trastornos de glándula paratiroides,categoria,6
+E22,E20-E35,Hiperfunción de hipófisis,categoria,5
+E23,E20-E35,Hipofunción y otros trastornos de hipófisis,categoria,6
+E24,E20-E35,Síndrome de Cushing,categoria,7
+E25,E20-E35,Trastornos adrenogenitales,categoria,3
+E26,E20-E35,Hiperaldosteronismo,categoria,7
+E27,E20-E35,Otros trastornos de glándula suprarrenal,categoria,9
+E28,E20-E35,Disfunción ovárica,categoria,8
+E29,E20-E35,Disfunción testicular,categoria,4
+E30,E20-E35,"Trastornos de pubertad, no clasificados bajo otro concepto",categoria,4
+E31,E20-E35,Disfunción poliglandular,categoria,8
+E32,E20-E35,Enfermedades del timo,categoria,4
+E34,E20-E35,Otros trastornos endocrinos,categoria,18
+E35,E20-E35,Trastornos de glándulas endocrinas en enfermedades clasificadas bajo otro concepto,categoria,1
+E36-E36,Cap.04,COMPLICACIONES INTRAOPERATORIAS DEL SISTEMA ENDOCRINO (E36),bloque,5
+E36,E36-E36,Complicaciones intraoperatorias del sistema endocrino,categoria,5
+E40-E46,Cap.04,DESNUTRICIÓN (E40-E46),bloque,8
+E40,E40-E46,Kwashiorkor,categoria,1
+E41,E40-E46,Marasmo nutricional,categoria,1
+E42,E40-E46,Kwashiorkor marasmático,categoria,1
+E43,E40-E46,Malnutrición calórico-proteica grave no especificada,categoria,1
+E44,E40-E46,Malnutrición calórico-proteica de grado moderado y leve,categoria,2
+E45,E40-E46,Retraso del desarrollo secundario a malnutrición calórico-proteica,categoria,1
+E46,E40-E46,Malnutrición calórico-proteica no especificada,categoria,1
+E50-E64,Cap.04,OTRAS CARENCIAS NUTRICIONALES (E50-E64),bloque,50
+E50,E50-E64,Carencia de vitamina A,categoria,10
+E51,E50-E64,Carencia de tiamina,categoria,5
+E52,E50-E64,Carencia de niacina [pelagra],categoria,1
+E53,E50-E64,Carencia de otras vitaminas del grupo B,categoria,4
+E54,E50-E64,Carencia de ácido ascórbico,categoria,1
+E55,E50-E64,Carencia de vitamina D,categoria,2
+E56,E50-E64,Otras carencias de vitamina,categoria,4
+E58,E50-E64,Carencia dietética de calcio,categoria,1
+E59,E50-E64,Carencia dietética de selenio,categoria,1
+E60,E50-E64,Carencia dietética de zinc,categoria,1
+E61,E50-E64,Carencia de otros elementos nutrientes,categoria,10
+E63,E50-E64,Otras carencias nutricionales,categoria,4
+E64,E50-E64,Secuelas de malnutrición y otras carencias nutricionales,categoria,6
+E65-E68,Cap.04,"SOBREPESO, OBESIDAD Y OTROS TIPOS DE HIPERALIMENTACIÓN (E65-E68)",bloque,17
+E65,E65-E68,Adiposidad localizada,categoria,1
+E66,E65-E68,Sobrepeso y obesidad,categoria,10
+E67,E65-E68,Otros tipos de hiperalimentación,categoria,5
+E68,E65-E68,Secuelas de hiperalimentación,categoria,1
+E70-E88,Cap.04,ALTERACIONES METABÓLICAS (E70-E88),bloque,267
+E70,E70-E88,Trastornos del metabolismo de aminoácidos aromáticos,categoria,26
+E71,E70-E88,Trastornos del metabolismo de aminoácidos de cadena ramificada y de ácidos grasos,categoria,38
+E72,E70-E88,Otros trastornos del metabolismo de aminoácidos,categoria,25
+E73,E70-E88,Intolerancia a lactosa,categoria,4
+E74,E70-E88,Otros trastornos del metabolismo de los carbohidratos,categoria,24
+E75,E70-E88,Trastornos del metabolismo de esfingolípidos y otros trastornos por almacenamiento de lípidos,categoria,26
+E76,E70-E88,Trastornos del metabolismo de glicosaminoglicanos,categoria,12
+E77,E70-E88,Trastornos del metabolismo de glicoproteínas,categoria,4
+E78,E70-E88,Trastornos del metabolismo de las lipoproteínas y otras lipidemias,categoria,16
+E79,E70-E88,Trastornos del metabolismo de purinas y pirimidinas,categoria,7
+E80,E70-E88,Trastornos del metabolismo de porfirinas y bilirrubina,categoria,10
+E83,E70-E88,Trastornos del metabolismo de los minerales,categoria,25
+E84,E70-E88,Fibrosis quística,categoria,5
+E85,E70-E88,Amiloidosis,categoria,9
+E86,E70-E88,Depleción de volumen,categoria,3
+E87,E70-E88,"Otros trastornos de líquidos, electrolitos y equilibrio ácido-base",categoria,14
+E88,E70-E88,Otros trastornos metabólicos y los no especificados,categoria,19
+E89-E89,Cap.04,"COMPLICACIONES Y TRASTORNOS ENDOCRINOS Y METABÓLICOS POSPROCEDIMIENTO, NO CLASIFICADOS BAJO OTRO CONCEPTO (E89)",bloque,15
+E89,E89-E89,"Complicaciones y trastornos endocrinos y metabólicos posprocedimiento, no clasificados bajo otro concepto",categoria,15
+Cap.05,CIE-10-ES,"TRASTORNOS MENTALES, DEL COMPORTAMIENTO Y DEL DESARROLLO NEUROLÓGICO (F01-F99)",capitulo,871
+F01-F09,Cap.05,TRASTORNOS MENTALES DEBIDOS A AFECCIONES FISIOLÓGICAS CONOCIDAS (F01-F09),bloque,91
+F01,F01-F09,Demencia vascular,categoria,24
+F02,F01-F09,Demencia en otras enfermedades clasificadas bajo otro concepto,categoria,24
+F03,F01-F09,Demencia no especificada,categoria,24
+F04,F01-F09,Trastorno amnésico debido a afección fisiológica conocida,categoria,1
+F05,F01-F09,Delirio debido a afección fisiológica conocida,categoria,1
+F06,F01-F09,Otros trastornos mentales debidos a afección fisiológica conocida,categoria,12
+F07,F01-F09,Trastornos de personalidad y del comportamiento debidos a afección fisiológica conocida,categoria,4
+F09,F01-F09,Trastorno mental no especificado debido a afección fisiológica conocida,categoria,1
+F10-F19,Cap.05,TRASTORNOS MENTALES Y DEL COMPORTAMIENTO DEBIDOS AL CONSUMO DE SUSTANCIAS PSICOACTIVAS (F10-F19),bloque,458
+F10,F10-F19,Trastornos relacionados con alcohol,categoria,58
+F11,F10-F19,Trastornos relacionados con opiáceos,categoria,45
+F12,F10-F19,Trastornos relacionados con cannabis,categoria,39
+F13,F10-F19,"Trastornos relacionados con sedantes, hipnóticos o ansiolíticos",categoria,58
+F14,F10-F19,Trastornos relacionados con cocaína,categoria,48
+F15,F10-F19,Trastornos relacionados con otros tipos de estimulantes,categoria,48
+F16,F10-F19,Trastornos relacionados con alucinógenos,categoria,40
+F17,F10-F19,Dependencia de nicotina,categoria,20
+F18,F10-F19,Trastornos relacionados con inhalantes,categoria,39
+F19,F10-F19,Trastornos relacionados con otras sustancias psicoactivas,categoria,63
+F20-F29,Cap.05,"ESQUIZOFRENIA, TRASTORNO ESQUIZOTÍPICO, TRASTORNO DELIRANTE Y OTROS TRASTORNOS PSICÓTICOS NO RELACIONADOS CON EL ESTADO DE ÁNIMO (F20-F29)",bloque,18
+F20,F20-F29,Esquizofrenia,categoria,8
+F21,F20-F29,Trastorno esquizotípico,categoria,1
+F22,F20-F29,Trastornos delirantes,categoria,1
+F23,F20-F29,Trastorno psicótico breve,categoria,1
+F24,F20-F29,Trastorno psicótico compartido,categoria,1
+F25,F20-F29,Trastornos esquizoafectivos,categoria,4
+F28,F20-F29,Otros trastornos psicóticos no debidos a sustancia ni afección fisiológica conocidas,categoria,1
+F29,F20-F29,Psicosis no especificada no debida a sustancia o afección fisiológica conocidas,categoria,1
+F30-F39,Cap.05,TRASTORNOS DEL ESTADO DE ÁNIMO [AFECTIVOS] (F30-F39),bloque,62
+F30,F30-F39,Episodio maníaco,categoria,9
+F31,F30-F39,Trastorno bipolar,categoria,28
+F32,F30-F39,Episodio depresivo,categoria,10
+F33,F30-F39,"Trastorno depresivo mayor, recurrente",categoria,9
+F34,F30-F39,Trastornos persistentes del estado de ánimo [afectivos],categoria,5
+F39,F30-F39,"Trastorno del estado de ánimo [afectivo], no especificado",categoria,1
+F40-F48,Cap.05,"TRASTORNO DE ANSIEDAD, DISOCIATIVO, RELACIONADO CON ESTRÉS Y OTROS TRASTORNOS MENTALES SOMATOMORFOS NO PSICÓTICOS (F40-F48)",bloque,71
+F40,F40-F48,Trastornos de ansiedad fóbica,categoria,23
+F41,F40-F48,Otros trastornos de ansiedad,categoria,5
+F42,F40-F48,Trastorno obsesivo-compulsivo,categoria,5
+F43,F40-F48,Reacción a estrés grave y trastornos de adaptación,categoria,14
+F44,F40-F48,Trastornos disociativos y de conversión,categoria,10
+F45,F40-F48,Trastornos somatomorfos,categoria,10
+F48,F40-F48,Otros trastornos mentales no psicóticos,categoria,4
+F50-F59,Cap.05,SÍNDROMES DE COMPORTAMIENTO ASOCIADOS A TRASTORNOS FISIOLÓGICOS Y FACTORES FÍSICOS (F50-F59),bloque,66
+F50,F50-F59,Trastornos de la conducta alimentaria,categoria,30
+F51,F50-F59,Trastornos del sueño no debidos a sustancia ni afección fisiológica conocida,categoria,15
+F52,F50-F59,Disfunción sexual no debida a sustancia ni afección fisiológica conocida,categoria,11
+F53,F50-F59,"Trastornos mentales y del comportamiento asociados con el puerperio, no clasificados bajo otro concepto",categoria,2
+F54,F50-F59,Factores psicológicos y de comportamiento asociados con trastornos o enfermedades clasificadas bajo otro concepto,categoria,1
+F55,F50-F59,Abuso de sustancias no psicoactivas,categoria,6
+F59,F50-F59,Síndromes de comportamiento no especificados asociados a trastornos fisiológicos y factores físicos,categoria,1
+F60-F69,Cap.05,TRASTORNOS DE PERSONALIDAD Y COMPORTAMIENTO DEL ADULTO (F60-F69),bloque,42
+F60,F60-F69,Trastornos específicos de personalidad,categoria,11
+F63,F60-F69,Trastorno de los impulsos,categoria,7
+F64,F60-F69,Trastornos de identidad sexual,categoria,5
+F65,F60-F69,Parafilias,categoria,11
+F66,F60-F69,Otros trastornos sexuales,categoria,1
+F68,F60-F69,Otros trastornos de personalidad y comportamiento del adulto,categoria,6
+F69,F60-F69,"Trastorno de personalidad y comportamiento del adulto, no especificado",categoria,1
+F70-F79,Cap.05,DISCAPACIDAD INTELECTUAL (F70-F79),bloque,7
+F70,F70-F79,Discapacidad intelectual leve,categoria,1
+F71,F70-F79,Discapacidad intelectual moderada,categoria,1
+F72,F70-F79,Discapacidad intelectual grave,categoria,1
+F73,F70-F79,Discapacidad intelectual profunda,categoria,1
+F78,F70-F79,Otros tipos de discapacidad intelectual,categoria,2
+F79,F70-F79,Discapacidad intelectual no especificada,categoria,1
+F80-F89,Cap.05,TRASTORNOS GENERALIZADOS Y ESPECÍFICOS DEL DESARROLLO (F80-F89),bloque,22
+F80,F80-F89,Trastornos específicos del desarrollo del habla y lenguaje,categoria,8
+F81,F80-F89,Trastornos específicos del desarrollo de habilidades escolares,categoria,5
+F82,F80-F89,Trastorno específico del desarrollo de la función motora,categoria,1
+F84,F80-F89,Trastornos generalizados del desarrollo,categoria,6
+F88,F80-F89,Otros trastornos del desarrollo psicológico,categoria,1
+F89,F80-F89,Trastorno del desarrollo psicológico no especificado,categoria,1
+F90-F98,Cap.05,TRASTORNOS DE CONDUCTA Y TRASTORNOS EMOCIONALES CUYO INICIO SE PRESENTA HABITUALMENTE EN INFANCIA Y ADOLESCENCIA (F90-F98),bloque,33
+F90,F90-F98,Trastorno por déficit de atención con hiperactividad,categoria,5
+F91,F90-F98,Trastornos de conducta,categoria,6
+F93,F90-F98,Trastornos emocionales con inicio específico en la infancia,categoria,3
+F94,F90-F98,Trastornos del comportamiento social con inicio específico en infancia y adolescencia,categoria,5
+F95,F90-F98,Trastorno de tics,categoria,5
+F98,F90-F98,Otros trastornos de conducta y emociones cuyo inicio se presenta habitualmente en infancia y adolescencia,categoria,9
+F99-F99,Cap.05,TRASTORNO MENTAL NO ESPECIFICADO (F99),bloque,1
+F99,F99-F99,"Trastorno mental, no especificado de otro modo",categoria,1
+Cap.06,CIE-10-ES,ENFERMEDADES DEL SISTEMA NERVIOSO (G00-G99),capitulo,691
+G00-G09,Cap.06,ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO CENTRAL (G00-G09),bloque,35
+G00,G00-G09,"Meningitis bacteriana, no clasificada bajo otro concepto",categoria,6
+G01,G00-G09,Meningitis en enfermedades bacterianas clasificadas bajo otro concepto,categoria,1
+G02,G00-G09,Meningitis en otras enfermedades infecciosas y parasitarias clasificadas bajo otro concepto,categoria,1
+G03,G00-G09,Meningitis debida a otras causas y a las no especificadas,categoria,5
+G04,G00-G09,"Encefalitis, mielitis y encefalomielitis",categoria,14
+G05,G00-G09,"Encefalitis, mielitis y encefalomielitis en enfermedades clasificadas bajo otro concepto",categoria,2
+G06,G00-G09,Absceso y granuloma intracraneal e intrarraquídeo,categoria,3
+G07,G00-G09,Absceso y granuloma intracraneal e intrarraquídeo en enfermedades clasificadas bajo otro concepto,categoria,1
+G08,G00-G09,Flebitis y tromboflebitis intracraneal e intrarraquídea,categoria,1
+G09,G00-G09,Secuelas de enfermedades inflamatorias del sistema nervioso central,categoria,1
+G10-G14,Cap.06,ATROFIAS SISTÉMICAS QUE AFECTAN PRINCIPALMENTE AL SISTEMA NERVIOSO CENTRAL (G10-G14),bloque,28
+G10,G10-G14,Enfermedad de Huntington,categoria,1
+G11,G10-G14,Ataxia hereditaria,categoria,11
+G12,G10-G14,Atrofia muscular espinal y síndromes relacionados,categoria,11
+G13,G10-G14,Atrofias sistémicas que afectan principalmente al sistema nervioso central en enfermedades clasificadas bajo otro concepto,categoria,4
+G14,G10-G14,Síndrome pospolio,categoria,1
+G20-G26,Cap.06,TRASTORNOS EXTRAPIRAMIDALES Y DEL MOVIMIENTO (G20-G26),bloque,46
+G20,G20-G26,Enfermedad de Parkinson,categoria,5
+G21,G20-G26,Parkinsonismo secundario,categoria,8
+G23,G20-G26,Otras enfermedades degenerativas de los núcleos de la base,categoria,6
+G24,G20-G26,Distonía,categoria,10
+G25,G20-G26,Otros trastornos extrapiramidales y del movimiento,categoria,16
+G26,G20-G26,Trastornos extrapiramidales y del movimiento en enfermedades clasificadas bajo otro concepto,categoria,1
+G30-G32,Cap.06,OTRAS ENFERMDADES DEGENERATIVAS DEL SISTEMA NERVIOSO (G30-G32),bloque,20
+G30,G30-G32,Enfermedad de Alzheimer,categoria,4
+G31,G30-G32,"Otras enfermedades degenerativas del sistema nervioso, no clasificadas bajo otro concepto",categoria,13
+G32,G30-G32,Otros trastornos degenerativos del sistema nervioso en enfermedades clasificadas bajo otro concepto,categoria,3
+G35-G37,Cap.06,ENFERMEDADES DESMIELINIZANTES DEL SISTEMA NERVIOSO CENTRAL (G35-G37),bloque,14
+G35,G35-G37,Esclerosis múltiple,categoria,1
+G36,G35-G37,Otras desmielinizaciones diseminadas agudas,categoria,4
+G37,G35-G37,Otras enfermedades desmielinizantes del sistema nervioso central,categoria,9
+G40-G47,Cap.06,TRASTORNOS EPISÓDICOS Y PAROXÍSTICOS (G40-G47),bloque,205
+G40,G40-G47,Epilepsia y crisis epilépticas recurrentes,categoria,58
+G43,G40-G47,Migraña,categoria,48
+G44,G40-G47,Otros síndromes de cefalea,categoria,40
+G45,G40-G47,Accidentes isquémicos cerebrales transitorios y síndromes relacionados,categoria,7
+G46,G40-G47,Síndromes vasculares cerebrales en enfermedades cerebrovasculares,categoria,9
+G47,G40-G47,Trastornos del sueño,categoria,43
+G50-G59,Cap.06,"TRASTORNOS DE LOS NERVIOS, DE LAS RAÍCES Y DE LOS PLEXOS NERVIOSOS (G50-G59)",bloque,106
+G50,G50-G59,Trastornos del nervio trigémino,categoria,4
+G51,G50-G59,Trastornos del nervio facial,categoria,10
+G52,G50-G59,Trastornos de otros nervios craneales,categoria,7
+G53,G50-G59,Trastornos de los nervios craneales en enfermedades clasificadas bajo otro concepto,categoria,1
+G54,G50-G59,Trastornos de raíces y de plexos nerviosos,categoria,10
+G55,G50-G59,Compresiones de raíces y plexos nerviosos en enfermedades clasificadas bajo otro concepto,categoria,1
+G56,G50-G59,Mononeuropatías de extremidad superior,categoria,28
+G57,G50-G59,Mononeuropatías de extremidad inferior,categoria,40
+G58,G50-G59,Otras mononeuropatías,categoria,4
+G59,G50-G59,Mononeuropatía en enfermedades clasificadas bajo otro concepto,categoria,1
+G60-G65,Cap.06,POLINEUROPATÍAS Y OTROS TRASTORNOS DEL SISTEMA NERVIOSO PERIFÉRICO (G60-G65),bloque,24
+G60,G60-G65,Neuropatía hereditaria e idiopática,categoria,6
+G61,G60-G65,Polineuropatía inflamatoria,categoria,6
+G62,G60-G65,Otras polineuropatías y las no especificadas,categoria,7
+G63,G60-G65,Polineuropatía en enfermedades clasificadas bajo otro concepto,categoria,1
+G64,G60-G65,Otros trastornos del sistema nervioso periférico,categoria,1
+G65,G60-G65,Secuelas de polineuropatías inflamatorias y tóxicas,categoria,3
+G70-G73,Cap.06,ENFERMEDADES DE LA UNIÓN NEUROMUSCULAR Y DEL MÚSCULO (G70-G73),bloque,47
+G70,G70-G73,Miastenia gravis y otros trastornos mioneurales,categoria,8
+G71,G70-G73,Trastornos musculares primarios,categoria,27
+G72,G70-G73,Otras miopatías y las no especificadas,categoria,9
+G73,G70-G73,Trastornos del músculo y de la unión neuromuscular en enfermedades clasificadas bajo otro concepto,categoria,3
+G80-G83,Cap.06,PARÁLISIS CEREBRAL Y OTROS SÍNDROMES PARALÍTICOS (G80-G83),bloque,54
+G80,G80-G83,Parálisis cerebral,categoria,7
+G81,G80-G83,Hemiplejia y hemiparesia,categoria,15
+G82,G80-G83,Paraplejia (paraparesia) y tetraplejia (tetraparesia),categoria,8
+G83,G80-G83,Otros síndromes paralíticos,categoria,24
+G89-G99,Cap.06,OTROS TRASTORNOS DEL SISTEMA NERVIOSO (G89-G99),bloque,112
+G89,G89-G99,"Dolor, no clasificado bajo otro concepto",categoria,10
+G90,G89-G99,Trastornos del sistema nervioso autónomo,categoria,21
+G91,G89-G99,Hidrocefalia,categoria,7
+G92,G89-G99,Encefalopatía tóxica,categoria,8
+G93,G89-G99,Otros trastornos del cerebro,categoria,20
+G94,G89-G99,Otros trastornos del cerebro en enfermedades clasificadas bajo otro concepto,categoria,1
+G95,G89-G99,Otras enfermedades de médula espinal y las no especificadas,categoria,8
+G96,G89-G99,Otros trastornos del sistema nervioso central,categoria,14
+G97,G89-G99,"Complicaciones intraoperatorias y posprocedimiento del sistema nervioso, no clasificadas bajo otro concepto",categoria,18
+G98,G89-G99,Otros trastornos del sistema nervioso no clasificados bajo otro concepto,categoria,2
+G99,G89-G99,Otros trastornos del sistema nervioso en enfermedades clasificadas bajo otro concepto,categoria,3
+Cap.07,CIE-10-ES,ENFERMEDADES DEL OJO Y SUS ANEXOS (H00-H59),capitulo,2661
+H00-H05,Cap.07,"TRASTORNOS DE PÁRPADO, APARATO LACRIMAL Y ÓRBITA (H00-H05)",bloque,562
+H00,H00-H05,Orzuelo y chalazión,categoria,28
+H01,H00-H05,Otros tipos de inflamación de párpado,categoria,57
+H02,H00-H05,Otros trastornos del párpado,categoria,259
+H04,H00-H05,Trastornos de aparato lacrimal,categoria,120
+H05,H00-H05,Trastornos de órbita,categoria,98
+H10-H11,Cap.07,TRASTORNOS DE CONJUNTIVA (H10-H11),bloque,167
+H10,H10-H11,Conjuntivitis,categoria,72
+H11,H10-H11,Otros trastornos de conjuntiva,categoria,95
+H15-H22,Cap.07,"TRASTORNOS DE ESCLERÓTICA, CÓRNEA, IRIS Y CUERPO CILIAR (H15-H22)",bloque,497
+H15,H15-H22,Trastornos de esclerótica,categoria,62
+H16,H15-H22,Queratitis,categoria,126
+H17,H15-H22,Cicatrices y opacidades corneales,categoria,18
+H18,H15-H22,Otros trastornos de córnea,categoria,155
+H20,H15-H22,Iridociclitis,categoria,38
+H21,H15-H22,Otros trastornos del iris y del cuerpo ciliar,categoria,97
+H22,H15-H22,Trastornos de iris y cuerpo ciliar en enfermedades clasificadas bajo otro concepto,categoria,1
+H25-H28,Cap.07,TRASTORNOS DEL CRISTALINO (H25-H28),bloque,119
+H25,H25-H28,Catarata relacionada con la edad,categoria,30
+H26,H25-H28,Otras cataratas,categoria,69
+H27,H25-H28,Otros trastornos de cristalino,categoria,19
+H28,H25-H28,Catarata en enfermedades clasificadas bajo otro concepto,categoria,1
+H30-H36,Cap.07,TRASTORNOS DE COROIDES Y RETINA (H30-H36),bloque,410
+H30,H30-H36,Inflamación coriorretiniana,categoria,56
+H31,H30-H36,Otros trastornos de coroides,categoria,59
+H32,H30-H36,Trastornos coriorretinianos en enfermedades clasificadas bajo otro concepto,categoria,1
+H33,H30-H36,Desprendimientos y rotura de retina,categoria,65
+H34,H30-H36,Oclusiones vasculares retinianas,categoria,45
+H35,H30-H36,Otros trastornos de retina,categoria,175
+H36,H30-H36,Trastornos de retina en enfermedades clasificadas bajo otro concepto,categoria,9
+H40-H42,Cap.07,GLAUCOMA (H40-H42),bloque,249
+H40,H40-H42,Glaucoma,categoria,248
+H42,H40-H42,Glaucoma en enfermedades clasificadas bajo otro concepto,categoria,1
+H43-H44,Cap.07,TRASTORNOS DE CUERPO VÍTREO Y GLOBO OCULAR (H43-H44),bloque,188
+H43,H43-H44,Trastornos del cuerpo vítreo,categoria,30
+H44,H43-H44,Trastornos del globo ocular,categoria,158
+H46-H47,Cap.07,TRASTORNOS DE NERVIO ÓPTICO Y VÍAS VISUALES (H46-H47),bloque,92
+H46,H46-H47,Neuritis óptica,categoria,12
+H47,H46-H47,Otros trastornos del nervio óptico [II par] y de las vías ópticas,categoria,80
+H49-H52,Cap.07,"TRASTORNOS DE MÚSCULOS OCULARES, MOVIMIENTO BINOCULAR, ACOMODACIÓN Y REFRACCIÓN (H49-H52)",bloque,150
+H49,H49-H52,Estrabismo paralítico,categoria,29
+H50,H49-H52,Otros tipos de estrabismo,categoria,75
+H51,H49-H52,Otros trastornos de movimientos binoculares,categoria,9
+H52,H49-H52,Trastornos de refracción y acomodación,categoria,37
+H53-H54,Cap.07,ALTERACIONES VISUALES Y CEGUERA (H53-H54),bloque,128
+H53,H53-H54,Problemas visuales,categoria,84
+H54,H53-H54,Ceguera y baja visión,categoria,44
+H55-H57,Cap.07,OTROS TRASTORNOS DEL OJO Y SUS ANEXOS (H55-H57),bloque,33
+H55,H55-H57,Nistagmo y otros movimientos oculares irregulares,categoria,9
+H57,H55-H57,Otros trastornos del ojo y sus anexos,categoria,24
+H59-H59,Cap.07,"COMPLICACIONES Y TRASTORNOS INTRAOPERATORIOS Y POSPROCEDIMIENTO DE OJO Y SUS ANEXOS, NO CLASIFICADOS BAJO OTRO CONCEPTO (H59)",bloque,66
+H59,H59-H59,"Complicaciones y trastornos intraoperatorios y posprocedimiento de ojo y sus anexos, no clasificados bajo otro concepto",categoria,66
+Cap.08,CIE-10-ES,ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES (H60-H95),capitulo,653
+H60-H62,Cap.08,ENFERMEDADES DEL OÍDO EXTERNO (H60-H62),bloque,144
+H60,H60-H62,Otitis externa,categoria,72
+H61,H60-H62,Otros trastornos del oído externo,categoria,64
+H62,H60-H62,Trastornos del oído externo en enfermedades clasificadas bajo otro concepto,categoria,8
+H65-H75,Cap.08,ENFERMEDADES DEL OIDO MEDIO Y MASTOIDES (H65-H75),bloque,288
+H65,H65-H75,Otitis media no supurativa,categoria,44
+H66,H65-H75,Otitis media supurativa y no especificada,categoria,36
+H67,H65-H75,Otitis media en enfermedades clasificadas bajo otro concepto,categoria,4
+H68,H65-H75,Salpingitis y obstrucción de la trompa de Eustaquio,categoria,28
+H69,H65-H75,Otros trastornos y los no especificados de la trompa de Eustaquio,categoria,12
+H70,H65-H75,Mastoiditis y problemas relacionados,categoria,40
+H71,H65-H75,Colesteatoma del oído medio,categoria,20
+H72,H65-H75,Perforación de la membrana timpánica,categoria,24
+H73,H65-H75,Otros trastornos de la membrana timpánica,categoria,36
+H74,H65-H75,Otros trastornos del oído medio y mastoides,categoria,36
+H75,H65-H75,Otros trastornos del oído medio y mastoides en enfermedades clasificadas bajo otro concepto,categoria,8
+H80-H83,Cap.08,ENFERMEDADES DEL OÍDO INTERNO (H80-H83),bloque,77
+H80,H80-H83,Otoesclerosis,categoria,20
+H81,H80-H83,Trastornos de la función vestibular,categoria,29
+H82,H80-H83,Síndromes vertiginosos en enfermedades clasificadas bajo otro concepto,categoria,4
+H83,H80-H83,Otras enfermedades del oído interno,categoria,24
+H90-H94,Cap.08,OTROS TRASTORNOS DEL OÍDO (H90-H94),bloque,108
+H90,H90-H94,Pérdida auditiva conductiva y neurosensorial,categoria,18
+H91,H90-H94,Otros tipos de pérdida de audición y los no especificados,categoria,21
+H92,H90-H94,Otalgia y secreción del oído,categoria,12
+H93,H90-H94,"Otros trastornos del oído, no clasificados bajo otro concepto",categoria,49
+H94,H90-H94,Otros trastornos del oído en enfermedades clasificadas bajo otro concepto,categoria,8
+H95-H95,Cap.08,"COMPLICACIONES Y TRASTORNOS INTRAOPERATORIOS Y POSPROCEDIMIENTO DEL OÍDO Y APÓFISIS MASTOIDES, NO CLASIFICADOS BAJO OTRO CONCEPTO (H95)",bloque,36
+H95,H95-H95,"Complicaciones y trastornos intraoperatorios y posprocedimiento del oído y apófisis mastoides, no clasificados bajo otro concepto",categoria,36
+Cap.09,CIE-10-ES,ENFERMEDADES DEL APARATO CIRCULATORIO (I00-I99),capitulo,1423
+I00-I02,Cap.09,FIEBRE REUMÁTICA AGUDA (I00-I02),bloque,8
+I00,I00-I02,Fiebre reumática sin afectación cardiaca,categoria,1
+I01,I00-I02,Fiebre reumática con afectación cardiaca,categoria,5
+I02,I00-I02,Corea reumática,categoria,2
+I05-I09,Cap.09,ENFERMEDADES REUMÁTICAS CRÓNICAS CARDIACAS (I05-I09),bloque,27
+I05,I05-I09,Enfermedades reumáticas de válvula mitral,categoria,5
+I06,I05-I09,Enfermedades reumáticas de válvula aórtica,categoria,5
+I07,I05-I09,Enfermedades reumáticas de válvula tricúspide,categoria,5
+I08,I05-I09,Enfermedades valvulares múltiples,categoria,6
+I09,I05-I09,Otras enfermedades reumáticas cardiacas,categoria,6
+I10-I1A,Cap.09,ENFERMEDADES HIPERTENSIVAS (I10-I1A),bloque,18
+I10,I10-I1A,Hipertensión esencial (primaria),categoria,1
+I11,I10-I1A,Enfermedad cardiaca hipertensiva,categoria,2
+I12,I10-I1A,Enfermedad renal crónica hipertensiva,categoria,2
+I13,I10-I1A,Enfermedad cardiaca y renal crónica hipertensiva,categoria,4
+I15,I10-I1A,Hipertensión secundaria,categoria,5
+I16,I10-I1A,Crisis hipertensiva,categoria,3
+I1A,I10-I1A,Otra hipertensión,categoria,1
+I20-I25,Cap.09,ENFERMEDADES ISQUÉMICAS CARDIACAS (I20-I25),bloque,94
+I20,I20-I25,Angina de pecho,categoria,6
+I21,I20-I25,Infarto agudo de miocardio,categoria,13
+I22,I20-I25,Infarto agudo de miocardio subsiguiente con elevación de ST (IAMCEST) (IMEST) (STEMI) y sin elevación de ST (IAMSEST) (IMNEST) (NSTEMI),categoria,5
+I23,I20-I25,"Complicaciones en curso, tras infarto de miocardio con elevación de ST (IAMCEST)(IMEST)(STEMI) y sin elevación del ST (IAMSEST)(IMSEST)(NSTEMI) (dentro del periodo de 28 días)",categoria,9
+I24,I20-I25,Otras enfermedades isquémicas agudas cardiacas,categoria,5
+I25,I20-I25,Enfermedad isquémica crónica cardiaca,categoria,56
+I26-I28,Cap.09,ENFERMEDAD PULMONAR CARDIACA Y ENFERMEDADES DE LA CIRCULACIÓN PULMONAR (I26-I28),bloque,29
+I26,I26-I28,Embolia pulmonar,categoria,12
+I27,I26-I28,Otros tipos de enfermedad pulmonar cardiaca,categoria,13
+I28,I26-I28,Otras enfermedades de los vasos pulmonares,categoria,4
+I30-I5A,Cap.09,OTRAS FORMAS DE ENFERMEDAD CARDIACA (I30-I5A),bloque,140
+I30,I30-I5A,Pericarditis aguda,categoria,4
+I31,I30-I5A,Otras enfermedades del pericardio,categoria,8
+I32,I30-I5A,Pericarditis en enfermedades clasificadas bajo otro concepto,categoria,1
+I33,I30-I5A,Endocarditis aguda y subaguda,categoria,2
+I34,I30-I5A,Trastornos de válvula mitral no reumáticos,categoria,6
+I35,I30-I5A,Trastornos de válvula aórtica no reumáticos,categoria,5
+I36,I30-I5A,Trastornos de válvula tricúspide no reumáticos,categoria,5
+I37,I30-I5A,Trastornos de válvula pulmonar no reumáticos,categoria,5
+I38,I30-I5A,"Endocarditis, válvula no especificada",categoria,1
+I39,I30-I5A,Endocarditis y trastornos de las válvulas cardiacas en enfermedades clasificadas bajo otro concepto,categoria,1
+I40,I30-I5A,Miocarditis aguda,categoria,4
+I41,I30-I5A,Miocarditis en enfermedades clasificadas bajo otro concepto,categoria,1
+I42,I30-I5A,Miocardiopatía,categoria,10
+I43,I30-I5A,Miocardiopatía en enfermedades clasificadas bajo otro concepto,categoria,1
+I44,I30-I5A,Bloqueo auriculoventricular y de rama izquierda del haz,categoria,10
+I45,I30-I5A,Otros trastornos de conducción,categoria,11
+I46,I30-I5A,Paro cardiaco,categoria,3
+I47,I30-I5A,Taquicardia paroxística,categoria,8
+I48,I30-I5A,Fibrilación y flutter auricular,categoria,9
+I49,I30-I5A,Otras arritmias cardiacas,categoria,10
+I50,I30-I5A,Insuficiencia cardiaca,categoria,23
+I51,I30-I5A,Complicaciones y descripciones mal definidas de enfermedad cardiaca,categoria,10
+I52,I30-I5A,Otros trastornos cardiacos en enfermedades clasificadas bajo otro concepto,categoria,1
+I5A,I30-I5A,Lesión miocárdica no isquémica (no traumática),categoria,1
+I60-I69,Cap.09,ENFERMEDADES CEREBROVASCULARES (I60-I69),bloque,410
+I60,I60-I69,Hemorragia subaracnoidea no traumática,categoria,18
+I61,I60-I69,Hemorragia intracerebral no traumática,categoria,9
+I62,I60-I69,Otra hemorragia intracraneal no traumática y las no especificadas,categoria,6
+I63,I60-I69,Infarto cerebral,categoria,91
+I65,I60-I69,"Oclusión y estenosis de arterias precerebrales, que no produce infarto cerebral",categoria,11
+I66,I60-I69,"Oclusión y estenosis de arterias cerebrales, que no produce infarto cerebral",categoria,15
+I67,I60-I69,Otras enfermedades cerebrovasculares,categoria,17
+I68,I60-I69,Trastornos cerebrovasculares en enfermedades clasificadas bajo otro concepto,categoria,3
+I69,I60-I69,Secuelas de enfermedad cerebrovascular,categoria,240
+I70-I79,Cap.09,"ENFERMEDADES DE ARTERIAS, ARTERIOLAS Y CAPILARES (I70-I79)",bloque,344
+I70,I70-I79,Aterosclerosis,categoria,246
+I71,I70-I79,Aneurisma y disección aórticos,categoria,31
+I72,I70-I79,Otros tipos de aneurisma,categoria,9
+I73,I70-I79,Otras enfermedades vasculares periféricas,categoria,6
+I74,I70-I79,Embolia y trombosis arterial,categoria,11
+I75,I70-I79,Ateroembolismo,categoria,10
+I76,I70-I79,Embolia arterial séptica,categoria,1
+I77,I70-I79,Otros trastornos de arterias y arteriolas,categoria,23
+I78,I70-I79,Enfermedades de los capilares,categoria,4
+I79,I70-I79,"Trastornos de arterias, arteriolas y capilares en enfermedades clasificadas bajo otro concepto",categoria,3
+I80-I89,Cap.09,"ENFERMEDADES DE VENAS, VASOS Y GANGLIOS LINFÁTICOS, NO CLASIFICADAS BAJO OTRO CONCEPTO (I80-I89)",bloque,304
+I80,I80-I89,Flebitis y tromboflebitis,categoria,39
+I81,I80-I89,Trombosis de vena porta,categoria,1
+I82,I80-I89,Otros tipos de embolia y trombosis venosa,categoria,145
+I83,I80-I89,Venas varicosas de extremidades inferiores,categoria,57
+I85,I80-I89,Varices esofágicas,categoria,4
+I86,I80-I89,Venas varicosas de otras localizaciones,categoria,6
+I87,I80-I89,Otros trastornos de las venas,categoria,44
+I88,I80-I89,Linfadenitis inespecífica,categoria,4
+I89,I80-I89,Otros trastornos no infecciosos de vasos y ganglios linfáticos,categoria,4
+I95-I99,Cap.09,OTROS TRASTORNOS DE APARATO CIRCULATORIO Y LOS NO ESPECIFICADOS (I95-I99),bloque,49
+I95,I95-I99,Hipotensión,categoria,7
+I96,I95-I99,"Gangrena, no clasificada bajo otro concepto",categoria,1
+I97,I95-I99,"Complicaciones y trastornos intraoperatorios y posprocedimiento de aparato circulatorio, no clasificados bajo otro concepto",categoria,39
+I99,I95-I99,Otros trastornos de aparato circulatorio y los no especificados,categoria,2
+Cap.10,CIE-10-ES,ENFERMEDADES DEL APARATO RESPIRATORIO (J00-J99),capitulo,360
+J00-J06,Cap.10,INFECCIONES AGUDAS DEL TRACTO RESPIRATORIO SUPERIOR (J00-J06),bloque,35
+J00,J00-J06,Nasofaringitis aguda [resfriado común],categoria,1
+J01,J00-J06,Sinusitis aguda,categoria,14
+J02,J00-J06,Faringitis aguda,categoria,3
+J03,J00-J06,Amigdalitis aguda,categoria,6
+J04,J00-J06,Laringitis y traqueítis agudas,categoria,6
+J05,J00-J06,Laringitis aguda obstructiva [crup] y epiglotitis aguda obstructiva,categoria,3
+J06,J00-J06,Infecciones agudas del tracto respiratorio superior de localizaciones múltiples o no especificadas,categoria,2
+J09-J18,Cap.10,GRIPE Y NEUMONÍA (J09-J18),bloque,53
+J09,J09-J18,Gripe debida a virus de la gripe identificados,categoria,4
+J10,J09-J18,Gripe debida a otros tipos de virus de la gripe identificados,categoria,9
+J11,J09-J18,Gripe debida a virus de la gripe no identificado,categoria,8
+J12,J09-J18,"Neumonía vírica, no clasificada bajo otro concepto",categoria,8
+J13,J09-J18,Neumonía por Streptococcus pneumoniae,categoria,1
+J14,J09-J18,Neumonía por Haemophilus influenzae,categoria,1
+J15,J09-J18,"Neumonía bacteriana, no clasificada bajo otro concepto",categoria,14
+J16,J09-J18,"Neumonía por otros microorganismos infecciosos, no clasificados bajo otro concepto",categoria,2
+J17,J09-J18,Neumonía en enfermedades clasificadas bajo otro concepto,categoria,1
+J18,J09-J18,"Neumonía, microorganismo no especificado",categoria,5
+J20-J22,Cap.10,OTRAS INFECCIONES AGUDAS DEL TRACTO RESPIRATORIO INFERIOR (J20-J22),bloque,15
+J20,J20-J22,Bronquitis aguda,categoria,10
+J21,J20-J22,Bronquiolitis aguda,categoria,4
+J22,J20-J22,"Infección aguda del tracto respiratorio inferior, no especificada",categoria,1
+J30-J39,Cap.10,OTRAS ENFERMEDADES DEL TRACTO RESPIRATORIO SUPERIOR (J30-J39),bloque,62
+J30,J30-J39,Rinitis vasomotora y alérgica,categoria,7
+J31,J30-J39,"Rinitis, faringitis y rinofaringitis crónica",categoria,3
+J32,J30-J39,Sinusitis crónica,categoria,7
+J33,J30-J39,Pólipo nasal,categoria,4
+J34,J30-J39,Otras enfermedades y las no especificadas de la nariz y de los senos nasales,categoria,14
+J35,J30-J39,Enfermedades crónicas de las amígdalas y de las adenoides,categoria,8
+J36,J30-J39,Absceso periamigdalino,categoria,1
+J37,J30-J39,Laringitis y laringotraqueítis crónicas,categoria,2
+J38,J30-J39,"Enfermedades de las cuerdas vocales y de la laringe, no clasificables bajo otro concepto",categoria,10
+J39,J30-J39,Otras enfermedades del tracto respiratorio superior,categoria,6
+J40-J4A,Cap.10,ENFERMEDADES CRÓNICAS DEL TRACTO RESPIRATORIO INFERIOR (J40-J4A),bloque,39
+J40,J40-J4A,"Bronquitis, no especificada como aguda o crónica",categoria,1
+J41,J40-J4A,Bronquitis crónica simple y mucopurulenta,categoria,3
+J42,J40-J4A,Bronquitis crónica no especificada,categoria,1
+J43,J40-J4A,Enfisema,categoria,5
+J44,J40-J4A,Otras enfermedades pulmonares obstructivas crónicas,categoria,5
+J45,J40-J4A,Asma,categoria,18
+J47,J40-J4A,Bronquiectasias,categoria,3
+J4A,J40-J4A,Disfunción crónica de aloinjerto pulmonar,categoria,3
+J60-J70,Cap.10,ENFERMEDADES PULMONARES POR AGENTES EXTERNOS (J60-J70),bloque,45
+J60,J60-J70,Neumoconiosis de los mineros del carbón,categoria,1
+J61,J60-J70,Neumoconiosis por asbesto y otras fibras minerales,categoria,1
+J62,J60-J70,Neumoconiosis debida a polvo que contiene sílice,categoria,2
+J63,J60-J70,Neumoconiosis debida a otros tipos de polvo inorgánico,categoria,7
+J64,J60-J70,Neumoconiosis no especificada,categoria,1
+J65,J60-J70,Neumoconiosis asociada con tuberculosis,categoria,1
+J66,J60-J70,Enfermedad de las vías respiratorias debida a polvo orgánico específico,categoria,4
+J67,J60-J70,Neumonitis por hipersensibilidad debida a polvo orgánico,categoria,10
+J68,J60-J70,"Problemas respiratorios por inhalación de productos químicos, gases, humos y vapores",categoria,7
+J69,J60-J70,Neumonitis debida a sólidos y líquidos,categoria,3
+J70,J60-J70,Afecciones respiratorias por otros agentes externos,categoria,8
+J80-J84,Cap.10,OTRAS ENFERMEDADES RESPIRATORIAS QUE AFECTAN PRINCIPALMENTE AL INTERSTICIO (J80-J84),bloque,31
+J80,J80-J84,Síndrome de dificultad respiratoria [distrés respiratorio],categoria,1
+J81,J80-J84,Edema pulmonar,categoria,2
+J82,J80-J84,"Eosinofilia pulmonar, no clasificada bajo otro concepto",categoria,4
+J84,J80-J84,Otras enfermedades pulmonares intersticiales,categoria,24
+J85-J86,Cap.10,ENFERMEDADES SUPURATIVAS Y NECRÓTICAS DEL TRACTO RESPIRATORIO INFERIOR (J85-J86),bloque,6
+J85,J85-J86,Absceso pulmonar y del mediastino,categoria,4
+J86,J85-J86,Piotórax,categoria,2
+J90-J94,Cap.10,OTRAS ENFERMEDADES DE LA PLEURA (J90-J94),bloque,17
+J90,J90-J94,"Derrame pleural, no clasificable bajo otro concepto",categoria,1
+J91,J90-J94,Derrame pleural en afecciones clasificadas bajo otro concepto,categoria,2
+J92,J90-J94,Placa pleural,categoria,2
+J93,J90-J94,Neumotórax y escape de aire,categoria,7
+J94,J90-J94,Otros problemas pleurales,categoria,5
+J95-J95,Cap.10,"COMPLICACIONES Y TRASTORNOS INTRAOPERATORIOS Y POSPROCEDIMIENTO DE APARATO RESPIRATORIO, NO CLASIFICADOS BAJO OTRO CONCEPTO (J95)",bloque,32
+J95,J95-J95,"Complicaciones y trastornos intraoperatorios y posprocedimiento de aparato respiratorio, no clasificados bajo otro concepto",categoria,32
+J96-J99,Cap.10,OTRAS ENFERMEDADES DEL APARATO RESPIRATORIO (J96-J99),bloque,25
+J96,J96-J99,"Insuficiencia respiratoria, no clasificada bajo otro concepto",categoria,12
+J98,J96-J99,Otros trastornos respiratorios,categoria,12
+J99,J96-J99,Trastornos respiratorios en enfermedades clasificadas bajo otro concepto,categoria,1
+Cap.11,CIE-10-ES,ENFERMEDADES DEL APARATO DIGESTIVO (K00-K95),capitulo,857
+K00-K14,Cap.11,ENFERMEDADES DE LA CAVIDAD ORAL Y GLÁNDULAS SALIVALES (K00-K14),bloque,202
+K00,K00-K14,Trastornos de desarrollo y erupción de diente,categoria,10
+K01,K00-K14,Dientes incluidos e impactados,categoria,2
+K02,K00-K14,Caries dental,categoria,9
+K03,K00-K14,Otras enfermedades de los tejidos duros de los dientes,categoria,11
+K04,K00-K14,Enfermedades de pulpa y tejidos periapicales,categoria,12
+K05,K00-K14,Gingivitis y enfermedades periodontales,categoria,25
+K06,K00-K14,Otros trastornos de encía y reborde alveolar edéntulo,categoria,13
+K08,K00-K14,Otros trastornos de dientes y estructuras de soporte,categoria,73
+K09,K00-K14,"Quistes de región oral, no clasificados bajo otro concepto",categoria,4
+K11,K00-K14,Enfermedades de las glándulas salivales,categoria,13
+K12,K00-K14,Estomatitis y lesiones relacionadas,categoria,8
+K13,K00-K14,Otras enfermedades de labio y de mucosa oral,categoria,13
+K14,K00-K14,Enfermedades de la lengua,categoria,9
+K20-K31,Cap.11,"ENFERMEDADES DEL ESÓFAGO, ESTÓMAGO Y DUODENO (K20-K31)",bloque,105
+K20,K20-K31,Esofagitis,categoria,5
+K21,K20-K31,Enfermedad por reflujo gastroesofágico,categoria,3
+K22,K20-K31,Otras enfermedades de esófago,categoria,16
+K23,K20-K31,Trastornos de esófago en enfermedades clasificadas bajo otro concepto,categoria,1
+K25,K20-K31,Úlcera gástrica,categoria,9
+K26,K20-K31,Úlcera duodenal,categoria,9
+K27,K20-K31,"Úlcera péptica, no especificado sitio",categoria,9
+K28,K20-K31,Úlcera gastroyeyunal,categoria,9
+K29,K20-K31,Gastritis y duodenitis,categoria,18
+K30,K20-K31,Dispepsia funcional,categoria,1
+K31,K20-K31,Otras enfermedades de estómago y duodeno,categoria,25
+K35-K38,Cap.11,ENFERMEDADES DEL APÉNDICE (K35-K38),bloque,21
+K35,K35-K38,Apendicitis aguda,categoria,13
+K36,K35-K38,Otros tipos de apendicitis,categoria,1
+K37,K35-K38,Apendicitis no especificada,categoria,1
+K38,K35-K38,Otras enfermedades de apéndice,categoria,6
+K40-K46,Cap.11,HERNIA (K40-K46),bloque,45
+K40,K40-K46,Hernia inguinal,categoria,12
+K41,K40-K46,Hernia femoral,categoria,12
+K42,K40-K46,Hernia umbilical,categoria,3
+K43,K40-K46,Hernia ventral,categoria,9
+K44,K40-K46,Hernia diafragmática,categoria,3
+K45,K40-K46,Otra hernia abdominal,categoria,3
+K46,K40-K46,Hernia abdominal no especificada,categoria,3
+K50-K52,Cap.11,ENTERITIS Y COLITIS NO INFECCIOSAS (K50-K52),bloque,91
+K50,K50-K52,Enfermedad de Crohn [enteritis regional],categoria,28
+K51,K50-K52,Colitis ulcerosa,categoria,49
+K52,K50-K52,Otras gastroenteritis y colitis no infecciosas y las no especificadas,categoria,14
+K55-K64,Cap.11,OTRAS ENFERMEDADES DE LOS INTESTINOS (K55-K64),bloque,157
+K55,K55-K64,Trastornos vasculares de intestino,categoria,27
+K56,K55-K64,Íleo paralítico y obstrucción intestinal sin hernia,categoria,16
+K57,K55-K64,Enfermedad diverticular de intestino,categoria,24
+K58,K55-K64,Síndrome de intestino irritable,categoria,5
+K59,K55-K64,Otros trastornos intestinales funcionales,categoria,14
+K60,K55-K64,Fisura y fístula de las regiones anal y rectal,categoria,30
+K61,K55-K64,Absceso de las regiones anal y rectal,categoria,7
+K62,K55-K64,Otras enfermedades de ano y recto,categoria,12
+K63,K55-K64,Otras enfermedades de intestino,categoria,14
+K64,K55-K64,Hemorroides y trombosis venosa perianal,categoria,8
+K65-K68,Cap.11,ENFERMEDADES DEL PERITONEO Y RETROPERITONEO (K65-K68),bloque,18
+K65,K65-K68,Peritonitis,categoria,7
+K66,K65-K68,Otros trastornos de peritoneo,categoria,4
+K67,K65-K68,Trastornos de peritoneo en enfermedades infecciosas clasificadas bajo otro concepto,categoria,1
+K68,K65-K68,Trastornos de retroperitoneo,categoria,6
+K70-K77,Cap.11,ENFERMEDADES DE HÍGADO (K70-K77),bloque,63
+K70,K70-K77,Enfermedad alcohólica de hígado,categoria,9
+K71,K70-K77,Enfermedad tóxica de hígado,categoria,12
+K72,K70-K77,"Insuficiencia hepática, no clasificada bajo otro concepto",categoria,6
+K73,K70-K77,"Hepatitis crónica, no clasificada bajo otro concepto",categoria,5
+K74,K70-K77,Fibrosis y cirrosis de hígado,categoria,10
+K75,K70-K77,Otras enfermedades inflamatorias de hígado,categoria,8
+K76,K70-K77,Otras enfermedades de hígado,categoria,12
+K77,K70-K77,Trastornos hepáticos en enfermedades clasificadas bajo otro concepto,categoria,1
+K80-K87,Cap.11,"TRASTORNOS DE LA VESÍCULA BILIAR, VÍAS BILIARES Y PÁNCREAS (K80-K87)",bloque,88
+K80,K80-K87,Colelitiasis,categoria,40
+K81,K80-K87,Colecistitis,categoria,4
+K82,K80-K87,Otras enfermedades de vesícula biliar,categoria,9
+K83,K80-K87,Otras enfermedades de tracto biliar,categoria,9
+K85,K80-K87,Pancreatitis aguda,categoria,18
+K86,K80-K87,Otras enfermedades de páncreas,categoria,7
+K87,K80-K87,"Trastornos de vesícula biliar, vías biliares y páncreas en enfermedades clasificadas bajo otro concepto",categoria,1
+K90-K95,Cap.11,OTRAS ENFERMEDADES DEL APARATO DIGESTIVO (K90-K95),bloque,67
+K90,K90-K95,Malabsorción intestinal,categoria,13
+K91,K90-K95,"Complicaciones y trastornos de aparato digestivo intraoperatorios y posprocedimiento, no clasificados bajo otro concepto",categoria,24
+K92,K90-K95,Otras enfermedades de aparato digestivo,categoria,6
+K94,K90-K95,Complicaciones de apertura artificial de aparato digestivo,categoria,20
+K95,K90-K95,Complicaciones de los procedimientos bariátricos,categoria,4
+Cap.12,CIE-10-ES,ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO (L00-L99),capitulo,884
+L00-L08,Cap.12,INFECCIONES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO (L00-L08),bloque,154
+L00,L00-L08,Síndrome de la piel escaldada estafilocócica,categoria,1
+L01,L00-L08,Impétigo,categoria,6
+L02,L00-L08,"Absceso cutáneo, forúnculo y ántrax",categoria,78
+L03,L00-L08,Celulitis y linfangitis aguda,categoria,53
+L04,L00-L08,Linfadenitis aguda,categoria,6
+L05,L00-L08,Quiste y seno pilonidal,categoria,4
+L08,L00-L08,Otras infecciones locales de la piel y del tejido subcutáneo,categoria,6
+L10-L14,Cap.12,TRASTORNOS AMPOLLOSOS (L10-L14),bloque,26
+L10,L10-L14,Pénfigo,categoria,9
+L11,L10-L14,Otros tipos de trastornos acantolíticos,categoria,4
+L12,L10-L14,Penfigoide,categoria,8
+L13,L10-L14,Otros trastornos ampollosos,categoria,4
+L14,L10-L14,Trastornos ampollosos en enfermedades clasificadas bajo otro concepto,categoria,1
+L20-L30,Cap.12,DERMATITIS Y ECCEMA (L20-L30),bloque,74
+L20,L20-L30,Dermatitis atópica,categoria,7
+L21,L20-L30,Dermatitis seborreica,categoria,4
+L22,L20-L30,Dermatitis del pañal,categoria,1
+L23,L20-L30,Dermatitis alérgica de contacto,categoria,11
+L24,L20-L30,Dermatitis de contacto irritativa,categoria,19
+L25,L20-L30,Dermatitis de contacto no especificada,categoria,8
+L26,L20-L30,Dermatitis exfoliativa,categoria,1
+L27,L20-L30,Dermatitis debida a sustancias ingeridas,categoria,5
+L28,L20-L30,Liquen simple crónico y prurigo,categoria,3
+L29,L20-L30,Prurito,categoria,7
+L30,L20-L30,Otras dermatitis y las no especificadas,categoria,8
+L40-L45,Cap.12,TRASTORNOS PAPULOESCAMOSOS (L40-L45),bloque,35
+L40,L40-L45,Psoriasis,categoria,13
+L41,L40-L45,Parapsoriasis,categoria,7
+L42,L40-L45,Pitiriasis rosada,categoria,1
+L43,L40-L45,Liquen plano,categoria,6
+L44,L40-L45,Otros trastornos papuloescamosos,categoria,7
+L45,L40-L45,Trastornos papuloescamosos en enfermedades clasificadas bajo otro concepto,categoria,1
+L49-L54,Cap.12,URTICARIA Y ERITEMA (L49-L54),bloque,33
+L49,L49-L54,Exfoliación por afecciones eritematosas según la extensión de superficie corporal afectada,categoria,10
+L50,L49-L54,Urticaria,categoria,9
+L51,L49-L54,Eritema multiforme,categoria,6
+L52,L49-L54,Eritema nodoso,categoria,1
+L53,L49-L54,Otras afecciones eritematosas,categoria,6
+L54,L49-L54,Eritema en enfermedades clasificadas bajo otro concepto,categoria,1
+L55-L59,Cap.12,TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO RELACIONADOS CON LA RADIACIÓN (L55-L59),bloque,26
+L55,L55-L59,Quemadura solar,categoria,4
+L56,L55-L59,Otras alteraciones agudas de la piel debidas a radiación ultravioleta,categoria,8
+L57,L55-L59,Alteraciones de la piel por exposición crónica a radiación no ionizante,categoria,8
+L58,L55-L59,Radiodermatitis,categoria,3
+L59,L55-L59,Otros trastornos de la piel y del tejido subcutáneo relacionados con la radiación,categoria,3
+L60-L75,Cap.12,TRASTORNOS DE LOS ANEJOS CUTÁNEOS (L60-L75),bloque,85
+L60,L60-L75,Trastornos de las uñas,categoria,8
+L62,L60-L75,Trastornos de las uñas en enfermedades clasificadas bajo otro concepto,categoria,1
+L63,L60-L75,Alopecia areata,categoria,5
+L64,L60-L75,Alopecia androgénica,categoria,3
+L65,L60-L75,Otra pérdida de pelo no cicatricial,categoria,5
+L66,L60-L75,Alopecia cicatricial [pérdida cicatricial del cabello],categoria,11
+L67,L60-L75,Anormalidades del color y del tallo del pelo,categoria,4
+L68,L60-L75,Hipertricosis,categoria,6
+L70,L60-L75,Acné,categoria,8
+L71,L60-L75,Rosácea,categoria,4
+L72,L60-L75,Quistes foliculares de la piel y del tejido subcutáneo,categoria,7
+L73,L60-L75,Otros trastornos foliculares,categoria,5
+L74,L60-L75,Trastornos sudoríparos ecrinos,categoria,13
+L75,L60-L75,Trastornos sudoríparos apocrinos,categoria,5
+L76-L76,Cap.12,COMPLICACIONES INTRAOPERATORIAS Y POSPROCEDIMIENTO DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO (L76),bloque,12
+L76,L76-L76,Complicaciones intraoperatorias y posprocedimiento de la piel y del tejido subcutáneo,categoria,12
+L80-L99,Cap.12,OTROS TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO (L80-L99),bloque,439
+L80,L80-L99,Vitíligo,categoria,1
+L81,L80-L99,Otros trastornos de la pigmentación,categoria,10
+L82,L80-L99,Queratosis seborreica,categoria,2
+L83,L80-L99,Acantosis nigricans,categoria,1
+L84,L80-L99,Callos y callosidades,categoria,1
+L85,L80-L99,Otros tipos de engrosamiento epidérmico,categoria,6
+L86,L80-L99,Queratodermia en enfermedades clasificadas bajo otro concepto,categoria,1
+L87,L80-L99,Trastornos con eliminación transepidérmica,categoria,5
+L88,L80-L99,Pioderma gangrenoso,categoria,1
+L89,L80-L99,Úlcera por presión,categoria,175
+L90,L80-L99,Trastornos atróficos de la piel,categoria,9
+L91,L80-L99,Trastornos hipertróficos de la piel,categoria,3
+L92,L80-L99,Trastornos granulomatosos de la piel y del tejido subcutáneo,categoria,6
+L93,L80-L99,Lupus eritematoso,categoria,3
+L94,L80-L99,Otros trastornos localizados del tejido conjuntivo,categoria,9
+L95,L80-L99,"Vasculitis limitada a la piel, no clasificada bajo otro concepto",categoria,4
+L97,L80-L99,"Úlcera crónica no debida a presión de extremidad inferior, no clasificada bajo otro concepto",categoria,168
+L98,L80-L99,"Otros trastornos de la piel y del tejido subcutáneo, no clasificados bajo otro concepto",categoria,33
+L99,L80-L99,Otros trastornos de la piel y del tejido subcutáneo en enfermedades clasificadas bajo otro concepto,categoria,1
+Cap.13,CIE-10-ES,ENFERMEDADES DEL APARATO MUSCULOESQUELÉTICO Y DEL TEJIDO CONECTIVO (M00-M99),capitulo,6664
+M00-M25,Cap.13,ARTROPATÍAS (M00-M25),bloque,2247
+M00-M02,M00-M25,ARTROPATÍAS INFECCIOSAS (M00-M02),bloque,242
+M00,M00-M02,Artritis piógena (séptica) (L),categoria,97
+M01,M00-M02,Infecciones directas de articulación en enfermedades infecciosas y parasitarias clasificadas bajo otro concepto,categoria,24
+M02,M00-M02,Artropatías posinfecciosas y reactivas,categoria,121
+M04-M04,M00-M25,SÍNDROMES AUTOINFLAMATORIOS (M04),bloque,4
+M04,M04-M04,Síndromes autoinflamatorios,categoria,4
+M05-M14,M00-M25,POLIARTROPATÍAS INFLAMATORIAS (M05-M14),bloque,460
+M05,M05-M14,Artritis reumatoide con factor reumatoide,categoria,210
+M06,M05-M14,Otros tipos de artritis reumatoide,categoria,101
+M07,M05-M14,Artropatías enteropáticas,categoria,24
+M08,M05-M14,Artritis juvenil,categoria,125
+M1A,M00-M25,Gota crónica,categoria,242
+M10,M00-M25,Gota,categoria,121
+M11,M00-M25,Otras artropatías por cristales,categoria,97
+M12,M00-M25,Otras artropatías y las no especificadas,categoria,169
+M13,M00-M25,Otras artritis,categoria,47
+M14,M00-M25,Artropatías en otras enfermedades clasificadas bajo otro concepto,categoria,48
+M15-M19,M00-M25,ARTROSIS (M15-M19),bloque,98
+M15,M15-M19,Poliartrosis,categoria,7
+M16,M15-M19,Artrosis de cadera,categoria,15
+M17,M15-M19,Artrosis de rodilla,categoria,11
+M18,M15-M19,Artrosis de primera articulación carpometacarpiana,categoria,13
+M19,M15-M19,Otras artrosis y las no especificadas,categoria,52
+M20-M25,M00-M25,OTROS TRASTORNOS DE ARTICULACIÓN (M20-M25),bloque,719
+M20,M20-M25,Deformidades adquiridas de los dedos de manos y pies,categoria,33
+M21,M20-M25,Otras deformidades adquiridas de las extremidades,categoria,124
+M22,M20-M25,Trastorno de rótula,categoria,21
+M23,M20-M25,Trastorno interno de rodilla,categoria,111
+M24,M20-M25,Otros trastornos especificados de articulación,categoria,205
+M25,M20-M25,"Otros trastornos de articulación, no clasificados bajo otro concepto",categoria,225
+M26-M27,Cap.13,ANOMALÍAS DENTOFACIALES [INCLUÍDA MALOCLUSIÓN] Y OTROS TRASTONOS MANDIBULARES (M26-M27),bloque,94
+M26,M26-M27,Anomalías dentofaciales [incluida maloclusión],categoria,78
+M27,M26-M27,Otras enfermedades de los maxilares,categoria,16
+M30-M36,Cap.13,TRASTORNOS SISTÉMICOS DEL TEJIDO CONECTIVO (M30-M36),bloque,84
+M30,M30-M36,Poliarteritis nodosa y afecciones relacionadas,categoria,5
+M31,M30-M36,Otras vasculopatías necrotizantes,categoria,13
+M32,M30-M36,Lupus eritematoso sistémico (LES),categoria,10
+M33,M30-M36,Dermatopolimiositis,categoria,19
+M34,M30-M36,Esclerosis sistémica [esclerodermia],categoria,8
+M35,M30-M36,Otros tipos de afectación sistémica de tejido conectivo,categoria,23
+M36,M30-M36,Trastornos sistémicos del tejido conectivo en enfermedades clasificadas bajo otro concepto,categoria,6
+M40-M54,Cap.13,DORSOPATÍAS (M40-M54),bloque,554
+M40-M43,M40-M54,DORSOPATÍAS DEFORMANTES (M40-M43),bloque,157
+M40,M40-M43,Cifosis y lordosis,categoria,31
+M41,M40-M43,Escoliosis,categoria,55
+M42,M40-M43,Osteocondrosis de columna vertebral,categoria,21
+M43,M40-M43,Otras dorsopatías deformantes,categoria,50
+M45-M49,M40-M54,ESPONDILOPATÍAS (M45-M49),bloque,264
+M45,M45-M49,Espondilitis anquilosante,categoria,20
+M46,M45-M49,Otras espondilopatías inflamatorias,categoria,70
+M47,M45-M49,Espondilosis,categoria,45
+M48,M45-M49,Otras espondilopatías,categoria,119
+M49,M45-M49,Espondilopatías en enfermedades clasificadas bajo otro concepto,categoria,10
+M50-M54,M40-M54,OTRAS DORSOPATÍAS (M50-M54),bloque,133
+M50,M50-M54,Trastornos de disco cervical,categoria,42
+M51,M50-M54,"Trastornos de disco intervertebral dorsal, dorsolumbar y lumbosacro",categoria,36
+M53,M50-M54,"Otras dorsopatías y las no especificadas, no clasificadas bajo otro concepto",categoria,22
+M54,M50-M54,Dorsalgia,categoria,33
+M60-M79,Cap.13,TRASTORNOS DE PARTES BLANDAS (M60-M79),bloque,1152
+M60-M63,M60-M79,TRASTORNOS DE LOS MÚSCULOS (M60-M63),bloque,420
+M60,M60-M63,Miositis,categoria,111
+M61,M60-M63,Calcificación y osificación del músculo,categoria,154
+M62,M60-M63,Otros trastornos de los músculos,categoria,131
+M63,M60-M63,Trastornos de los músculos en enfermedades clasificadas bajo otro concepto,categoria,24
+M65-M67,M60-M79,TRASTORNOS DE MEMBRANA SINOVIAL Y TENDONES (M65-M67),bloque,376
+M65,M65-M67,Sinovitis y tenosinovitis,categoria,133
+M66,M65-M67,Ruptura espontánea de membrana sinovial y tendón,categoria,103
+M67,M65-M67,Otros trastornos de membrana sinovial y tendón,categoria,140
+M70-M79,M60-M79,OTROS TRASTORNOS DE PARTES BLANDAS (M70-M79),bloque,356
+M70,M70-M79,"Trastorno de partes blandas en relación con uso, uso excesivo y presión",categoria,75
+M71,M70-M79,Otras bursopatías,categoria,138
+M72,M70-M79,Trastornos fibroblásticos,categoria,7
+M75,M70-M79,Lesiones de hombro,categoria,30
+M76,M70-M79,"Entesopatías, extremidad inferior, excluido el pie",categoria,34
+M77,M70-M79,Otros tipos de entesopatías,categoria,20
+M79,M70-M79,"Otros trastornos de partes blandas y los no especificados, no clasificados bajo otro concepto",categoria,52
+M80-M94,Cap.13,OSTEOPATÍAS Y CONDROPATÍAS (M80-M94),bloque,2360
+M80-M85,M80-M94,TRASTORNOS DE DENSIDAD Y ESTRUCTURA ÓSEAS (M80-M85),bloque,1432
+M80,M80-M85,Osteoporosis con fractura patológica actual,categoria,324
+M81,M80-M85,Osteoporosis sin fractura patológica actual,categoria,3
+M83,M80-M85,Osteomalacia del adulto,categoria,8
+M84,M80-M85,Trastorno de continuidad del hueso,categoria,928
+M85,M80-M85,Otros trastornos de densidad y estructura óseas,categoria,169
+M86-M90,M80-M94,OTRAS OSTEOPATÍAS (M86-M90),bloque,716
+M86,M86-M90,Osteomielitis,categoria,179
+M87,M86-M90,Osteonecrosis,categoria,217
+M88,M86-M90,Osteítis deformante [enfermedad ósea de Paget],categoria,26
+M89,M86-M90,Otros trastornos de hueso,categoria,222
+M90,M86-M90,Osteopatías en enfermedades clasificadas bajo otro concepto,categoria,72
+M91-M94,M80-M94,CONDROPATÍAS (M91-M94),bloque,212
+M91,M91-M94,Osteocondrosis juvenil de cadera y pelvis,categoria,19
+M92,M91-M94,Otra osteocondrosis juvenil,categoria,48
+M93,M91-M94,Otras osteocondropatías,categoria,105
+M94,M91-M94,Otros trastornos del cartílago,categoria,40
+M95-M95,Cap.13,OTROS TRASTORNOS DEL APARATO MUSCULOESQUELÉTICO Y DEL TEJIDO CONECTIVO (M95),bloque,10
+M95,M95-M95,Otras deformidades adquiridas del aparato musculoesquelético y del tejido conectivo,categoria,10
+M96-M96,Cap.13,"COMPLICACIONES Y TRASTORNOS INTRAOPERATORIOS Y POSPROCEDIMIENTO DEL APARATO MUSCULOESQUELÉTICO, NO CLASIFICADOS BAJO OTRO CONCEPTO (M96)",bloque,36
+M96,M96-M96,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato musculoesquelético, no clasificados bajo otro concepto",categoria,36
+M97-M97,Cap.13,FRACTURA PERIPROTÉSICA EN TORNO A PRÓTESIS ARTICULAR INTERNA (M97),bloque,36
+M97,M97-M97,Fractura periprotésica en torno a prótesis articular interna,categoria,36
+M99-M99,Cap.13,"LESIONES BIOMECÁNICAS, NO CLASIFICADAS BAJO OTRO CONCEPTO (M99)",bloque,91
+M99,M99-M99,"Lesiones biomecánicas, no clasificadas bajo otro concepto",categoria,91
+Cap.14,CIE-10-ES,ENFERMEDADES DEL APARATO GENITOURINARIO (N00-N99),capitulo,831
+N00-N08,Cap.14,ENFERMEDADES GLOMERULARES (N00-N08),bloque,102
+N00,N00-N08,Síndrome nefrítico agudo,categoria,11
+N01,N00-N08,Síndrome nefrítico rápidamente progresivo,categoria,11
+N02,N00-N08,Hematuria recurrente y persistente,categoria,18
+N03,N00-N08,Síndrome nefrítico crónico,categoria,11
+N04,N00-N08,Síndrome nefrótico,categoria,14
+N05,N00-N08,Síndrome nefrítico no especificado,categoria,11
+N06,N00-N08,Proteinuria aislada con lesión morfológica especificada,categoria,14
+N07,N00-N08,"Nefropatía hereditaria, no clasificada bajo otro concepto",categoria,11
+N08,N00-N08,Trastornos glomerulares en enfermedades clasificadas bajo otro concepto,categoria,1
+N10-N16,Cap.14,ENFERMEDADES RENALES TÚBULO-INTERSTICIALES (N10-N16),bloque,35
+N10,N10-N16,Pielonefritis aguda,categoria,1
+N11,N10-N16,Nefritis túbulo-intersticial crónica,categoria,4
+N12,N10-N16,"Nefritis túbulo-intersticial, no especificada como aguda ni como crónica",categoria,1
+N13,N10-N16,Uropatía obstructiva y por reflujo,categoria,18
+N14,N10-N16,Afecciones túbulo-intersticiales y tubulares inducidas por fármacos y metales pesados,categoria,6
+N15,N10-N16,Otras enfermedades túbulo-intersticiales renales,categoria,4
+N16,N10-N16,Trastornos túbulo-intersticiales renales en enfermedades clasificadas bajo otro concepto,categoria,1
+N17-N19,Cap.14,FALLO RENAL AGUDO Y ENFERMEDAD RENAL CRÓNICA (N17-N19),bloque,15
+N17,N17-N19,Fallo renal agudo,categoria,5
+N18,N17-N19,Enfermedad renal crónica (ERC),categoria,9
+N19,N17-N19,Insuficiencia renal no especificada,categoria,1
+N20-N23,Cap.14,LITIASIS URINARIA (N20-N23),bloque,10
+N20,N20-N23,Cálculo de riñón y uréter,categoria,4
+N21,N20-N23,Cálculo del tracto urinario inferior,categoria,4
+N22,N20-N23,Cálculo del tracto urinario en enfermedades clasificadas bajo otro concepto,categoria,1
+N23,N20-N23,Cólico renal no especificado,categoria,1
+N25-N29,Cap.14,OTROS TRASTORNOS DEL RIÑÓN Y URÉTER (N25-N29),bloque,22
+N25,N25-N29,Trastornos resultantes de la alteración de la función tubular renal,categoria,5
+N26,N25-N29,Riñón atrófico no especificado,categoria,3
+N27,N25-N29,Riñón pequeño de causa desconocida,categoria,3
+N28,N25-N29,"Otros trastornos del riñón y del uréter, no clasificados bajo otro concepto",categoria,10
+N29,N25-N29,Otros trastornos del riñón y del uréter en enfermedades clasificadas bajo otro concepto,categoria,1
+N30-N39,Cap.14,OTRAS ENFERMEDADES DEL APARATO URINARIO (N30-N39),bloque,85
+N30,N30-N39,Cistitis,categoria,14
+N31,N30-N39,"Disfunción neuromuscular de vejiga, no clasificada bajo otro concepto",categoria,5
+N32,N30-N39,Otros trastornos de vejiga,categoria,7
+N33,N30-N39,Trastornos de vejiga en enfermedades clasificadas bajo otro concepto,categoria,1
+N34,N30-N39,Uretritis y síndrome uretral,categoria,4
+N35,N30-N39,Estenosis de uretra,categoria,29
+N36,N30-N39,Otros trastornos de uretra,categoria,10
+N37,N30-N39,Trastornos de uretra en enfermedades clasificadas bajo otro concepto,categoria,1
+N39,N30-N39,Otros trastornos del aparato urinario,categoria,14
+N40-N53,Cap.14,ENFERMEDADES DE LOS ÓRGANOS GENITALES MASCULINOS (N40-N53),bloque,121
+N40,N40-N53,Hiperplasia prostática benigna,categoria,4
+N41,N40-N53,Enfermedades inflamatorias de próstata,categoria,7
+N42,N40-N53,Otros trastornos de próstata y los no especificados,categoria,11
+N43,N40-N53,Hidrocele y espermatocele,categoria,7
+N44,N40-N53,Trastornos no inflamatorios del testículo,categoria,8
+N45,N40-N53,Orquitis y epididimitis,categoria,4
+N46,N40-N53,Infertilidad masculina,categoria,16
+N47,N40-N53,Trastornos del prepucio,categoria,9
+N48,N40-N53,Otros trastornos del pene,categoria,17
+N49,N40-N53,"Trastornos inflamatorios de los órganos genitales masculinos, no clasificados bajo otro concepto",categoria,6
+N50,N40-N53,Otros trastornos de los órganos genitales masculinos y los no especificados,categoria,9
+N51,N40-N53,Trastornos de los órganos genitales masculinos en otras enfermedades clasificadas bajo otro concepto,categoria,1
+N52,N40-N53,Disfunción eréctil masculina,categoria,15
+N53,N40-N53,Otros tipos de disfunción sexual masculina,categoria,7
+N60-N65,Cap.14,TRASTORNOS DE LA MAMA (N60-N65),bloque,60
+N60,N60-N65,Displasia mamaria benigna,categoria,21
+N61,N60-N65,Trastornos inflamatorios de mama,categoria,6
+N62,N60-N65,Hipertrofia mamaria,categoria,1
+N63,N60-N65,Bulto no especificado de mama,categoria,17
+N64,N60-N65,Otros trastornos mamarios,categoria,13
+N65,N60-N65,Deformidad y desproporción de mama reconstruida,categoria,2
+N70-N77,Cap.14,ENFERMEDADES INFLAMATORIAS DE LOS ÓRGANOS PÉLVICOS FEMENINOS (N70-N77),bloque,39
+N70,N70-N77,Salpingitis y ooforitis,categoria,9
+N71,N70-N77,"Enfermedad inflamatoria uterina, con excepción de cuello uterino",categoria,3
+N72,N70-N77,Enfermedad inflamatoria del cuello uterino,categoria,1
+N73,N70-N77,Otras enfermedades inflamatorias pélvicas femeninas,categoria,9
+N74,N70-N77,Trastornos inflamatorios pélvicos en enfermedades clasificadas bajo otro concepto,categoria,1
+N75,N70-N77,Enfermedades de la glándula de Bartolino,categoria,4
+N76,N70-N77,Otros tipos de inflamación vaginal y vulvar,categoria,10
+N77,N70-N77,Ulceración e inflamación vulvovaginal por otras enfermedades clasificadas bajo otro concepto,categoria,2
+N80-N98,Cap.14,TRASTORNOS NO INFLAMATORIOS DEL TRACTO GENITAL FEMENINO (N80-N98),bloque,300
+N80,N80-N98,Endometriosis,categoria,138
+N81,N80-N98,Prolapso genital femenino,categoria,16
+N82,N80-N98,Fístulas con afectación del tracto genital femenino,categoria,8
+N83,N80-N98,"Trastornos no inflamatorios del ovario, trompa de Falopio y ligamento ancho",categoria,35
+N84,N80-N98,Pólipo del tracto genital femenino,categoria,6
+N85,N80-N98,"Otros trastornos no inflamatorios del útero, con excepción del cervix",categoria,12
+N86,N80-N98,Erosión y ectropión del cervix,categoria,1
+N87,N80-N98,Displasia del cuello uterino,categoria,3
+N88,N80-N98,Otros trastornos no inflamatorios del cervix,categoria,7
+N89,N80-N98,Otros trastornos no inflamatorios de vagina,categoria,9
+N90,N80-N98,Otros trastornos no inflamatorios de vulva y periné,categoria,16
+N91,N80-N98,"Menstruación ausente, escasa e infrecuente",categoria,6
+N92,N80-N98,"Menstruación excesiva, frecuente e irregular",categoria,7
+N93,N80-N98,Otro tipo de sangrado anormal uterino y vaginal,categoria,4
+N94,N80-N98,Dolor y otras afecciones asociadas a órganos genitales femeninos y al ciclo menstrual,categoria,15
+N95,N80-N98,Trastornos menopáusicos y perimenopáusicos,categoria,5
+N96,N80-N98,Pérdida repetida de embarazo,categoria,1
+N97,N80-N98,Infertilidad femenina,categoria,5
+N98,N80-N98,Complicaciones asociadas a la fecundación artificial,categoria,6
+N99-N99,Cap.14,"COMPLICACIONES Y TRASTORNOS INTRAOPERATORIOS Y POSPROCEDIMIENTO DE APARATO GENITOURINARIO, NO CLASIFICADOS BAJO OTRO CONCEPTO (N99)",bloque,42
+N99,N99-N99,"Complicaciones y trastornos intraoperatorios y posprocedimiento del aparato genitourinario, no clasificados bajo otro concepto",categoria,42
+Cap.15,CIE-10-ES,"EMBARAZO, PARTO Y PUERPERIO (O00-O9A)",capitulo,2437
+O00-O08,Cap.15,EMBARAZO CON RESULTADO ABORTIVO (O00-O08),bloque,94
+O00,O00-O08,Embarazo ectópico,categoria,18
+O01,O00-O08,Mola hidatiforme,categoria,3
+O02,O00-O08,Otros productos anormales de la concepción,categoria,5
+O03,O00-O08,Aborto espontáneo,categoria,28
+O04,O00-O08,Complicaciones después de interrupción (inducida) del embarazo,categoria,13
+O07,O00-O08,Intento fallido de interrupción del embarazo,categoria,14
+O08,O00-O08,Complicaciones después de un embarazo ectópico y molar,categoria,13
+O09-O09,Cap.15,SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO (O09),bloque,64
+O09,O09-O09,Supervisión de embarazo de alto riesgo,categoria,64
+O10-O16,Cap.15,"EDEMA, PROTEINURIA Y TRASTORNOS HIPERTENSIVOS EN EL EMBARAZO, PARTO Y PUERPERIO (O10-O16)",bloque,98
+O10,O10-O16,"Hipertensión preexistente que complica el embarazo, parto y puerperio",categoria,36
+O11,O10-O16,Preeclampsia superpuesta a hipertensión preexistente,categoria,6
+O12,O10-O16,Edema y proteinuria gestacional [inducidos por el embarazo] sin hipertensión,categoria,18
+O13,O10-O16,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,categoria,6
+O14,O10-O16,Preeclampsia,categoria,20
+O15,O10-O16,Eclampsia,categoria,6
+O16,O10-O16,Hipertensión materna no especificada,categoria,6
+O20-O29,Cap.15,OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO (O20-O29),bloque,260
+O20,O20-O29,Hemorragia en la fase temprana del embarazo,categoria,3
+O21,O20-O29,Vómitos excesivos en el embarazo,categoria,5
+O22,O20-O29,Complicaciones venosas y hemorroides en el embarazo,categoria,32
+O23,O20-O29,Infecciones del tracto genitourinario en el embarazo,categoria,36
+O24,O20-O29,"Diabetes mellitus en el embarazo, parto y puerperio",categoria,42
+O25,O20-O29,"Desnutrición en el embarazo, parto y puerperio",categoria,6
+O26,O20-O29,Atención materna por otras afecciones predominantemente relacionadas con el embarazo,categoria,72
+O28,O20-O29,Hallazgos anormales en el examen prenatal de la madre,categoria,8
+O29,O20-O29,Complicaciones de anestesia en el embarazo,categoria,56
+O30-O48,Cap.15,ATENCIÓN MATERNA RELACIONADA CON EL FETO Y CAVIDAD AMNIÓTICA Y POSIBLES PROBLEMAS EN EL PARTO (O30-O48),bloque,1349
+O30,O30-O48,Embarazo múltiple,categoria,88
+O31,O30-O48,Complicaciones específicas del embarazo múltiple,categoria,140
+O32,O30-O48,Atención materna por presentación anómala del feto,categoria,56
+O33,O30-O48,Atención materna por desproporción,categoria,40
+O34,O30-O48,Atención materna por anomalía de los órganos pélvicos,categoria,54
+O35,O30-O48,Atención materna por anomalía y daño fetal conocida o sospechada,categoria,231
+O36,O30-O48,Atención materna por otros problemas fetales,categoria,399
+O40,O30-O48,Polihidramnios,categoria,28
+O41,O30-O48,Otros trastornos del líquido y de las membranas amnióticas,categoria,168
+O42,O30-O48,Rotura prematura de membranas,categoria,18
+O43,O30-O48,Trastornos de la placenta,categoria,48
+O44,O30-O48,Placenta previa,categoria,24
+O45,O30-O48,Desprendimiento prematuro de placenta [abruptio placentae],categoria,24
+O46,O30-O48,"Hemorragia anteparto, no clasificada bajo otro concepto",categoria,24
+O47,O30-O48,Falso trabajo de parto,categoria,5
+O48,O30-O48,Embarazo cronológicamente avanzado,categoria,2
+O60-O77,Cap.15,COMPLICACIONES DEL TRABAJO DE PARTO Y DEL PARTO (O60-O77),bloque,269
+O60,O60-O77,Trabajo de parto prematuro,categoria,52
+O61,O60-O77,Inducción fallida del trabajo de parto,categoria,4
+O62,O60-O77,Anormalidades de dinámica del trabajo de parto,categoria,7
+O63,O60-O77,Trabajo de parto prolongado,categoria,4
+O64,O60-O77,Trabajo de parto obstruido debido a mala posición y mala presentación del feto,categoria,56
+O65,O60-O77,Trabajo de parto obstruido debido a anomalías de la pelvis materna,categoria,8
+O66,O60-O77,Otras obstrucciones del trabajo de parto,categoria,10
+O67,O60-O77,"Trabajo de parto y parto complicados por hemorragia intraparto, no clasificados bajo otro concepto",categoria,3
+O68,O60-O77,Trabajo de parto y parto complicados por equilibrio ácido-básico fetal anormal,categoria,1
+O69,O60-O77,Trabajo de parto y parto complicados por complicaciones del cordón umbilical,categoria,70
+O70,O60-O77,Desgarro perineal en el parto,categoria,9
+O71,O60-O77,Otro trauma obstétrico,categoria,14
+O72,O60-O77,Hemorragia posparto,categoria,4
+O73,O60-O77,"Placenta y membranas retenidas, sin hemorragia",categoria,2
+O74,O60-O77,Complicaciones de la anestesia durante el trabajo de parto y parto,categoria,10
+O75,O60-O77,"Otras complicaciones del trabajo de parto y parto, no clasificados bajo otro concepto",categoria,10
+O76,O60-O77,Anormalidad de la frecuencia o ritmo cardiaco fetal que complica el trabajo de parto y el parto,categoria,1
+O77,O60-O77,Otro tipo de sufrimiento fetal que complica el trabajo de parto y parto,categoria,4
+O80-O82,Cap.15,CONTACTO PARA EL PARTO (O80-O82),bloque,2
+O80,O80-O82,Admisión para el parto a término no complicado,categoria,1
+O82,O80-O82,Admisión por parto por cesárea sin indicación,categoria,1
+O85-O92,Cap.15,COMPLICACIONES PRINCIPALMENTE RELACIONADAS CON EL PUERPERIO (O85-O92),bloque,114
+O85,O85-O92,Sepsis puerperal,categoria,1
+O86,O85-O92,Otras infecciones puerperales,categoria,17
+O87,O85-O92,Complicaciones venosas y hemorroides en el puerperio,categoria,7
+O88,O85-O92,Embolia obstétrica,categoria,30
+O89,O85-O92,Complicaciones de la anestesia durante el puerperio,categoria,10
+O90,O85-O92,"Complicaciones del puerperio, no clasificadas bajo otro concepto",categoria,11
+O91,O85-O92,"Infecciones de la mama asociadas al embarazo, puerperio y lactancia",categoria,18
+O92,O85-O92,Otros trastornos y afecciones de la mama y de la lactancia asociados con el embarazo o el puerperio,categoria,20
+O94-O9A,Cap.15,OTRAS AFECCIONES OBSTÉTRICAS NO CLASIFICADAS BAJO OTRO CONCEPTO (O94-O9A),bloque,187
+O94,O94-O9A,"Secuelas de complicaciones del embarazo, parto y puerperio",categoria,1
+O98,O94-O9A,"Enfermedades infecciosas y parasitarias maternas clasificadas bajo otro concepto pero que complican el embarazo, parto y puerperio",categoria,60
+O99,O94-O9A,"Otras enfermedades maternas clasificadas bajo otro concepto pero que complican el embarazo, parto y puerperio",categoria,96
+O9A,O94-O9A,"Neoplasias malignas, lesiones traumáticas y maltrato de la madre clasificadas bajo otro concepto pero que complican el embarazo, parto y puerperio",categoria,30
+Cap.16,CIE-10-ES,CIERTAS AFECCIONES ORIGINADAS EN EL PERÍODO PERINATAL (P00-P96),capitulo,463
+P00-P04,Cap.16,"RECIÉN NACIDO AFECTADO POR FACTORES MATERNOS Y POR COMPLICACIONES DEL EMBARAZO, TRABAJO DE PARTO Y PARTO (P00-P04)",bloque,70
+P00,P00-P04,Recién nacido afectado por patologías maternas que pueden no estar relacionadas con el embarazo actual,categoria,12
+P01,P00-P04,Recién nacido afectado por complicaciones maternas del embarazo,categoria,10
+P02,P00-P04,"Recién nacido afectado por complicaciones de placenta, cordón y membranas",categoria,13
+P03,P00-P04,Recién nacido afectado por otras complicaciones del trabajo del parto y parto,categoria,13
+P04,P00-P04,Recién nacido afectado por sustancias nocivas transmitidas a través de la placenta o leche materna,categoria,22
+P05-P08,Cap.16,TRASTORNOS DEL RECIÉN NACIDO RELACIONADOS CON LA DURACIÓN DE LA GESTACIÓN Y EL CRECIMIENTO FETAL (P05-P08),bloque,53
+P05,P05-P08,Trastornos del recién nacido en relación con el crecimiento intraútero retardado y la malnutrición fetal,categoria,22
+P07,P05-P08,"Trastornos del recién nacido en relación con baja edad gestacional y bajo peso al nacimiento, no clasificados bajo otro concepto",categoria,27
+P08,P05-P08,Trastornos del recién nacido en relación con gestación prolongada y alto peso al nacer,categoria,4
+P09-P09,Cap.16,HALLAZGOS ANORMALES EN EL CRIBADO NEONATAL (P09),bloque,8
+P09,P09-P09,Hallazgos anormales en el cribado neonatal,categoria,8
+P10-P15,Cap.16,TRAUMATISMO AL NACIMIENTO (P10-P15),bloque,44
+P10,P10-P15,Laceración y hemorragia intracraneales debidas a traumatismo del nacimiento,categoria,7
+P11,P10-P15,Otras lesiones del sistema nervioso central al nacimiento,categoria,7
+P12,P10-P15,Traumatismo del nacimiento en cuero cabelludo,categoria,8
+P13,P10-P15,Traumatismo del nacimiento del esqueleto,categoria,7
+P14,P10-P15,Traumatismo del nacimiento del sistema nervioso periférico,categoria,6
+P15,P10-P15,Otros traumatismos del nacimiento,categoria,9
+P19-P29,Cap.16,TRASTORNOS RESPIRATORIOS Y CARDIOVASCULARES ESPECÍFICOS DEL PERÍODO PERINATAL (P19-P29),bloque,70
+P19,P19-P29,Acidemia metabólica en el recién nacido,categoria,4
+P22,P19-P29,Distrés respiratorio del recién nacido,categoria,4
+P23,P19-P29,Neumonía congénita,categoria,9
+P24,P19-P29,Aspiración neonatal,categoria,11
+P25,P19-P29,Enfisema intersticial y enfermedades relacionadas con origen en el período perinatal,categoria,5
+P26,P19-P29,Hemorragia pulmonar con origen en el período perinatal,categoria,4
+P27,P19-P29,Enfermedad respiratoria crónica con origen en el período perinatal,categoria,4
+P28,P19-P29,Otros trastornos respiratorios originados en periodo perinatal,categoria,19
+P29,P19-P29,Alteraciones cardiovasculares originadas en el período perinatal,categoria,10
+P35-P39,Cap.16,INFECCIONES ESPECÍFICAS DEL PERÍODO PERINATAL (P35-P39),bloque,34
+P35,P35-P39,Enfermedades virales congénitas,categoria,7
+P36,P35-P39,Sepsis bacteriana del recién nacido,categoria,10
+P37,P35-P39,Otras enfermedades infecciosas y parasitarias congénitas,categoria,8
+P38,P35-P39,Onfalitis del recién nacido,categoria,2
+P39,P35-P39,Otras infecciones específicas del período perinatal,categoria,7
+P50-P61,Cap.16,TRASTORNOS HEMORRÁGICOS Y HEMATOLÓGICOS DEL RECIÉN NACIDO (P50-P61),bloque,67
+P50,P50-P61,Recién nacido afectado por hemorragia intrauterina (fetal),categoria,8
+P51,P50-P61,Hemorragia umbilical del recién nacido,categoria,3
+P52,P50-P61,Hemorragia intracraneal no traumática del recién nacido,categoria,10
+P53,P50-P61,Enfermedad hemorrágica del recién nacido,categoria,1
+P54,P50-P61,Otras hemorragias neonatales,categoria,9
+P55,P50-P61,Enfermedad hemolítica del recién nacido,categoria,4
+P56,P50-P61,Hidropesía fetal debida a enfermedad hemolítica,categoria,3
+P57,P50-P61,Kernicterus,categoria,3
+P58,P50-P61,Ictericia neonatal debida a otro tipo de hemólisis excesiva,categoria,9
+P59,P50-P61,Ictericia neonatal por otras causas y las no especificadas,categoria,7
+P60,P50-P61,Coagulación intravascular diseminada del recién nacido,categoria,1
+P61,P50-P61,Otros trastornos hematológicos perinatales,categoria,9
+P70-P74,Cap.16,TRASTORNOS ENDOCRINOS Y METABÓLICOS TRANSITORIOS ESPECÍFICOS DEL RECIÉN NACIDO (P70-P74),bloque,33
+P70,P70-P74,Trastornos transitorios del metabolismo de los hidratos de carbono específicos del recién nacido,categoria,7
+P71,P70-P74,Trastornos neonatales transitorios del metabolismo del calcio y del magnesio,categoria,7
+P72,P70-P74,Otros trastornos endocrinológicos neonatales transitorios,categoria,5
+P74,P70-P74,Otras alteraciones electrolíticas y metabólicas neonatales transitorias,categoria,14
+P76-P78,Cap.16,TRASTORNOS DEL APARATO DIGESTIVO DEL RECIÉN NACIDO (P76-P78),bloque,19
+P76,P76-P78,Otros tipos de obstrucción intestinal del recién nacido,categoria,5
+P77,P76-P78,Enterocolitis necrotizante del recién nacido,categoria,4
+P78,P76-P78,Otros trastornos perinatales del aparato digestivo,categoria,10
+P80-P83,Cap.16,ALTERACIONES QUE AFECTAN A LA PIEL Y LOS ANEJOS Y A LA REGULACIÓN DE LA TEMPERATURA DEL RECIÉN NACIDO (P80-P83),bloque,17
+P80,P80-P83,Hipotermia del recién nacido,categoria,3
+P81,P80-P83,Otros trastornos de regulación de la temperatura del recién nacido,categoria,3
+P83,P80-P83,"Otros problemas de la piel y los anejos, específicos del recién nacido",categoria,11
+P84-P84,Cap.16,OTROS PROBLEMAS DEL RECIÉN NACIDO (P84),bloque,1
+P84,P84-P84,Otros problemas del recién nacido,categoria,1
+P90-P96,Cap.16,OTROS TRASTORNOS ORIGINADOS EN EL PERÍODO PERINATAL (P90-P96),bloque,47
+P90,P90-P96,Convulsiones neonatales,categoria,1
+P91,P90-P96,Otros trastornos del estado neurológico del recién nacido,categoria,18
+P92,P90-P96,Problemas de alimentación del recién nacido,categoria,10
+P93,P90-P96,Efectos adversos e intoxicaciones debidos a medicamentos administrados al recién nacido,categoria,2
+P94,P90-P96,Trastornos del tono muscular del recién nacido,categoria,5
+P95,P90-P96,Muerte fetal,categoria,1
+P96,P90-P96,Otras afecciones originadas en el período perinatal,categoria,10
+Cap.17,CIE-10-ES,"MALFORMACIONES CONGÉNITAS, DEFORMIDADES Y ANOMALÍAS CROMOSÓMICAS (Q00-Q99)",capitulo,873
+Q00-Q07,Cap.17,MALFORMACIONES CONGÉNITAS DEL SISTEMA NERVIOSO (Q00-Q07),bloque,45
+Q00,Q00-Q07,Anencefalia y malformaciones similares,categoria,3
+Q01,Q00-Q07,Encefalocele,categoria,5
+Q02,Q00-Q07,Microcefalia,categoria,1
+Q03,Q00-Q07,Hidrocefalia congénita,categoria,4
+Q04,Q00-Q07,Otras malformaciones congénitas del cerebro,categoria,9
+Q05,Q00-Q07,Espina bífida,categoria,10
+Q06,Q00-Q07,Otras malformaciones congénitas de la médula espinal,categoria,7
+Q07,Q00-Q07,Otras malformaciones congénitas del sistema nervioso,categoria,6
+Q10-Q18,Cap.17,"MALFORMACIONES CONGÉNITAS DE LOS OJOS, OÍDOS, CARA Y CUELLO (Q10-Q18)",bloque,62
+Q10,Q10-Q18,"Malformaciones congénitas del párpado, sistema lagrimal y órbita",categoria,8
+Q11,Q10-Q18,"Anoftalmía, microftalmía y macroftalmía",categoria,4
+Q12,Q10-Q18,Malformaciones congénitas del cristalino,categoria,7
+Q13,Q10-Q18,Malformaciones congénitas del segmento anterior del ojo,categoria,9
+Q14,Q10-Q18,Malformaciones congénitas del segmento posterior del ojo,categoria,6
+Q15,Q10-Q18,Otras malformaciones congénitas del ojo,categoria,3
+Q16,Q10-Q18,Malformaciones congénitas del oído que causan alteración en la audición,categoria,7
+Q17,Q10-Q18,Otras malformaciones congénitas del oído,categoria,8
+Q18,Q10-Q18,Otras malformaciones congénitas de cara y cuello,categoria,10
+Q20-Q28,Cap.17,MALFORMACIONES CONGÉNITAS DEL APARATO CIRCULATORIO (Q20-Q28),bloque,102
+Q20,Q20-Q28,Malformaciones congénitas de las cámaras y conexiones cardiacas,categoria,9
+Q21,Q20-Q28,Malformaciones congénitas de los tabiques cardiacos,categoria,17
+Q22,Q20-Q28,Malformaciones congénitas de las válvulas pulmonar y tricúspide,categoria,9
+Q23,Q20-Q28,Malformaciones congénitas de las válvulas aórtica y mitral,categoria,9
+Q24,Q20-Q28,Otras malformaciones congénitas cardiacas,categoria,9
+Q25,Q20-Q28,Malformaciones congénitas de las grandes arterias,categoria,22
+Q26,Q20-Q28,Malformaciones congénitas de las grandes venas,categoria,9
+Q27,Q20-Q28,Otras malformaciones congénitas del sistema vascular periférico,categoria,12
+Q28,Q20-Q28,Otras malformaciones congénitas del aparato circulatorio,categoria,6
+Q30-Q34,Cap.17,MALFORMACIONES CONGÉNITAS DEL APARATO RESPIRATORIO (Q30-Q34),bloque,31
+Q30,Q30-Q34,Malformaciones congénitas de la nariz,categoria,6
+Q31,Q30-Q34,Malformaciones congénitas de laringe,categoria,7
+Q32,Q30-Q34,Malformaciones congénitas de tráquea y bronquios,categoria,5
+Q33,Q30-Q34,Malformaciones congénitas del pulmón,categoria,9
+Q34,Q30-Q34,Otras malformaciones congénitas del aparato respiratorio,categoria,4
+Q35-Q37,Cap.17,LABIO LEPORINO Y PALADAR HENDIDO (Q35-Q37),bloque,16
+Q35,Q35-Q37,Paladar hendido,categoria,5
+Q36,Q35-Q37,Labio leporino,categoria,3
+Q37,Q35-Q37,Paladar hendido con labio leporino,categoria,8
+Q38-Q45,Cap.17,OTRAS MALFORMACIONES CONGÉNITAS DEL APARATO DIGESTIVO (Q38-Q45),bloque,61
+Q38,Q38-Q45,"Otras malformaciones congénitas de la lengua, boca y faringe",categoria,9
+Q39,Q38-Q45,Malformaciones congénitas del esófago,categoria,9
+Q40,Q38-Q45,Otras malformaciones congénitas del tracto digestivo superior,categoria,6
+Q41,Q38-Q45,"Ausencia, atresia y estenosis congénitas del intestino delgado",categoria,5
+Q42,Q38-Q45,"Agenesia congénita, atresia y estenosis del intestino grueso",categoria,6
+Q43,Q38-Q45,Otras malformaciones congénitas del intestino,categoria,10
+Q44,Q38-Q45,"Malformaciones congénitas de vesícula biliar, conductos biliares e hígado",categoria,10
+Q45,Q38-Q45,Otras malformaciones congénitas del aparato digestivo,categoria,6
+Q50-Q56,Cap.17,MALFORMACIONES CONGÉNITAS DE LOS ÓRGANOS GENITALES (Q50-Q56),bloque,91
+Q50,Q50-Q56,"Malformaciones congénitas de los ovarios, las trompas de Falopio y los ligamentos anchos",categoria,10
+Q51,Q50-Q56,Malformaciones congénitas del útero y del cuello uterino,categoria,18
+Q52,Q50-Q56,Otras malformaciones congénitas del aparato genital femenino,categoria,19
+Q53,Q50-Q56,Testículo no descendido y ectópico,categoria,14
+Q54,Q50-Q56,Hipospadias,categoria,7
+Q55,Q50-Q56,Otras malformaciones congénitas de los órganos genitales masculinos,categoria,18
+Q56,Q50-Q56,Sexo indeterminado y seudohermafroditismo,categoria,5
+Q60-Q64,Cap.17,MALFORMACIONES CONGÉNITAS DEL APARATO URINARIO (Q60-Q64),bloque,63
+Q60,Q60-Q64,Agenesia renal y otros defectos por reducción del riñón,categoria,7
+Q61,Q60-Q64,Enfermedad quística renal,categoria,11
+Q62,Q60-Q64,Defectos obstructivos congénitos de la pelvis renal y malformaciones congénitas del uréter,categoria,17
+Q63,Q60-Q64,Otras malformaciones congénitas del riñón,categoria,6
+Q64,Q60-Q64,Otras malformaciones congénitas del aparato urinario,categoria,22
+Q65-Q79,Cap.17,MALFORMACIONES Y DEFORMIDADES CONGÉNITAS DEL APARATO MUSCULOESQUELÉTICO (Q65-Q79),bloque,255
+Q65,Q65-Q79,Deformidades congénitas de la cadera,categoria,15
+Q66,Q65-Q79,Deformidades congénitas de los pies,categoria,32
+Q67,Q65-Q79,"Deformidades musculoesqueléticas congénitas de cabeza, cara, columna vertebral y tórax",categoria,9
+Q68,Q65-Q79,Otras deformidades musculoesqueléticas congénitas,categoria,8
+Q69,Q65-Q79,Polidactilia,categoria,4
+Q70,Q65-Q79,Sindactilia,categoria,18
+Q71,Q65-Q79,Defectos por reducción de la extremidad superior,categoria,40
+Q72,Q65-Q79,Defectos por reducción de la extremidad inferior,categoria,44
+Q73,Q65-Q79,Defecto por acortamiento de miembro no especificado,categoria,3
+Q74,Q65-Q79,Otras malformaciones congénitas de miembro (-s),categoria,6
+Q75,Q65-Q79,Otras malformaciones congénitas del cráneo y de los huesos de la cara,categoria,22
+Q76,Q65-Q79,Malformaciones congénitas de la columna vertebral y la caja torácica,categoria,21
+Q77,Q65-Q79,Osteocondrodisplasia con defectos del crecimiento de los huesos largos y de la columna vertebral,categoria,10
+Q78,Q65-Q79,Otras osteocondrodisplasias,categoria,9
+Q79,Q65-Q79,"Malformaciones congénitas del aparato musculoesquelético, no clasificadas bajo otro concepto",categoria,14
+Q80-Q89,Cap.17,OTRAS MALFORMACIONES CONGÉNITAS (Q80-Q89),bloque,78
+Q80,Q80-Q89,Ictiosis congénita,categoria,7
+Q81,Q80-Q89,Epidermolisis ampollosa,categoria,5
+Q82,Q80-Q89,Otras malformaciones congénitas de la piel,categoria,9
+Q83,Q80-Q89,Malformaciones congénitas de la mama,categoria,6
+Q84,Q80-Q89,Otras malformaciones congénitas del tegumento,categoria,9
+Q85,Q80-Q89,"Facomatosis, no clasificadas bajo otro concepto",categoria,11
+Q86,Q80-Q89,"Síndromes malformativos congénitos debidos a causas exógenas conocidas, no clasificadas bajo otro concepto",categoria,4
+Q87,Q80-Q89,Otros síndromes malformativos congénitos especificados que afectan a múltiples sistemas,categoria,18
+Q89,Q80-Q89,"Otras malformaciones congénitas, no clasificadas bajo otro concepto",categoria,9
+Q90-Q99,Cap.17,"ANOMALÍAS CROMOSÓMICAS, NO CLASIFICADAS BAJO OTRO CONCEPTO (Q90-Q99)",bloque,69
+Q90,Q90-Q99,Síndrome de Down,categoria,4
+Q91,Q90-Q99,Trisomía 18 y trisomía 13q,categoria,8
+Q92,Q90-Q99,"Otras trisomías y trisomías parciales de los autosomas, no clasificados bajo otro concepto",categoria,9
+Q93,Q90-Q99,"Monosomías y deleciones de los autosomas, no clasificadas bajo otro concepto",categoria,14
+Q95,Q90-Q99,"Reordenamientos balanceados y marcadores estructurales, no clasificados bajo otro concepto",categoria,7
+Q96,Q90-Q99,Síndrome de Turner,categoria,7
+Q97,Q90-Q99,"Otras anomalías de cromosomas sexuales, fenotipo femenino, no clasificadas bajo otro concepto",categoria,6
+Q98,Q90-Q99,"Otras anomalías cromosómicas sexuales, fenotipo masculino, no clasificadas bajo otro concepto",categoria,9
+Q99,Q90-Q99,"Otras anomalías cromosómicas, no clasificadas bajo otro concepto",categoria,5
+Cap.18,CIE-10-ES,"SÍNTOMAS, SIGNOS Y RESULTADOS ANORMALES DE PRUEBAS COMPLEMENTARIAS, NO CLASIFICADOS BAJO OTRO CONCEPTO (R00-R99)",capitulo,754
+R00-R09,Cap.18,SÍNTOMAS Y SIGNOS QUE AFECTAN A LOS APARATOS CIRCULATORIO Y RESPIRATORIO (R00-R09),bloque,58
+R00,R00-R09,Alteraciones del latido cardíaco,categoria,5
+R01,R00-R09,Soplos y otros ruidos cardíacos,categoria,3
+R03,R00-R09,"Medida de presión arterial anormal, sin diagnóstico",categoria,2
+R04,R00-R09,Hemorragia de las vías respiratorias,categoria,6
+R05,R00-R09,Tos,categoria,6
+R06,R00-R09,Alteraciones de la respiración,categoria,17
+R07,R00-R09,Dolor de garganta y de tórax,categoria,7
+R09,R00-R09,Otros síntomas y signos que afectan a los aparatos circulatorio y respiratorio,categoria,12
+R10-R19,Cap.18,SÍNTOMAS Y SIGNOS QUE AFECTAN AL APARATO DIGESTIVO Y EL ABDOMEN (R10-R19),bloque,85
+R10,R10-R19,Dolor abdominal y pélvico,categoria,29
+R11,R10-R19,Náusea y vómito,categoria,8
+R12,R10-R19,Acidez,categoria,1
+R13,R10-R19,Afagia y disfagia,categoria,7
+R14,R10-R19,Flatulencia y afecciones afines,categoria,4
+R15,R10-R19,Incontinencia fecal,categoria,4
+R16,R10-R19,"Hepatomegalia y esplenomegalia, no clasificadas bajo otro concepto",categoria,3
+R17,R10-R19,Ictericia no especificada,categoria,1
+R18,R10-R19,Ascitis,categoria,2
+R19,R10-R19,Otros síntomas y signos que afectan al aparato digestivo y el abdomen,categoria,26
+R20-R23,Cap.18,SÍNTOMAS Y SIGNOS QUE AFECTAN A LA PIEL Y AL TEJIDO CELULAR SUBCUTÁNEO (R20-R23),bloque,26
+R20,R20-R23,Alteraciones de la sensibilidad cutánea,categoria,6
+R21,R20-R23,Exantema y otras erupciones cutáneas inespecíficas,categoria,1
+R22,R20-R23,"Tumefacción, masa o bulto de la piel y del tejido celular subcutáneo localizados",categoria,12
+R23,R20-R23,Otras alteraciones cutáneas,categoria,7
+R25-R29,Cap.18,SÍNTOMAS Y SIGNOS QUE INVOLUCRAN LOS SISTEMAS NERVIOSO Y APARATO MUSCULOESQUELÉTICO (R25-R29),bloque,72
+R25,R25-R29,Movimientos anormales involuntarios,categoria,6
+R26,R25-R29,Alteraciones de la marcha y de la movilidad,categoria,6
+R27,R25-R29,Otras alteraciones de la coordinación motora,categoria,3
+R29,R25-R29,Otros síntomas y signos con afectación de sistema nervioso y aparato musculoesquelético,categoria,57
+R30-R39,Cap.18,SÍNTOMAS Y SIGNOS QUE AFECTAN AL APARATO GENITOURINARIO (R30-R39),bloque,38
+R30,R30-R39,Dolor asociado a la micción,categoria,3
+R31,R30-R39,Hematuria,categoria,5
+R32,R30-R39,Incontinencia urinaria no especificada,categoria,1
+R33,R30-R39,Retención urinaria,categoria,3
+R34,R30-R39,Anuria y oliguria,categoria,1
+R35,R30-R39,Poliuria,categoria,4
+R36,R30-R39,Secreción uretral,categoria,3
+R37,R30-R39,"Disfunción sexual, no especificada",categoria,1
+R39,R30-R39,"Otros síntomas y signos que afectan al aparato genitourinario, y los no especificados",categoria,17
+R40-R46,Cap.18,"SÍNTOMAS Y SIGNOS QUE AFECTAN A LAS FUNCIONES COGNITIVAS, A LA PERCEPCIÓN, AL ESTADO EMOCIONAL Y A LA CONDUCTA (R40-R46)",bloque,157
+R40,R40-R46,"Somnolencia, estupor y coma",categoria,101
+R41,R40-R46,Otros síntomas y signos que afectan a las funciones cognitivas y la conciencia,categoria,16
+R42,R40-R46,Mareo y desvanecimiento,categoria,1
+R43,R40-R46,Trastornos del olfato y del gusto,categoria,5
+R44,R40-R46,Otros síntomas y signos que afectan a las sensaciones y percepciones generales,categoria,6
+R45,R40-R46,Síntomas y signos que afectan al estado emocional,categoria,18
+R46,R40-R46,Síntomas y signos relacionados con la apariencia y el comportamiento,categoria,10
+R47-R49,Cap.18,SÍNTOMAS Y SIGNOS QUE AFECTAN AL HABLA Y A LA VOZ (R47-R49),bloque,19
+R47,R47-R49,"Alteraciones del habla, no clasificadas bajo otro concepto",categoria,7
+R48,R47-R49,"Dislexia y otras disfunciones simbólicas, no clasificadas bajo otro concepto",categoria,6
+R49,R47-R49,Trastornos de la voz y la resonancia,categoria,6
+R50-R69,Cap.18,SÍNTOMAS Y SIGNOS GENERALES (R50-R69),bloque,68
+R50,R50-R69,Fiebre de otro origen y de origen desconocido,categoria,6
+R51,R50-R69,Cefalea,categoria,2
+R52,R50-R69,"Dolor, no especificado",categoria,1
+R53,R50-R69,Malestar y fatiga,categoria,6
+R54,R50-R69,Debilidad física relacionada con edad,categoria,1
+R55,R50-R69,Síncope y colapso,categoria,1
+R56,R50-R69,"Convulsiones, no clasificadas bajo otro concepto",categoria,4
+R57,R50-R69,"Shock, no clasificado bajo otro concepto",categoria,4
+R58,R50-R69,"Hemorragia, no clasificada bajo otro concepto",categoria,1
+R59,R50-R69,Adenomegalia,categoria,3
+R60,R50-R69,"Edema, no clasificado bajo otro concepto",categoria,3
+R61,R50-R69,Hiperhidrosis generalizada,categoria,1
+R62,R50-R69,Falta de desarrollo fisiológico normal esperado en infancia y edad adulta,categoria,6
+R63,R50-R69,Síntomas y signos relacionados con la alimentación y la ingesta de líquidos,categoria,11
+R64,R50-R69,Caquexia,categoria,1
+R65,R50-R69,Síntomas y signos asociados específicamente con inflamación sistémica e infección,categoria,4
+R68,R50-R69,Otros síntomas y signos generales,categoria,12
+R69,R50-R69,Enfermedad NEOM,categoria,1
+R70-R79,Cap.18,"RESULTADOS ANORMALES EN ANALISIS DE SANGRE, SIN DIAGNÓSTICO (R70-R79)",bloque,43
+R70,R70-R79,Elevación de la velocidad de sedimentación globular y alteración de la viscosidad plasmática,categoria,2
+R71,R70-R79,Anomalía de los hematíes,categoria,2
+R73,R70-R79,Elevación del nivel de glucosa en sangre,categoria,5
+R74,R70-R79,Niveles anormales de enzimas en suero,categoria,4
+R75,R70-R79,Pruebas de laboratorio no concluyentes de virus de inmunodeficiencia humana [VIH],categoria,1
+R76,R70-R79,Otros resultados inmunológicos anormales en suero,categoria,5
+R77,R70-R79,Otros resultados anormales de las proteínas plasmáticas,categoria,5
+R78,R70-R79,Hallazgo de drogas y otras sustancias que no se encuentran normalmente en sangre,categoria,12
+R79,R70-R79,Otros hallazgos anormales de la bioquímica sanguínea,categoria,7
+R80-R82,Cap.18,"RESULTADOS ANORMALES EN ANÁLISIS DE ORINA, SIN DIAGNÓSTICO (R80-R82)",bloque,25
+R80,R80-R82,Proteinuria,categoria,6
+R81,R80-R82,Glucosuria,categoria,1
+R82,R80-R82,Otros hallazgos anormales y los no especificados en orina,categoria,18
+R83-R89,Cap.18,"RESULTADOS ANORMALES EN ANÁLISIS DE OTROS LÍQUIDOS CORPORALES, SUSTANCIAS Y TEJIDOS, SIN DIAGNÓSTICO (R83-R89)",bloque,93
+R83,R83-R89,Resultados anormales en líquido cefalorraquídeo,categoria,9
+R84,R83-R89,Resultados anormales del análisis de muestras de órganos respiratorios y torácicos,categoria,10
+R85,R83-R89,Resultados anormales del análisis de muestras de órganos digestivos y de cavidad abdominal,categoria,21
+R86,R83-R89,Resultados anormales en muestras tomadas de órganos genitales masculinos,categoria,10
+R87,R83-R89,Resultados anormales en muestras tomadas de órganos genitales femeninos,categoria,31
+R88,R83-R89,Resultados anormales en otros fluidos y sustancias corporales,categoria,2
+R89,R83-R89,"Resultados anormales en muestras tomadas de otros órganos, sistemas y tejidos",categoria,10
+R90-R94,Cap.18,"HALLAZGOS ANORMALES EN DIAGNÓSTICO POR IMAGEN Y EN ESTUDIOS FUNCIONALES, SIN DIAGNÓSTICO (R90-R94)",bloque,64
+R90,R90-R94,Hallazgos anormales en diagnóstico por imagen del sistema nervioso central,categoria,4
+R91,R90-R94,Hallazgos anormales en pruebas de imagen del pulmón,categoria,2
+R92,R90-R94,Hallazgos anormales y hallazgos no concluyentes en pruebas de imagen de mama,categoria,17
+R93,R90-R94,Resultados anormales en diagnóstico por imagen de otras partes del cuerpo,categoria,18
+R94,R90-R94,Resultados anormales de estudios funcionales,categoria,23
+R97-R97,Cap.18,MARCADORES TUMORALES ANORMALES (R97),bloque,5
+R97,R97-R97,Marcadores tumorales anómalos,categoria,5
+R99-R99,Cap.18,CAUSAS DE MORTALIDAD MAL DEFINIDAS Y DESCONOCIDAS (R99),bloque,1
+R99,R99-R99,Causas de mortalidad mal definidas y desconocidas,categoria,1
+Cap.19,CIE-10-ES,"LESIONES TRAUMÁTICAS, ENVENENAMIENTOS Y OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS (S00-T88)",capitulo,40941
+S00-S09,Cap.19,TRAUMATISMOS EN LA CABEZA (S00-S09),bloque,1934
+S00,S00-S09,Traumatismo superficial de la cabeza,categoria,288
+S01,S00-S09,Herida abierta de la cabeza,categoria,270
+S02,S00-S09,Fractura de cráneo y huesos de la cara,categoria,456
+S03,S00-S09,Luxación y esguince de articulaciones y ligamentos de la cabeza,categoria,36
+S04,S00-S09,Traumatismo de nervios craneales,categoria,114
+S05,S00-S09,Traumatismo del ojo y órbita,categoria,90
+S06,S00-S09,Traumatismo intracraneal,categoria,569
+S07,S00-S09,Lesión por aplastamiento de la cabeza,categoria,12
+S08,S00-S09,Avulsión y amputación traumática de parte de la cabeza,categoria,30
+S09,S00-S09,Otros traumatismos y traumatismos no especificados de la cabeza,categoria,69
+S10-S19,Cap.19,TRAUMATISMOS EN EL CUELLO (S10-S19),bloque,1074
+S10,S10-S19,Traumatismo superficial de cuello,categoria,72
+S11,S10-S19,Herida abierta del cuello,categoria,129
+S12,S10-S19,Fractura de vértebra cervical y otras partes del cuello,categoria,420
+S13,S10-S19,Luxación y esguince de articulaciones y ligamentos a nivel del cuello,categoria,75
+S14,S10-S19,Traumatismo de nervios y médula espinal a nivel del cuello,categoria,183
+S15,S10-S19,Traumatismo de vasos sanguíneos a nivel del cuello,categoria,150
+S16,S10-S19,"Traumatismo de músculo, fascia y tendón a nivel del cuello",categoria,12
+S17,S10-S19,Lesión por aplastamiento del cuello,categoria,9
+S19,S10-S19,Otros traumatismos especificados y los no especificados del cuello,categoria,24
+S20-S29,Cap.19,TRAUMATISMOS EN EL TÓRAX (S20-S29),bloque,1605
+S20,S20-S29,Traumatismo superficial del tórax,categoria,294
+S21,S20-S29,Herida abierta del tórax,categoria,288
+S22,S20-S29,"Fractura de costilla(s), esternón y columna dorsal",categoria,354
+S23,S20-S29,Luxación y esguince de articulaciones y ligamentos del tórax,categoria,111
+S24,S20-S29,Traumatismo de nervios y médula espinal a nivel del tórax,categoria,93
+S25,S20-S29,Traumatismo de vasos sanguíneos del tórax,categoria,195
+S26,S20-S29,Traumatismo de corazón,categoria,42
+S27,S20-S29,Traumatismo de otros órganos intratorácicos y los no especificados,categoria,162
+S28,S20-S29,"Lesión por aplastamiento del tórax, y amputación traumática de parte del tórax",categoria,24
+S29,S20-S29,Otros traumatismos y los no especificados del tórax,categoria,42
+S30-S39,Cap.19,"TRAUMATISMOS EN ABDOMEN, PARTE INFERIOR DE ESPALDA, COLUMNA LUMBAR, PELVIS Y GENITALES EXTERNOS (S30-S39)",bloque,2544
+S30,S30-S39,"Traumatismo superficial de abdomen, parte inferior de la espalda, pelvis y genitales externos",categoria,189
+S31,S30-S39,"Herida abierta de abdomen, parte inferior de la espalda, pelvis y genitales externos",categoria,450
+S32,S30-S39,Fractura de columna lumbar y pelvis,categoria,846
+S33,S30-S39,Luxación y esguince de articulaciones y ligamentos de columna lumbar y pelvis,categoria,57
+S34,S30-S39,"Traumatismo de médula espinal y nervios lumbares y sacros a nivel de abdomen, parte inferior de espalda y pelvis",categoria,93
+S35,S30-S39,"Traumatismo de vasos sanguíneos a nivel de abdomen, parte inferior de espalda y pelvis",categoria,222
+S36,S30-S39,Traumatismo de órganos intraabdominales,categoria,336
+S37,S30-S39,Traumatismo de órganos urinarios y pélvicos,categoria,249
+S38,S30-S39,"Lesión por aplastamiento y amputación traumática de abdomen, parte inferior de la espalda, pelvis y genitales externos",categoria,39
+S39,S30-S39,"Otros traumatismos y los no especificados de abdomen, parte inferior de la espalda, pelvis y genitales externos",categoria,63
+S40-S49,Cap.19,TRAUMATISMOS EN HOMBRO Y BRAZO (S40-S49),bloque,2730
+S40,S40-S49,Traumatismo superficial del hombro y brazo,categoria,144
+S41,S40-S49,Herida abierta del hombro y brazo,categoria,108
+S42,S40-S49,Fractura del hombro y brazo,categoria,1398
+S43,S40-S49,Luxación y esguince de articulaciones y ligamentos de cintura escapular,categoria,333
+S44,S40-S49,Traumatismo de nervios a nivel del hombro y brazo,categoria,72
+S45,S40-S49,Traumatismo de vasos sanguíneos a nivel del hombro y brazo,categoria,162
+S46,S40-S49,"Traumatismo de músculo, fascia y tendón a nivel del hombro y brazo",categoria,216
+S47,S40-S49,Traumatismo por aplastamiento del hombro y brazo,categoria,9
+S48,S40-S49,Amputación traumática del hombro y brazo,categoria,54
+S49,S40-S49,Otros traumatismos y los no especificados del hombro y brazo,categoria,234
+S50-S59,Cap.19,TRAUMATISMOS EN CODO Y ANTEBRAZO (S50-S59),bloque,4362
+S50,S50-S59,Traumatismo superficial de codo y antebrazo,categoria,144
+S51,S50-S59,Herida abierta de codo y antebrazo,categoria,108
+S52,S50-S59,Fractura de antebrazo,categoria,2796
+S53,S50-S59,Luxación y esguince de articulaciones y ligamentos de codo,categoria,261
+S54,S50-S59,Traumatismo de nervios a nivel de antebrazo,categoria,54
+S55,S50-S59,Traumatismo de vasos sanguíneos a nivel de antebrazo,categoria,135
+S56,S50-S59,"Traumatismo de músculo, fascia y tendón a nivel de antebrazo",categoria,432
+S57,S50-S59,Traumatismo por aplastamiento de codo y antebrazo,categoria,18
+S58,S50-S59,Amputación traumática de codo y antebrazo,categoria,54
+S59,S50-S59,Otros traumatismos y los no especificados de codo y antebrazo,categoria,360
+S60-S69,Cap.19,"TRAUMATISMOS EN MUÑECA, MANO Y DEDOS (S60-S69)",bloque,5118
+S60,S60-S69,"Traumatismo superficial de muñeca, mano y dedos de la mano",categoria,522
+S61,S60-S69,"Herida abierta de muñeca, mano y dedos de la mano",categoria,576
+S62,S60-S69,Fractura a nivel de muñeca y mano,categoria,1911
+S63,S60-S69,Luxación y esguince de articulaciones y ligamentos a nivel de muñeca y mano,categoria,921
+S64,S60-S69,Lesión de nervios a nivel de muñeca y mano,categoria,84
+S65,S60-S69,Traumatismo de vasos sanguíneos a nivel de muñeca y mano,categoria,279
+S66,S60-S69,"Traumatismo de músculo, fascia y tendón a nivel de muñeca y mano",categoria,540
+S67,S60-S69,"Lesión por aplastamiento de muñeca, mano y dedos de la mano",categoria,75
+S68,S60-S69,"Amputación traumática de muñeca, mano y dedos de la mano",categoria,192
+S69,S60-S69,"Otros traumatismos y los no especificados de muñeca, mano y dedo(s) de la mano",categoria,18
+S70-S79,Cap.19,TRAUMATISMOS EN CADERA Y MUSLO (S70-S79),bloque,3546
+S70,S70-S79,Traumatismo superficial de cadera y muslo,categoria,144
+S71,S70-S79,Herida abierta de cadera y muslo,categoria,108
+S72,S70-S79,Fractura de fémur,categoria,2466
+S73,S70-S79,Luxación y esguince de articulación y ligamentos de cadera,categoria,126
+S74,S70-S79,Traumatismo de nervios a nivel de cadera y muslo,categoria,45
+S75,S70-S79,Traumatismo de vasos sanguíneos a nivel de cadera y muslo,categoria,162
+S76,S70-S79,"Traumatismo de músculo, fascia y tendón a nivel de cadera y muslo",categoria,216
+S77,S70-S79,Traumatismo por aplastamiento de cadera y muslo,categoria,27
+S78,S70-S79,Amputación traumática de cadera y muslo,categoria,54
+S79,S70-S79,Otros traumatismos y los no especificados de cadera y muslo,categoria,198
+S80-S89,Cap.19,TRAUMATISMOS EN RODILLA Y PIERNA (S80-S89),bloque,4680
+S80,S80-S89,Traumatismo superficial de rodilla y pierna,categoria,144
+S81,S80-S89,Herida abierta de rodilla y pierna,categoria,108
+S82,S80-S89,"Fractura de pierna, incluyendo tobillo",categoria,3096
+S83,S80-S89,Luxación y esguince de articulaciones y ligamentos de rodilla,categoria,351
+S84,S80-S89,Lesión de nervios a nivel de pierna,categoria,45
+S85,S80-S89,Traumatismo de vasos sanguíneos a nivel de pierna,categoria,270
+S86,S80-S89,"Traumatismo de músculo, fascia y tendón a nivel de pierna",categoria,216
+S87,S80-S89,Lesión por aplastamiento de pierna,categoria,18
+S88,S80-S89,Amputación traumática de pierna,categoria,54
+S89,S80-S89,Otros traumatismos y los no especificadas de pierna,categoria,378
+S90-S99,Cap.19,TRAUMATISMOS EN TOBILLO Y PIE (S90-S99),bloque,3324
+S90,S90-S99,"Traumatismo superficial de tobillo, pie y dedos de los pies",categoria,306
+S91,S90-S99,"Herida abierta de tobillo, pie y dedos de los pies",categoria,360
+S92,S90-S99,"Fractura de pie y dedos del pie, excepto tobillo",categoria,1386
+S93,S90-S99,"Luxación y esguince de articulaciones y ligamentos a nivel de tobillo, pie y dedo(s) del pie",categoria,336
+S94,S90-S99,Traumatismo de nervios a nivel de tobillo y pie,categoria,54
+S95,S90-S99,Traumatismo de vasos sanguíneos a nivel de tobillo y pie,categoria,135
+S96,S90-S99,Traumatismo de músculo y tendón a nivel de tobillo y pie,categoria,180
+S97,S90-S99,Lesión por aplastamiento de tobillo y pie,categoria,45
+S98,S90-S99,Amputación traumática de tobillo y pie,categoria,108
+S99,S90-S99,Otros traumatismos y los no especificados de tobillo y pie,categoria,414
+T07-T88,Cap.19,"LESIONES TRAUMÁTICAS, ENVENENAMIENTOS Y OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS (T07-T88)",bloque,10024
+T07-T07,T07-T88,TRAUMATISMOS QUE AFECTAN A MÚLTIPLES REGIONES CORPORALES (T07),bloque,3
+T07,T07-T07,Traumatismos múltiples no especificados,categoria,3
+T14-T14,T07-T88,TRAUMATISMO EN REGIÓN CORPORAL NO ESPECIFICADA (T14),bloque,9
+T14,T14-T14,Traumatismo de región corporal no especificada,categoria,9
+T15-T19,T07-T88,EFECTOS DE CUERPO EXTRAÑO QUE PENETRA A TRAVÉS DE ORIFICIO NATURAL (T15-T19),bloque,261
+T15,T15-T19,Cuerpo extraño en parte externa del ojo,categoria,36
+T16,T15-T19,Cuerpo extraño en oído,categoria,9
+T17,T15-T19,Cuerpo extraño en vías respiratorias,categoria,150
+T18,T15-T19,Cuerpo extraño en tubo digestivo,categoria,45
+T19,T15-T19,Cuerpo extraño en tracto genitourinario,categoria,21
+T20-T32,T07-T88,QUEMADURAS Y CORROSIONES (T20-T32),bloque,2584
+T20-T25,T20-T32,"QUEMADURAS Y CORROSIONES DE LA SUPERFICIE CORPORAL EXTERNA, ESPECIFICADAS POR LOCALIZACIÓN (T20-T25)",bloque,2304
+T20,T20-T25,"Quemadura y corrosión de cabeza, cara y cuello",categoria,264
+T21,T20-T25,Quemadura y corrosión de tronco,categoria,216
+T22,T20-T25,"Quemadura y corrosión del hombro y extremidad superior, excepto muñeca y mano",categoria,528
+T23,T20-T25,Quemadura y corrosión de muñeca y mano,categoria,648
+T24,T20-T25,"Quemadura y corrosión de extremidad inferior, excepto tobillo y pie",categoria,360
+T25,T20-T25,Quemadura y corrosión de tobillo y pie,categoria,288
+T26-T28,T20-T32,QUEMADURAS Y CORROSIONES LIMITADAS A OJO Y ÓRGANOS INTERNOS (T26-T28),bloque,168
+T26,T26-T28,Quemadura y corrosión limitada a ojo y sus anexos,categoria,90
+T27,T26-T28,Quemadura y corrosión de vías respiratorias,categoria,24
+T28,T26-T28,Quemadura y corrosión de otros órganos internos,categoria,54
+T30-T32,T20-T32,QUEMADURAS Y CORROSIONES DE REGIONES CORPORALES MÚLTIPLES Y LAS NO ESPECIFICADAS (T30-T32),bloque,112
+T30,T30-T32,"Quemadura y corrosión, región corporal no especificada",categoria,2
+T31,T30-T32,Quemaduras clasificadas según extensión de superficie corporal afectada,categoria,55
+T32,T30-T32,Corrosiones clasificadas según extensión de superficie corporal afectada,categoria,55
+T33-T34,T07-T88,CONGELACIÓN (T33-T34),bloque,222
+T33,T33-T34,Congelación superficial,categoria,111
+T34,T33-T34,Congelación con necrosis de tejidos,categoria,111
+T36-T50,T07-T88,"ENVENENAMIENTO, EFECTO ADVERSO E INFRADOSIFICACIÓN DE FÁRMACOS, MEDICAMENTOS Y SUSTANCIAS BIOLÓGICAS (T36-T50)",bloque,3168
+T36,T36-T50,"Envenenamiento, efecto adverso e infradosificación de antibióticos sistémicos",categoria,180
+T37,T36-T50,"Envenenamiento, efecto adverso e infradosificación de otros antiinfecciosos y antiparasitarios sistémicos",categoria,144
+T38,T36-T50,"Envenenamiento, efecto adverso e infradosificación de hormonas y sus antagonistas y sustitutos sintéticos, no clasificados bajo otro concepto",categoria,234
+T39,T36-T50,"Envenenamiento, efecto adverso e infradosificación por analgésicos no opiáceos, antipiréticos y antirreumáticos",categoria,162
+T40,T36-T50,"Envenenamiento, efecto adverso e infradosificación por narcóticos y psicodislépticos [alucinógenos]",categoria,258
+T41,T36-T50,"Envenenamiento, efecto adverso e infradosificación por anestésicos y gases medicinales",categoria,126
+T42,T36-T50,"Envenenamiento, efecto adverso e infradosificación por antiepilépticos, hipnóticos-sedantes y fármacos antiparkinsonianos",categoria,162
+T43,T36-T50,"Envenenamiento, efecto adverso e infradosificación por fármacos psicotrópicos no clasificados bajo otro concepto",categoria,354
+T44,T36-T50,"Envenenamiento, efecto adverso e infradosificación por fármacos que afectan principalmente al sistema nervioso autónomo",categoria,198
+T45,T36-T50,"Envenenamiento, efecto adverso e infradosificación por agentes principalmente sistémicos y hematológicos, no clasificados bajo otro concepto",categoria,270
+T46,T36-T50,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato cardiovascular",categoria,198
+T47,T36-T50,"Envenenamiento, efecto adverso e infradosificación por agentes que afectan principalmente al aparato digestivo",categoria,180
+T48,T36-T50,"Envenenamiento, efecto adverso e infradosificación por agentes que actúan principalmente sobre los músculos liso y estriado y el aparato respiratorio",categoria,180
+T49,T36-T50,"Envenenamiento, efecto adverso e infradosificación por agentes tópicos que afectan principalmente a piel y mucosas, y por fármacos oftalmológicas, de uso dental y otorrinolaringológico",categoria,180
+T50,T36-T50,"Envenenamiento, efecto adverso e infradosificación por diuréticos, otros fármacos, medicamentos y sustancias biológicas y los no especificados",categoria,342
+T51-T65,T07-T88,EFECTOS TÓXICOS DE SUSTANCIAS DE PROCEDENCIA PRINCIPALMENTE NO MEDICAMENTOSA (T51-T65),bloque,1620
+T51,T51-T65,Efecto tóxico de alcohol,categoria,72
+T52,T51-T65,Efecto tóxico de disolventes orgánicos,categoria,84
+T53,T51-T65,Efecto tóxico de derivados halogenados de hidrocarburos alifáticos y aromáticos,categoria,108
+T54,T51-T65,Efecto tóxico de sustancias corrosivas,categoria,60
+T55,T51-T65,Efecto tóxico de jabones y detergentes,categoria,24
+T56,T51-T65,Efecto tóxico de metales,categoria,144
+T57,T51-T65,Efecto tóxico de otras sustancias inorgánicas,categoria,72
+T58,T51-T65,Efecto tóxico de monóxido de carbono,categoria,60
+T59,T51-T65,"Efecto tóxico de otros gases, humos y vapores",categoria,132
+T60,T51-T65,Efecto tóxico de plaguicidas (pesticidas),categoria,84
+T61,T51-T65,Efecto tóxico de sustancias nocivas ingeridas como marisco,categoria,72
+T62,T51-T65,Efecto tóxico de otras sustancias nocivas ingeridas como alimento,categoria,60
+T63,T51-T65,Efecto tóxico de contacto con animales y plantas venenosos,categoria,456
+T64,T51-T65,Efecto tóxico de aflatoxina y otras micotoxinas contaminantes alimentarias,categoria,24
+T65,T51-T65,Efecto tóxico de otras sustancias y las no especificadas,categoria,168
+T66-T78,T07-T88,OTROS EFECTOS Y LOS NO ESPECIFICADOS DE CAUSAS EXTERNAS (T66-T78),bloque,420
+T66,T66-T78,"Síndrome de irradiación, no especificado",categoria,3
+T67,T66-T78,Efectos del calor y la luz,categoria,36
+T68,T66-T78,Hipotermia,categoria,3
+T69,T66-T78,Otros efectos de baja temperatura,categoria,27
+T70,T66-T78,Efectos de presión de aire y presión de agua,categoria,24
+T71,T66-T78,Asfixia,categoria,117
+T73,T66-T78,Efectos de otro tipo de deprivación,categoria,18
+T74,T66-T78,"Abuso, negligencia y otros malos tratos infantiles y de adultos, confirmados",categoria,51
+T75,T66-T78,Otros efectos y los no especificados de otras causas externas,categoria,42
+T76,T66-T78,"Abuso, negligencia y otros malos tratos infantiles y de adultos, sospecha",categoria,48
+T78,T66-T78,"Efectos adversos, no clasificados bajo otro concepto",categoria,51
+T79-T79,T07-T88,CIERTAS COMPLICACIONES PRECOCES DE TRAUMATISMOS (T79),bloque,54
+T79,T79-T79,"Ciertas complicaciones precoces de traumatismos, no clasificados bajo otro concepto",categoria,54
+T80-T88,T07-T88,"COMPLICACIONES DE LA ATENCIÓN QUIRÚRGICA Y MÉDICA, NO CLASIFICADAS BAJO OTRO CONCEPTO (T80-T88)",bloque,1683
+T80,T80-T88,"Complicaciones después de infusión, transfusión e inyección terapéuticas",categoria,114
+T81,T80-T88,"Complicaciones de procedimientos, no clasificados bajo otro concepto",categoria,240
+T82,T80-T88,"Complicaciones de prótesis, implantes e injertos cardiacos y vasculares",categoria,297
+T83,T80-T88,"Complicaciones de prótesis, implantes e injertos genitourinarios",categoria,246
+T84,T80-T88,"Complicaciones de prótesis, implantes e injertos ortopédicos internos",categoria,357
+T85,T80-T88,"Complicaciones de otras prótesis, implantes e injertos internos",categoria,288
+T86,T80-T88,Complicaciones de órganos y tejido trasplantados,categoria,77
+T87,T80-T88,Complicaciones propias de reimplantación y amputación,categoria,25
+T88,T80-T88,"Otras complicaciones de atención quirúrgica y médica, no clasificadas bajo otro concepto",categoria,39
+Cap.20,CIE-10-ES,CAUSAS EXTERNAS DE MORBILIDAD (V00-Y99),capitulo,7441
+V00-X58,Cap.20,ACCIDENTES (V00-X58),bloque,5628
+V00-V99,V00-X58,ACCIDENTES DE TRANSPORTE (V00-V99),bloque,4086
+V00-V09,V00-V99,PEATÓN LESIONADO EN ACCIDENTE DE TRANSPORTE (V00-V09),bloque,519
+V00,V00-V09,Accidente de transporte peatonal,categoria,168
+V01,V00-V09,Peatón lesionado en colisión con vehículo a pedales,categoria,54
+V02,V00-V09,Peatón lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,54
+V03,V00-V09,"Peatón lesionado en colisión con coche, camioneta o furgoneta",categoria,54
+V04,V00-V09,Peatón lesionado en colisión con vehículo de transporte pesado o autobús,categoria,54
+V05,V00-V09,Peatón lesionado en colisión con tren o vehículo ferroviario,categoria,54
+V06,V00-V09,Peatón lesionado en colisión con otro vehículo no motorizado,categoria,54
+V09,V00-V09,Peatón lesionado en otros accidentes de transporte y los no especificados,categoria,27
+V10-V19,V00-V99,CICLISTA LESIONADO EN ACCIDENTE DE TRANSPORTE (V10-V19),bloque,237
+V10,V10-V19,Ciclista lesionado en colisión con peatón o animal,categoria,21
+V11,V10-V19,Ciclista lesionado en colisión con otro vehículo a pedales,categoria,21
+V12,V10-V19,Ciclista lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,21
+V13,V10-V19,"Ciclista lesionado en colisión con coche, camioneta o furgoneta",categoria,21
+V14,V10-V19,Ciclista lesionado en colisión con vehículo de transporte pesado o autobús,categoria,21
+V15,V10-V19,Ciclista lesionado en colisión con tren o vehículo ferroviario,categoria,21
+V16,V10-V19,Ciclista lesionado en colisión con otro vehículo no motorizado,categoria,21
+V17,V10-V19,Ciclista lesionado en colisión con objeto fijo o estacionado,categoria,21
+V18,V10-V19,Ciclista lesionado en accidente de transporte sin colisión,categoria,21
+V19,V10-V19,Ciclista lesionado en otros accidentes de transporte y los no especificados,categoria,48
+V20-V29,V00-V99,MOTOCICLISTA LESIONADO EN ACCIDENTE DE TRANSPORTE (V20-V29),bloque,474
+V20,V20-V29,Motociclista lesionado por colisión con peatón o animal,categoria,42
+V21,V20-V29,Motociclista lesionado en colisión con vehículo de pedal,categoria,42
+V22,V20-V29,Motociclista lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,42
+V23,V20-V29,"Motociclista lesionado en colisión con coche, camioneta o furgoneta",categoria,42
+V24,V20-V29,Motociclista lesionado en colisión con vehículo de transporte pesado o autobús,categoria,42
+V25,V20-V29,Motociclista lesionado en colisión con tren o vehículo ferroviario,categoria,42
+V26,V20-V29,Motociclista lesionado en colisión con otro vehículo no motorizado,categoria,42
+V27,V20-V29,Motociclista lesionado en colisión con objeto fijo o estacionado,categoria,42
+V28,V20-V29,Motociclista lesionado en accidente de transporte sin colisión,categoria,42
+V29,V20-V29,Motociclista lesionado en otros accidentes de transporte y los no especificados,categoria,96
+V30-V39,V00-V99,OCUPANTE DE VEHÍCULO MOTORIZADO DE TRES RUEDAS LESIONADO EN ACCIDENTE DE TRANSPORTE (V30-V39),bloque,291
+V30,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con peatón o animal,categoria,27
+V31,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con vehículo a pedales,categoria,27
+V32,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,27
+V33,V30-V39,"Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con coche, camioneta o furgoneta",categoria,27
+V34,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con vehículo de transporte pesado o autobús,categoria,27
+V35,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con tren o vehículo ferroviario,categoria,27
+V36,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con otro vehículo no motorizado,categoria,27
+V37,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en colisión con objeto fijo o estacionado,categoria,27
+V38,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en accidente de transporte sin colisión,categoria,27
+V39,V30-V39,Ocupante de vehículo motorizado de tres ruedas lesionado en otros accidentes de transporte y los no especificados,categoria,48
+V40-V49,V00-V99,OCUPANTE DE COCHE LESIONADO EN ACCIDENTE DE TRANSPORTE (V40-V49),bloque,372
+V40,V40-V49,Ocupante de coche lesionado por colisión con peatón o animal,categoria,27
+V41,V40-V49,Ocupante de coche lesionado por colisión con vehículo a pedales,categoria,27
+V42,V40-V49,Ocupante de coche lesionado por colisión con vehículo motorizado de dos o tres ruedas,categoria,27
+V43,V40-V49,"Ocupante de coche lesionado por colisión con coche, camioneta o furgoneta",categoria,108
+V44,V40-V49,Ocupante de coche lesionado por colisión con vehículo de transporte pesado o autobús,categoria,27
+V45,V40-V49,Ocupante de coche lesionado en colisión con tren o vehículo ferroviario,categoria,27
+V46,V40-V49,Ocupante de coche lesionado por colisión con otros vehículos no motorizados,categoria,27
+V47,V40-V49,Ocupante de coche lesionado por colisión con objeto fijo o estacionado,categoria,27
+V48,V40-V49,Ocupante de automóvil lesionado en accidente de transporte sin colisión,categoria,27
+V49,V40-V49,Ocupante de coche lesionado en otros tipos de accidentes de transporte y los no especificados,categoria,48
+V50-V59,V00-V99,OCUPANTE DE CAMIONETA O FURGONETA LESIONADO EN ACCIDENTE DE TRANSPORTE (V50-V59),bloque,291
+V50,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con peatón o animales,categoria,27
+V51,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con vehículo a pedales,categoria,27
+V52,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con vehículos motorizados de dos o tres ruedas,categoria,27
+V53,V50-V59,"Ocupante de camioneta o furgoneta lesionado en colisión con coche, camioneta o furgoneta",categoria,27
+V54,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con vehículo de transporte pesado o autobús,categoria,27
+V55,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con tren o vehículo ferroviario,categoria,27
+V56,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con otro vehículo no motorizado,categoria,27
+V57,V50-V59,Ocupante de camioneta o furgoneta lesionado en colisión con objeto fijo o estacionado,categoria,27
+V58,V50-V59,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colisión,categoria,27
+V59,V50-V59,Ocupante de camioneta o furgoneta lesionado en otros accidentes de transporte y los no especificados,categoria,48
+V60-V69,V00-V99,OCUPANTE DE VEHÍCULO DE TRANSPORTE PESADO LESIONADO EN ACCIDENTE DE TRANSPORTE (V60-V69),bloque,291
+V60,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con peatón o animal,categoria,27
+V61,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con vehículo a pedales,categoria,27
+V62,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,27
+V63,V60-V69,"Ocupante de vehículo de transporte pesado lesionado en colisión con coche, camioneta o furgoneta",categoria,27
+V64,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con vehículo de transporte pesado o autobús,categoria,27
+V65,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con tren o vehículo ferroviario,categoria,27
+V66,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con otro vehículo motorizado,categoria,27
+V67,V60-V69,Ocupante de vehículo de transporte pesado lesionado en colisión con objeto fijo o estacionado,categoria,27
+V68,V60-V69,Ocupante de vehículo de transporte pesado lesionado en accidente de transporte sin colisión,categoria,27
+V69,V60-V69,Ocupante de vehículo de transporte pesado lesionado en otros accidentes de transporte y los no especificados,categoria,48
+V70-V79,V00-V99,OCUPANTE DE AUTOBÚS LESIONADO EN ACCIDENTE DE TRANSPORTE (V70-V79),bloque,291
+V70,V70-V79,Ocupante de autobús lesionado en colisión con peatón o animal,categoria,27
+V71,V70-V79,Ocupante de autobús lesionado en colisión con vehículo a pedales,categoria,27
+V72,V70-V79,Ocupante de autobús lesionado en colisión con vehículo motorizado de dos o tres ruedas,categoria,27
+V73,V70-V79,"Ocupante de autobús lesionado en colisión con coche, camioneta o furgoneta",categoria,27
+V74,V70-V79,Ocupante de autobús lesionado en colisión con vehículo de transporte pesado o autobús,categoria,27
+V75,V70-V79,Ocupante de autobús lesionado en colisión con tren o vehículo ferroviario,categoria,27
+V76,V70-V79,Ocupante de autobús lesionado en colisión con otro vehículo no motorizado,categoria,27
+V77,V70-V79,Ocupante de autobús lesionado en colisión con objeto fijo o estacionado,categoria,27
+V78,V70-V79,Ocupante de autobús lesionado en accidente de transporte sin colisión,categoria,27
+V79,V70-V79,Ocupante de autobús lesionado en otros accidentes de transporte y los no especificados,categoria,48
+V80-V89,V00-V99,OTROS ACCIDENTES DE TRANSPORTE TERRESTRE (V80 -V89),bloque,507
+V80,V80-V89,Jinete u ocupante de vehículo de tracción animal lesionado en accidente de transporte,categoria,93
+V81,V80-V89,Ocupante de tren o vehículo ferroviario lesionado en accidente de transporte,categoria,39
+V82,V80-V89,Ocupante de tranvía motorizado lesionado en accidente de transporte,categoria,30
+V83,V80-V89,Ocupante de vehículos especiales utilizados principalmente en instalaciones industriales lesionado en accidente de transporte,categoria,27
+V84,V80-V89,"Ocupante de vehículo especial utilizado principalmente en agricultura, lesionado en accidente de transporte",categoria,27
+V85,V80-V89,Ocupante de vehículo de construcción especial lesionado en accidente de transporte,categoria,27
+V86,V80-V89,Ocupante de todoterreno especial u otro vehículo motorizado lesionado en accidente de transporte,categoria,189
+V87,V80-V89,Accidente de tráfico de tipo especificado pero modo de transporte de la víctima desconocido,categoria,30
+V88,V80-V89,Accidente no de tráfico de tipo especificado pero modo de transporte de la víctima desconocido,categoria,30
+V89,V80-V89,"Accidente de vehículo motorizado o no motorizado, tipo de vehículo no especificado",categoria,15
+V90-V94,V00-V99,ACCIDENTES DE TRANSPORTE ACUÁTICO (V90-V94),bloque,576
+V90,V90-V94,Ahogamiento e inmersión debido a un accidente en embarcación,categoria,144
+V91,V90-V94,Otra lesión por accidente en embarcación,categoria,141
+V92,V90-V94,"Ahogamiento e inmersión debido a un accidente estando a bordo de embarcación, sin accidente contra vehículo acuático",categoria,84
+V93,V90-V94,"Otra lesión debida a accidente estando a bordo de embarcación, sin accidente con vehículo acuático",categoria,168
+V94,V90-V94,Otros accidentes y los no especificados en transportes acuáticos,categoria,39
+V95-V97,V00-V99,ACCIDENTES DE TRANSPORTE AÉREO Y ESPACIALES (V95-V97),bloque,219
+V95,V95-V97,"Accidente de aeronave motorizada, con ocupante lesionado",categoria,111
+V96,V95-V97,"Accidente de aeronave sin motor, con ocupante lesionado",categoria,69
+V97,V95-V97,Otros accidentes de transporte aéreo especificados,categoria,39
+V98-V99,V00-V99,OTROS TIPOS DE ACCIDENTES DE TRANSPORTE Y LOS NO ESPECIFICADOS (V98-V99),bloque,18
+V98,V98-V99,Otros tipos de accidentes de transporte especificados,categoria,15
+V99,V98-V99,Accidente de transporte no especificado,categoria,3
+W00-X58,V00-X58,OTRAS CAUSAS EXTERNAS DE LESIONES ACCIDENTALES (W00-X58),bloque,1542
+W00-W19,W00-X58,"RESBALÓN, TROPIEZO, TRASPIÉ Y CAÍDAS (W00-W19)",bloque,330
+W00,W00-W19,Caída debida a hielo o nieve,categoria,12
+W01,W00-W19,"Caída en el mismo nivel por resbalar, tropezar o dar un traspié",categoria,24
+W03,W00-W19,Otra caída en mismo nivel debida a colisión con otra persona,categoria,3
+W04,W00-W19,Caída al ser llevado o cargado por otras personas,categoria,3
+W05,W00-W19,"Caída desde silla de ruedas sin movimiento, patinete no motorizado y patinete motorizado sin movimiento",categoria,9
+W06,W00-W19,Caída desde cama,categoria,3
+W07,W00-W19,Caída desde silla,categoria,3
+W08,W00-W19,Caída desde otro mueble,categoria,3
+W09,W00-W19,Caída sobre o desde equipo de patio de recreo,categoria,12
+W10,W00-W19,Caída en o desde escaleras y escalones,categoria,15
+W11,W00-W19,Caída en y desde una escalera de mano,categoria,3
+W12,W00-W19,Caída en y desde andamio,categoria,3
+W13,W00-W19,"Caída desde, fuera de o por un edificio o estructura",categoria,21
+W14,W00-W19,Caída desde árbol,categoria,3
+W15,W00-W19,Caída desde acantilado,categoria,3
+W16,W00-W19,"Caída, salto o sumersión en agua",categoria,138
+W17,W00-W19,Otros tipos de caída desde un nivel a otro,categoria,24
+W18,W00-W19,"Otros resbalones, tropezones, traspiés y caídas",categoria,45
+W19,W00-W19,Caída no especificada,categoria,3
+W20-W49,W00-X58,EXPOSICIÓN A FUERZAS MECÁNICAS INANIMADAS (W20-W49),bloque,504
+W20,W20-W49,"Alcanzado por objeto arrojado, proyectado o que cae",categoria,9
+W21,W20-W49,"Golpe contra, o golpeado por equipo deportivo",categoria,72
+W22,W20-W49,Golpe o golpeado por otros objetos,categoria,33
+W23,W20-W49,"Atrapado, aplastado, atascado o comprimido en o entre objetos",categoria,9
+W24,W20-W49,"Contacto con dispositivos de elevación y transmisión, no clasificados bajo otro concepto",categoria,6
+W25,W20-W49,Contacto con vidrio afilado,categoria,3
+W26,W20-W49,Contacto con otros objetos afilados,categoria,15
+W27,W20-W49,Contacto con herramienta de mano sin motor,categoria,21
+W28,W20-W49,Contacto con podadora de césped con motor,categoria,3
+W29,W20-W49,Contacto con otras herramientas de mano y maquinaria del hogar motorizados,categoria,18
+W30,W20-W49,Contacto con maquinaria agrícola,categoria,21
+W31,W20-W49,Contacto con otra maquinaria y la no especificada,categoria,27
+W32,W20-W49,Disparo accidental y mal funcionamiento de pistola,categoria,6
+W33,W20-W49,"Disparo y mal funcionamiento accidental de rifle, escopeta y arma de fuego larga",categoria,30
+W34,W20-W49,Disparo accidental y mal funcionamiento de otras armas de fuego y las no especificadas,categoria,30
+W35,W20-W49,Explosión y rotura de caldera,categoria,3
+W36,W20-W49,Explosión y rotura de cilindro de gas,categoria,15
+W37,W20-W49,"Explosión y rotura de neumático a presión, tubería o manguera",categoria,6
+W38,W20-W49,Explosión y rotura de otros dispositivos presurizados especificados,categoria,3
+W39,W20-W49,Disparos de fuegos artificiales,categoria,3
+W40,W20-W49,Explosión de otros materiales,categoria,12
+W42,W20-W49,Exposición al ruido,categoria,6
+W44,W20-W49,Cuerpo extraño que entra o pasa por un orificio natural,categoria,123
+W45,W20-W49,Cuerpo extraño u objeto que entra a través de la piel,categoria,6
+W46,W20-W49,Contacto con aguja hipodérmica,categoria,6
+W49,W20-W49,Exposición a otras fuerzas mecánicas inanimadas,categoria,18
+W50-W64,W00-X58,EXPOSICIÓN A FUERZAS MECÁNICAS ANIMADAS (W50-W64),bloque,336
+W50,W50-W64,"Golpe, mordedura, patada, rasguño o arañazo infligidos por otra persona",categoria,15
+W51,W50-W64,Golpe o tropezón contra otra persona,categoria,3
+W52,W50-W64,"Aplastado, empujado o pisado por multitud o estampida humana",categoria,3
+W53,W50-W64,Contacto con roedores,categoria,24
+W54,W50-W64,Contacto con perro,categoria,9
+W55,W50-W64,Contacto con otros mamíferos,categoria,63
+W56,W50-W64,Contacto con animales marinos no venenosos,categoria,63
+W57,W50-W64,Mordido o picado por insecto no venenoso y otro artrópodo no venenoso,categoria,3
+W58,W50-W64,Contacto con cocodrilo o caimán,categoria,24
+W59,W50-W64,Contacto con otros reptiles no venenosos,categoria,42
+W60,W50-W64,"Contacto con espinas, pinchos y hojas puntiagudas de plantas no venenosas",categoria,3
+W61,W50-W64,Contacto con aves (domésticas) (silvestres),categoria,72
+W62,W50-W64,Contacto con anfibio no venenoso,categoria,9
+W64,W50-W64,Exposición a otras fuerzas mecánicas animadas,categoria,3
+W65-W74,W00-X58,"AHOGAMIENTO E INMERSIÓN ACCIDENTAL, NO DEBIDA A TRANSPORTE (W65-W74)",bloque,15
+W65,W65-W74,Ahogamiento e inmersión accidental estando en bañera,categoria,3
+W67,W65-W74,Ahogamiento e inmersión accidental estando en piscina,categoria,3
+W69,W65-W74,Ahogamiento e inmersión accidental estando en aguas naturales,categoria,3
+W73,W65-W74,"Otras causas especificadas de ahogamiento e inmersión accidental, no debidas a transporte",categoria,3
+W74,W65-W74,Causa de ahogamiento e inmersión accidental no especificados,categoria,3
+W85-W99,W00-X58,"EXPOSICIÓN A CORRIENTE ELÉCTRICA, RADIACIÓN Y TEMPERATURA Y PRESIÓN AMBIENTAL EXTREMA (W85-W99)",bloque,99
+W85,W85-W99,Exposición a líneas de transmisión eléctrica,categoria,3
+W86,W85-W99,Exposición a otra corriente eléctrica especificada,categoria,9
+W88,W85-W99,Exposición a radiaciones ionizantes,categoria,9
+W89,W85-W99,Exposición a luz visible y ultravioleta hecha por el hombre,categoria,12
+W90,W85-W99,Exposición a otra radiación no ionizante,categoria,12
+W92,W85-W99,Exposición al calor excesivo de origen artificial,categoria,3
+W93,W85-W99,Exposición a frío excesivo de origen artificial,categoria,18
+W94,W85-W99,Exposición a presión atmosférica alta y baja y a cambios de presión atmosférica,categoria,30
+W99,W85-W99,Exposición a otros factores ambientales de origen humano,categoria,3
+X00-X08,W00-X58,"EXPOSICIÓN AL HUMO, FUEGO Y LLAMAS (X00-X08)",bloque,120
+X00,X00-X08,Exposición a fuego no controlado en edificio o estructura,categoria,21
+X01,X00-X08,"Exposición a fuego no controlado, no en un edificio o estructura",categoria,15
+X02,X00-X08,Exposición a fuego controlado en edificio o estructura,categoria,21
+X03,X00-X08,"Exposición a fuego controlado, no en un edificio o estructura",categoria,15
+X04,X00-X08,Exposición a ignición de material altamente inflamable,categoria,3
+X05,X00-X08,Exposición a ignición o fusión de ropa de noche,categoria,3
+X06,X00-X08,Exposición a ignición o fusión de otras prendas de vestir y ropa,categoria,12
+X08,X00-X08,"Exposición a otro humo, fuego y llamas especificadas",categoria,30
+X10-X19,W00-X58,CONTACTO CON CALOR Y SUSTANCIAS CALIENTES (X10-X19),bloque,60
+X10,X10-X19,"Contacto con bebidas, alimentos, grasas y aceites de cocina calientes",categoria,9
+X11,X10-X19,Contacto con agua de grifo caliente,categoria,9
+X12,X10-X19,Contacto con otros líquidos calientes,categoria,3
+X13,X10-X19,Contacto con vapor de agua y otros vapores calientes,categoria,6
+X14,X10-X19,Contacto con aire caliente y otros gases calientes,categoria,6
+X15,X10-X19,Contacto con los aparatos domésticos calientes,categoria,15
+X16,X10-X19,"Contacto con aparatos de calefacción, radiadores y tuberías calientes",categoria,3
+X17,X10-X19,"Contacto con motores calientes, máquinas y herramientas",categoria,3
+X18,X10-X19,Contacto con otros metales calientes,categoria,3
+X19,X10-X19,Contacto con calor y sustancias calientes,categoria,3
+X30-X39,W00-X58,EXPOSICIÓN A FUERZAS DE LA NATURALEZA (X30-X39),bloque,60
+X30,X30-X39,Exposición al calor natural excesivo,categoria,3
+X31,X30-X39,Exposición a un exceso de frío natural,categoria,3
+X32,X30-X39,Exposición a luz del sol,categoria,3
+X34,X30-X39,Terremoto,categoria,3
+X35,X30-X39,Erupción volcánica,categoria,3
+X36,X30-X39,"Avalancha, deslizamiento y otros movimientos de la tierra",categoria,6
+X37,X30-X39,Tormenta cataclísmica,categoria,27
+X38,X30-X39,Inundación,categoria,3
+X39,X30-X39,Exposición a otras fuerzas de la naturaleza,categoria,9
+X50-X50,W00-X58,SOBREESFUERZO Y MOVIMIENTOS AGOTADORES O REPETITIVOS (X50),bloque,12
+X50,X50-X50,Sobreesfuerzo y movimientos agotadores o repetitivos,categoria,12
+X52-X58,W00-X58,EXPOSICIÓN ACCIDENTAL A OTROS FACTORES ESPECIFICADOS (X52-X58),bloque,6
+X52,X52-X58,Estancia prolongada en ambiente sin gravedad,categoria,3
+X58,X52-X58,Exposición a otros factores especificados,categoria,3
+X71-X83,Cap.20,LESIONES AUTOINFLIGIDAS INTENCIONADAMENTE (X71-X83),bloque,129
+X71,X71-X83,Lesiones autoinfligidas intencionadamente por ahogamiento e inmersión,categoria,18
+X72,X71-X83,Lesiones autoinfligidas intencionadamente por disparo de arma de fuego,categoria,3
+X73,X71-X83,"Lesiones autoinfligidas intencionadamente por disparo de rifle, escopeta y arma de fuego larga",categoria,15
+X74,X71-X83,Lesiones autoinfligidas intencionadamente por disparo de arma de fuego larga y pistola no especificada,categoria,15
+X75,X71-X83,Lesiones autoinfligidas intencionadamente por material explosivo,categoria,3
+X76,X71-X83,"Lesiones autoinfligidas intencionadamente por humo, fuego y llamas",categoria,3
+X77,X71-X83,"Lesiones autoinfligidas intencionadamente por vapor de agua, vapores calientes y objetos calientes",categoria,18
+X78,X71-X83,Lesiones autoinfligidas intencionadamente por objeto cortante,categoria,15
+X79,X71-X83,Lesiones autoinfligidas intencionadamente por objeto sin filo,categoria,3
+X80,X71-X83,Lesiones autoinfligidas intencionadamente al saltar desde un lugar alto,categoria,3
+X81,X71-X83,Lesiones autoinfligidas intencionadamente al saltar o tenderse delante de objeto en movimiento,categoria,9
+X82,X71-X83,Lesiones autoinfligidas intencionadamente por accidente de vehículo motorizado,categoria,12
+X83,X71-X83,Lesiones autoinfligidas intencionadamente por otros medios especificados,categoria,12
+X92-Y09,Cap.20,AGRESIÓN (X92-Y09),bloque,202
+X92,X92-Y09,Agresión por ahogamiento e inmersión,categoria,18
+X93,X92-Y09,Agresión por disparo de arma corta,categoria,3
+X94,X92-Y09,"Agresión por disparo de rifle, escopeta y arma larga",categoria,15
+X95,X92-Y09,"Agresión por disparo de otras armas de fuego, y las no especificadas",categoria,15
+X96,X92-Y09,Agresión con material explosivo,categoria,21
+X97,X92-Y09,"Agresión por humo, fuego y llamas",categoria,3
+X98,X92-Y09,"Agresión por vapor de agua, vapores calientes y objetos calientes",categoria,18
+X99,X92-Y09,Agresión con objeto cortante,categoria,15
+Y00,X92-Y09,Agresión con objeto sin filo,categoria,3
+Y01,X92-Y09,Agresión por empujón desde un lugar elevado,categoria,3
+Y02,X92-Y09,Agresión por empujar o colocar a víctima delante de objeto en movimiento,categoria,9
+Y03,X92-Y09,Agresión por colisión de vehículo motorizado,categoria,6
+Y04,X92-Y09,Agresión con fuerza corporal,categoria,12
+Y07,X92-Y09,"Autor de agresión, maltrato y abandono",categoria,45
+Y08,X92-Y09,Agresión por otros medios especificados,categoria,15
+Y09,X92-Y09,Agresión por medios no especificados,categoria,1
+Y21-Y33,Cap.20,EVENTOS DE INTENCIÓN NO DETERMINADA (Y21-Y33),bloque,105
+Y21,Y21-Y33,"Ahogamiento e inmersión, intención no determinada",categoria,21
+Y22,Y21-Y33,"Disparo de arma de fuego, intención no determinada",categoria,3
+Y23,Y21-Y33,"Disparo de rifle, escopeta y armas de fuego largas, intención no determinada",categoria,18
+Y24,Y21-Y33,"Disparo de otras armas de fuego y las no especificadas, intención no determinada",categoria,9
+Y25,Y21-Y33,"Contacto con material explosivo, intención no determinada",categoria,3
+Y26,Y21-Y33,"Exposición al humo, fuego y llamas, intención no determinada",categoria,3
+Y27,Y21-Y33,"Contacto con vapor de agua, vapores calientes y objetos calientes, intención no determinada",categoria,18
+Y28,Y21-Y33,"Contacto con objetos afilados, intención no determinada",categoria,15
+Y29,Y21-Y33,"Contacto con objeto sin filo, intención no determinada",categoria,3
+Y30,Y21-Y33,"Caída, salto o empujón desde un lugar alto, intención no determinada",categoria,3
+Y31,Y21-Y33,"Caer, acostarse o correr ante un objeto en movimiento, intención no determinada",categoria,3
+Y32,Y21-Y33,"Accidente de vehículo motorizado, intención no determinada",categoria,3
+Y33,Y21-Y33,"Otros eventos especificados, intención no determinada",categoria,3
+Y35-Y38,Cap.20,"INTERVENCIÓN LEGAL, OPERACIONES DE GUERRA, OPERACIONES MILITARES Y TERRORISMO (Y35-Y38)",bloque,930
+Y35,Y35-Y38,Intervención legal,categoria,276
+Y36,Y35-Y38,Operaciones de guerra,categoria,291
+Y37,Y35-Y38,Operaciones militares,categoria,267
+Y38,Y35-Y38,Terrorismo,categoria,96
+Y62-Y84,Cap.20,COMPLICACIONES DE LA ATENCIÓN MÉDICA Y QUIRÚRGICA (Y62-Y84),bloque,115
+Y62-Y69,Y62-Y84,ACCIDENTES EN PACIENTES DURANTE ATENCIÓN MÉDICA Y QUIRÚRGICA (Y62-Y69),bloque,33
+Y62,Y62-Y69,Fallo en las precauciones estériles durante la atención quirúrgica y médica,categoria,9
+Y63,Y62-Y69,Fallo en la dosis durante un cuidado quirúrgico y médico,categoria,9
+Y64,Y62-Y69,Sustancias médicas y biológicas contaminadas,categoria,4
+Y65,Y62-Y69,Otros eventos adversos durante la atención quirúrgica y médica,categoria,9
+Y66,Y62-Y69,No administración de atención quirúrgica y médica,categoria,1
+Y69,Y62-Y69,Evento adverso no especificado durante atención quirúrgica y médica,categoria,1
+Y70-Y82,Y62-Y84,DISPOSITIVOS SANITARIOS UTILIZADOS PARA EL DIAGNÓSTICO Y TRATAMIENTO ASOCIADOS CON EVENTOS ADVERSOS (Y70-Y82),bloque,63
+Y70,Y70-Y82,Dispositivos de anestesiología asociados con incidentes adversos,categoria,5
+Y71,Y70-Y82,Dispositivos cardiovasculares asociados con incidentes adversos,categoria,5
+Y72,Y70-Y82,Dispositivos de otorrinolaringología asociados con incidentes adversos,categoria,5
+Y73,Y70-Y82,Dispositivos de gastroenterología y urología asociados con incidentes adversos,categoria,5
+Y74,Y70-Y82,Dispositivos de hospital general y de uso personal asociados con incidentes adversos,categoria,5
+Y75,Y70-Y82,Dispositivos de neurología asociados con incidentes adversos,categoria,5
+Y76,Y70-Y82,Dispositivos de obstetricia y ginecología asociados con incidentes adversos,categoria,5
+Y77,Y70-Y82,Dispositivos de oftalmología asociados con incidentes adversos,categoria,6
+Y78,Y70-Y82,Dispositivos de radiología asociados con incidentes adversos,categoria,5
+Y79,Y70-Y82,Dispositivos ortopédicos asociados con incidentes adversos,categoria,5
+Y80,Y70-Y82,Dispositivos de medicina física asociados con incidentes adversos,categoria,5
+Y81,Y70-Y82,Dispositivos de cirugía general y plástica asociados con incidentes adversos,categoria,5
+Y82,Y70-Y82,Otros dispositivos médicos y los no especificados asociadas con los incidentes adversos,categoria,2
+Y83-Y84,Y62-Y84,"OTROS PROCEDIMIENTOS MÉDICOS Y QUIRÚRGICOS COMO CAUSA DE REACCIÓN ANÓMALA DEL PACIENTE, O DE COMPLICACIÓN POSTERIOR, SIN MENCIÓN DE EVENTO ADVERSO EN EL MOMENTO DEL PROCEDIMIENTO (Y83-Y84)",bloque,19
+Y83,Y83-Y84,"Cirugía y otros procedimientos quirúrgicos como causa de reacción anormal del paciente, o de complicación posterior, sin mención de evento adverso en el momento del procedimiento",categoria,9
+Y84,Y83-Y84,"Otros procedimientos médicos como causa de reacción anormal del paciente o de complicación posterior, sin mención de evento adverso en el momento del procedimiento",categoria,10
+Y90-Y99,Cap.20,FACTORES COMPLEMENTARIOS RELACIONADOS CON CAUSAS DE MORBILIDAD CLASIFICADAS BAJO OTRO CONCEPTO (Y90 -Y99),bloque,332
+Y90,Y90-Y99,Evidencia de implicación de alcohol determinada por el nivel de alcohol en sangre,categoria,10
+Y92,Y90-Y99,Lugar del acontecimiento de la causa externa,categoria,209
+Y93,Y90-Y99,Códigos de actividad,categoria,107
+Y95,Y90-Y99,Afección nosocomial,categoria,1
+Y99,Y90-Y99,Estado de causa externa,categoria,5
+Cap.21,CIE-10-ES,FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS (Z00-Z99),capitulo,1390
+Z00-Z13,Cap.21,PERSONAS EN CONTACTO CON LOS SERVICIOS SANITARIOS PARA RECONOCIMIENTO MÉDICO (Z00-Z13),bloque,156
+Z00,Z00-Z13,"Contacto para reconocimiento médico general sin síntomas, ni diagnostico de sospecha o declarado",categoria,13
+Z01,Z00-Z13,"Contacto para reconocimiento médico especial sin síntomas, ni diagnóstico de sospecha o declarado",categoria,23
+Z02,Z00-Z13,Contacto para reconocimiento médico con fines administrativos,categoria,15
+Z03,Z00-Z13,Contacto para observación médica de enfermedades y afecciones sospechadas que se descartan,categoria,14
+Z04,Z00-Z13,Contacto para reconocimiento médico y observación por otras razones,categoria,12
+Z05,Z00-Z13,Contacto para observación y evaluación del recién nacido por enfermedades y afecciones sospechadas que se descartan,categoria,15
+Z08,Z00-Z13,Contacto para reconocimiento médico de seguimiento después de finalizar un tratamiento de neoplasia maligna,categoria,1
+Z09,Z00-Z13,Contacto para reconocimiento médico de seguimiento después de finalizar tratamiento de afecciones distintas de neoplasia maligna,categoria,1
+Z11,Z00-Z13,Contacto para cribado de enfermedades infecciosas y parasitarias,categoria,12
+Z12,Z00-Z13,Contacto para cribado de neoplasias malignas,categoria,20
+Z13,Z00-Z13,Contacto para cribado de otras enfermedades y trastornos,categoria,30
+Z14-Z15,Cap.21,PORTADOR GENÉTICO Y SUSCEPTIBILIDAD GENÉTICA A ENFERMEDAD (Z14-Z15),bloque,13
+Z14,Z14-Z15,Portador genético,categoria,4
+Z15,Z14-Z15,Susceptibilidad genética a enfermedad,categoria,9
+Z16-Z16,Cap.21,RESISTENCIA A FÁRMACOS ANTIMICROBIANOS (Z16),bloque,19
+Z16,Z16-Z16,Resistencia a fármacos antimicrobianos,categoria,19
+Z17-Z17,Cap.21,ESTADO DE RECEPTOR DE ESTRÓGENO Y OTRAS HORMONAS Y FACTORES (Z17),bloque,10
+Z17,Z17-Z17,Estado de receptor de estrógeno y otras hormonas y factores,categoria,10
+Z18-Z18,Cap.21,RETENCIÓN DE FRAGMENTOS DE CUERPO EXTRAÑO (Z18),bloque,14
+Z18,Z18-Z18,Fragmentos de cuerpo extraño retenidos,categoria,14
+Z19-Z19,Cap.21,ESTADO DE NEOPLASIA HORMONOSENSIBLE (Z19),bloque,2
+Z19,Z19-Z19,Estado de neoplasia hormonosensible,categoria,2
+Z20-Z29,Cap.21,PERSONAS CON RIESGOS POTENCIALES DE SALUD RELACIONADOS CON ENFERMEDADES TRANSMISIBLES (Z20-Z29),bloque,65
+Z20,Z20-Z29,Contacto y (sospecha de) exposición a enfermedades transmisibles,categoria,18
+Z21,Z20-Z29,Estado de infección asintomática por virus de inmunodeficiencia humana [VIH],categoria,1
+Z22,Z20-Z29,Portador de enfermedad infecciosa,categoria,20
+Z23,Z20-Z29,Contacto para vacunación,categoria,1
+Z28,Z20-Z29,Vacunación no realizada y estado de déficit de vacunación,categoria,17
+Z29,Z20-Z29,Contacto para otras medidas profilácticas,categoria,8
+Z30-Z39,Cap.21,PERSONAS QUE ENTRAN EN CONTACTO CON LOS SERVICIOS SANITARIOS POR CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCIÓN (Z30-Z39),bloque,82
+Z30,Z30-Z39,Contacto para atención anticonceptiva,categoria,25
+Z31,Z30-Z39,Contacto para atención reproductiva,categoria,20
+Z32,Z30-Z39,Contacto para prueba de embarazo e instrucciones en el parto y cuidado de los hijos,categoria,5
+Z33,Z30-Z39,Estado de embarazo,categoria,3
+Z34,Z30-Z39,Contacto para supervisión de un embarazo normal,categoria,12
+Z36,Z30-Z39,Contacto para cribado prenatal de la madre,categoria,17
+Z3A,Cap.21,Semanas de gestación,categoria,38
+Z37,Cap.21,Resultado del parto,categoria,19
+Z38,Cap.21,Nacido vivo según el lugar de nacimiento y el tipo de parto,categoria,18
+Z39,Cap.21,Contacto para reconocimiento médico y atención materna posparto,categoria,3
+Z40-Z53,Cap.21,CONTACTOS PARA OTRA ATENCIÓN ESPECÍFICA DE SALUD (Z40-Z53),bloque,162
+Z40,Z40-Z53,Contacto para cirugía profiláctica,categoria,7
+Z41,Z40-Z53,Contacto para procedimientos con fines distintos a remediar un estado de salud,categoria,5
+Z42,Z40-Z53,Contacto para cirugía plástica y reconstructiva después de un procedimiento médico o reparación de lesión,categoria,2
+Z43,Z40-Z53,Contacto para cuidados de estomas artificiales,categoria,10
+Z44,Z40-Z53,Contacto para colocación y ajuste de dispositivos protésicos externos,categoria,26
+Z45,Z40-Z53,Contacto para ajuste y mantenimiento de dispositivo implantado,categoria,19
+Z46,Z40-Z53,Contacto para colocación y ajuste de otros dispositivos,categoria,12
+Z47,Z40-Z53,Cuidados ortopédicos posteriores,categoria,8
+Z48,Z40-Z53,Contacto para otros cuidados posprocedimiento,categoria,23
+Z49,Z40-Z53,Contacto para los cuidados que implica la diálisis renal,categoria,4
+Z51,Z40-Z53,Contacto para otros cuidados posteriores y cuidados médicos,categoria,8
+Z52,Z40-Z53,Donantes de órganos y tejidos,categoria,26
+Z53,Z40-Z53,"Personas en contacto con los servicios de salud para procedimientos y tratamiento específico, no realizados",categoria,12
+Z55-Z65,Cap.21,PERSONAS CON RIESGOS POTENCIALES DE SALUD RELACIONADOS CON SU SITUACIÓN SOCIOECONÓMICA Y PSICOSOCIAL (Z55-Z65),bloque,115
+Z55,Z55-Z65,Problemas relacionados con educación y alfabetización,categoria,9
+Z56,Z55-Z65,Problemas relacionados con empleo y desempleo,categoria,11
+Z57,Z55-Z65,Exposición ocupacional a factores de riesgo,categoria,11
+Z58,Z55-Z65,Problemas relacionados con el entorno físico,categoria,3
+Z59,Z55-Z65,Problemas relacionados con la vivienda y las circunstancias económicas,categoria,23
+Z60,Z55-Z65,Problemas relacionados con el entorno social,categoria,7
+Z62,Z55-Z65,Problemas relacionados con la crianza,categoria,28
+Z63,Z55-Z65,"Otros problemas relacionados con grupo de apoyo primario, incluyendo circunstancias familiares",categoria,12
+Z64,Z55-Z65,Problemas relacionados con ciertas circunstancias psicosociales,categoria,3
+Z65,Z55-Z65,Problemas relacionados con otras circunstancias psicosociales,categoria,8
+Z66-Z66,Cap.21,ESTADO DE NO REANIMACIÓN (Z66),bloque,1
+Z66,Z66-Z66,No reanimación cardiopulmonar,categoria,1
+Z67-Z67,Cap.21,GRUPO SANGUÍNEO (Z67),bloque,14
+Z67,Z67-Z67,Grupo sanguíneo,categoria,14
+Z68-Z68,Cap.21,ÍNDICE DE MASA CORPORAL [IMC] (Z68),bloque,32
+Z68,Z68-Z68,Índice de masa corporal [IMC],categoria,32
+Z69-Z76,Cap.21,PERSONAS QUE ENTRAN EN CONTACTO CON LOS SERVICIOS SANITARIOS EN OTRAS CIRCUNSTANCIAS (Z69-Z76),bloque,85
+Z69,Z69-Z76,Contacto con los servicios de salud mental para la víctima y el autor de malos tratos,categoria,8
+Z70,Z69-Z76,"Asesoramiento en relación a la actitud, comportamiento y orientación sexual",categoria,6
+Z71,Z69-Z76,"Personas que entran en contacto con los servicios de salud para otros tipos de asesoramiento y consejos médicos, no clasificados bajo otro concepto",categoria,19
+Z72,Z69-Z76,Problemas relacionados con el estilo de vida,categoria,14
+Z73,Z69-Z76,Problemas relacionados con dificultad en el control de la vida,categoria,14
+Z74,Z69-Z76,Problemas relacionados con el proveedor de cuidados a persona dependiente,categoria,7
+Z75,Z69-Z76,Problemas relacionados con las instalaciones médicas y otros servicios de salud,categoria,8
+Z76,Z69-Z76,Personas que entran en contacto con los servicios de salud en otras circunstancias,categoria,9
+Z77-Z99,Cap.21,"PERSONAS CON RIESGOS POTENCIALES DE SALUD RELACIONADOS CON HISTORIA FAMILIAR Y PERSONAL, Y DETERMINADAS AFECCIONES QUE INFLUYEN EN EL ESTADO DE SALUD (Z77-Z99)",bloque,542
+Z77,Z77-Z99,Otro contacto con y (sospecha de) exposición peligrosa para la salud,categoria,22
+Z78,Z77-Z99,Otro estado de salud especificado,categoria,3
+Z79,Z77-Z99,Tratamiento farmacológico prolongado (actual),categoria,32
+Z80,Z77-Z99,Historia familiar de neoplasia maligna primaria,categoria,15
+Z81,Z77-Z99,Historia familiar de trastornos mentales y del comportamiento,categoria,6
+Z82,Z77-Z99,Historia familiar de ciertas discapacidades y enfermedades crónicas (que conducen a discapacidad),categoria,13
+Z83,Z77-Z99,Historia familiar de otros trastornos especificados,categoria,19
+Z84,Z77-Z99,Historia familiar de otras afecciones,categoria,7
+Z85,Z77-Z99,Historia personal de neoplasia maligna,categoria,59
+Z86,Z77-Z99,Historia personal de otras enfermedades,categoria,38
+Z87,Z77-Z99,Historia personal de otras enfermedades y afecciones,categoria,49
+Z88,Z77-Z99,"Estado de alergia a fármacos, medicamentos y sustancias biológicas",categoria,10
+Z89,Z77-Z99,Ausencia adquirida de miembro,categoria,49
+Z90,Z77-Z99,"Ausencia adquirida de órganos, no clasificados bajo otro concepto",categoria,22
+Z91,Z77-Z99,"Factores personales de riesgo, no clasificados bajo otro concepto",categoria,57
+Z92,Z77-Z99,Historia personal de tratamiento médico,categoria,19
+Z93,Z77-Z99,Estado de estoma artificial,categoria,12
+Z94,Z77-Z99,Estado de órgano y tejido trasplantado,categoria,14
+Z95,Z77-Z99,Presencia de implantes e injertos cardiovasculares,categoria,13
+Z96,Z77-Z99,Presencia de otros implantes funcionales,categoria,40
+Z97,Z77-Z99,Presencia de otros dispositivos,categoria,13
+Z98,Z77-Z99,Otros estados posprocedimiento,categoria,23
+Z99,Z77-Z99,"Dependencia a máquinas y dispositivos de apoyo, no clasificados bajo otro concepto",categoria,7
+Cap.22,CIE-10-ES,CÓDIGOS PARA PROPÓSITOS ESPECIALES (U00-U85),capitulo,3
+U00-U49,Cap.22,ASIGNACIÓN PROVISIONAL DE NUEVAS ENFERMEDADES DE ETIOLOGÍA INCIERTA O DE USO DE EMERGENCIA (U00-U49),bloque,3
+U07,U00-U49,Utilización de emergencia del U07,categoria,2
+U09,U00-U49,Afección pos-COVID-19,categoria,1
