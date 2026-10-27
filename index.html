@@ -14,7 +14,8 @@
   <style>
    body { margin: 0; padding: 0 24px; font-family: system-ui, sans-serif; background: #fbfaf7; }
 .contenido {
-  display: flex;                 /* árbol y panel uno al lado del otro */
+   /* árbol y panel uno al lado del otro */
+  display: flex;                
   gap: 24px;
   align-items: flex-start;
   justify-content: center;
@@ -25,7 +26,8 @@
          margin-right: 6px; vertical-align: middle; }
 #arbol {
   position: relative;
-  width: min(calc(100vw - 380px), calc(100vh - 190px));   /* deja sitio al panel */
+  /* deja sitio al panel */
+  width: min(calc(100vw - 380px), calc(100vh - 190px));   
   aspect-ratio: 1;
   flex-shrink: 0;
 }
@@ -72,11 +74,13 @@
 const corto = (texto, max = 28) =>
   texto.length > max ? texto.slice(0, max - 1) + "…" : texto;
 
-// "LESIONES TRAUMÁTICAS (S00-T88)" → "Lesiones traumáticas"
+// "LESIONES TRAUMÁTICAS (S00-T88)" 
 const tituloCapitulo = texto =>
-  texto.replace(/\s*\(.*\)$/, "")                         // quita el rango del final
+  // quita el rango del final
+  texto.replace(/\s*\(.*\)$/, "")                         
        .toLowerCase()
-       .replace(/^./, letra => letra.toUpperCase());       // primera letra en mayúscula
+      // primera letra en mayúscula
+       .replace(/^./, letra => letra.toUpperCase());       
   let maxN = 1;    // el capítulo con más códigos; sirve de referencia para los tamaños
   let total = 1;   // códigos de toda la clasificación (para calcular el %)
 
@@ -93,11 +97,11 @@ function mostrar(n) {
     pct.toLocaleString("es-ES", { maximumFractionDigits: pct < 1 ? 2 : 1 }) + " %";
 }
 
-  // 1. Crear el árbol con la librería d3-hypertree
+  // Se crea el árbol con la librería d3-hypertree
   const arbol = new hyt.Hypertree(
     { parent: document.getElementById("arbol") },   // dónde dibujar
     {
-      // 2. Se cargar los datos transformados previmente 
+      // Se carga los datos transformados previmente 
       // Fuente: documentación de d3-fetch y d3-hierarchy (Bostock, s. f.)
       dataloader: listo =>
         d3.csv("datos_arbol.csv").then(filas => {
@@ -119,7 +123,7 @@ function mostrar(n) {
           listo(anidar(raiz));
         }),
 
-      // 3. Hacer que todos los nodos se puedan pulsar
+      // Se hace que todos los nodos se puedan pulsar
       // Estructura según el README de d3-hypertree (Glatzhofer, 2019)
       dataInitBFS: (ht, n) => {
         n.precalc.clickable = true;
@@ -129,7 +133,7 @@ function mostrar(n) {
         n.precalc.capitulo = cap ? cap.data.codigo : null;
       },
 
-      // 4. Texto de cada nodo: código + título corto
+      // El texto de cada nodo: código + título corto
       langInitBFS: (ht, n) => {
         const d = n.data;
         if (d.nivel === "raiz") {
@@ -141,12 +145,12 @@ function mostrar(n) {
         }
       },
 
-      // 5. Etiquetas, tamaño y color de los nodos
+      // Edición de etiquetass, tamaño y color de los nodos
       geometry: {
         // regla de etiquetas: las más importantes y sin solaparse
-        // Parte de hyt.cacheUpdate (código fuente de d3-hypertree); criterio de selección propioqfrqwrweg gb 
+        // Parte de hyt.cacheUpdate (código fuente de d3-hypertree)
         cacheUpdate: (ud, cache) => {
-          hyt.cacheUpdate(ud, cache);    // primero, la librería hace su cálculo normal
+          hyt.cacheUpdate(ud, cache);    // primero la librería hace su cálculo normal
 
           const candidatos = cache.unculledNodes
             .filter(n => n.precalc.label && (!n.parent || !n.isOutλ))   // dentro del foco
@@ -182,7 +186,7 @@ function mostrar(n) {
         }            
       },             
 
-      // 6. Al pulsar un nodo: mostrar su información y llevarlo al centro
+      // Cuando se pulsa un nodo se observa su información y llevarlo al centro
       // Adaptado del ejemplo del README de d3-hypertree (Glatzhofer, 2019)
       interaction: {
         onNodeClick: (n, m, l) => {
@@ -194,7 +198,7 @@ function mostrar(n) {
     }
   );
 
-  // 7. Animación inicial (sin ella el disco aparece vacío)
+ 
     // Animación inicial según el README de d3-hypertree (Glatzhofer, 2019)
   arbol.initPromise.then(() => new Promise((ok, err) => arbol.animateUp(ok, err)));
 </script>
