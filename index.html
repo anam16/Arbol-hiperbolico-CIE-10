@@ -5,6 +5,7 @@
   <title>CIE-10-ES · Árbol hiperbólico</title>
   <link rel="icon" href="data:,">
   <!-- Librerías: D3 (leer datos) y d3-hypertree (dibujar el árbol) -->
+  <!-- D3 (Bostock et al., 2011) y d3-hypertree 1.1.3 (Glatzhofer, 2019) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree-light.css">
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree.js"></script>
@@ -97,6 +98,7 @@ function mostrar(n) {
     { parent: document.getElementById("arbol") },   // dónde dibujar
     {
       // 2. Se cargar los datos transformados previmente 
+      // Fuente: documentación de d3-fetch y d3-hierarchy (Bostock, s. f.)
       dataloader: listo =>
         d3.csv("datos_arbol.csv").then(filas => {
           // tabla padre-hijo en una jerarquía
@@ -118,6 +120,7 @@ function mostrar(n) {
         }),
 
       // 3. Hacer que todos los nodos se puedan pulsar
+      // Estructura según el README de d3-hypertree (Glatzhofer, 2019)
       dataInitBFS: (ht, n) => {
         n.precalc.clickable = true;
         n.precalc.cell = true;
@@ -141,6 +144,7 @@ function mostrar(n) {
       // 5. Etiquetas, tamaño y color de los nodos
       geometry: {
         // regla de etiquetas: las más importantes y sin solaparse
+        // Parte de hyt.cacheUpdate (código fuente de d3-hypertree); criterio de selección propioqfrqwrweg gb 
         cacheUpdate: (ud, cache) => {
           hyt.cacheUpdate(ud, cache);    // primero, la librería hace su cálculo normal
 
@@ -159,6 +163,7 @@ function mostrar(n) {
           cache.labels = elegidas;       // estas son las que se dibujan
         },
         // Tamaño según numero de codigos: el radio crece con la raíz cuadrada
+        // Área proporcional a n_codigos: radio con raíz cuadrada
         nodeRadius: (ud, n) => n.data.nivel === "raiz"
           ? 0.018  //tamaño nodo raiz
           : 0.004 + 0.05 * Math.sqrt(+n.data.n_codigos / maxN),
@@ -170,7 +175,7 @@ function mostrar(n) {
             // raíz: estrella
             // capítulo 19: rojo (el hallazgo)
             // resto: gris neutro
-            fill: n => n.data.nivel === "raiz" ? "#17212b"
+            fill: n => n.data.nivel === "raiz" ? "#f2c94c"
                      : n.precalc.capitulo === "Cap.19" ? "#c0392b"
                      : "#5b6b7a"
           }
@@ -178,6 +183,7 @@ function mostrar(n) {
       },             
 
       // 6. Al pulsar un nodo: mostrar su información y llevarlo al centro
+      // Adaptado del ejemplo del README de d3-hypertree (Glatzhofer, 2019)
       interaction: {
         onNodeClick: (n, m, l) => {
           mostrar(n);
@@ -189,6 +195,7 @@ function mostrar(n) {
   );
 
   // 7. Animación inicial (sin ella el disco aparece vacío)
+    // Animación inicial según el README de d3-hypertree (Glatzhofer, 2019)
   arbol.initPromise.then(() => new Promise((ok, err) => arbol.animateUp(ok, err)));
 </script>
 </body>
